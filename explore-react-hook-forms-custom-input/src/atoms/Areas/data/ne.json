@@ -1,0 +1,467 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "ne"
+    },
+    {
+        "code": 2,
+        "text": "Antelope Co",
+        "state": "ne"
+    },
+    {
+        "code": 3,
+        "text": "Arthur County",
+        "state": "ne"
+    },
+    {
+        "code": 4,
+        "text": "Banner County",
+        "state": "ne"
+    },
+    {
+        "code": 5,
+        "text": "Blaine County",
+        "state": "ne"
+    },
+    {
+        "code": 6,
+        "text": "Boone County",
+        "state": "ne"
+    },
+    {
+        "code": 7,
+        "text": "Box Butte Co",
+        "state": "ne"
+    },
+    {
+        "code": 8,
+        "text": "Boyd County",
+        "state": "ne"
+    },
+    {
+        "code": 9,
+        "text": "Brown County",
+        "state": "ne"
+    },
+    {
+        "code": 10,
+        "text": "Buffalo County",
+        "state": "ne"
+    },
+    {
+        "code": 11,
+        "text": "Burt County",
+        "state": "ne"
+    },
+    {
+        "code": 12,
+        "text": "Butler County",
+        "state": "ne"
+    },
+    {
+        "code": 13,
+        "text": "Cass County",
+        "state": "ne"
+    },
+    {
+        "code": 14,
+        "text": "Cedar County",
+        "state": "ne"
+    },
+    {
+        "code": 15,
+        "text": "Chase County",
+        "state": "ne"
+    },
+    {
+        "code": 16,
+        "text": "Cherry County",
+        "state": "ne"
+    },
+    {
+        "code": 17,
+        "text": "Cheyenne Co",
+        "state": "ne"
+    },
+    {
+        "code": 18,
+        "text": "Clay County",
+        "state": "ne"
+    },
+    {
+        "code": 19,
+        "text": "Colfax County",
+        "state": "ne"
+    },
+    {
+        "code": 20,
+        "text": "Cuming County",
+        "state": "ne"
+    },
+    {
+        "code": 21,
+        "text": "Custer County",
+        "state": "ne"
+    },
+    {
+        "code": 22,
+        "text": "Dakota County",
+        "state": "ne"
+    },
+    {
+        "code": 23,
+        "text": "Dawes County",
+        "state": "ne"
+    },
+    {
+        "code": 24,
+        "text": "Dawson County",
+        "state": "ne"
+    },
+    {
+        "code": 25,
+        "text": "Deuel County",
+        "state": "ne"
+    },
+    {
+        "code": 26,
+        "text": "Dixon County",
+        "state": "ne"
+    },
+    {
+        "code": 27,
+        "text": "Dodge County",
+        "state": "ne"
+    },
+    {
+        "code": 28,
+        "text": "Douglas County",
+        "state": "ne"
+    },
+    {
+        "code": 29,
+        "text": "Dundy County",
+        "state": "ne"
+    },
+    {
+        "code": 30,
+        "text": "Fillmore County",
+        "state": "ne"
+    },
+    {
+        "code": 31,
+        "text": "Franklin County",
+        "state": "ne"
+    },
+    {
+        "code": 32,
+        "text": "Frontier County",
+        "state": "ne"
+    },
+    {
+        "code": 33,
+        "text": "Furnas County",
+        "state": "ne"
+    },
+    {
+        "code": 34,
+        "text": "Gage County",
+        "state": "ne"
+    },
+    {
+        "code": 35,
+        "text": "Garden County",
+        "state": "ne"
+    },
+    {
+        "code": 36,
+        "text": "Garfield Co",
+        "state": "ne"
+    },
+    {
+        "code": 37,
+        "text": "Gosper County",
+        "state": "ne"
+    },
+    {
+        "code": 38,
+        "text": "Grant County",
+        "state": "ne"
+    },
+    {
+        "code": 39,
+        "text": "Greeley County",
+        "state": "ne"
+    },
+    {
+        "code": 40,
+        "text": "Hall County",
+        "state": "ne"
+    },
+    {
+        "code": 41,
+        "text": "Hamilton Co",
+        "state": "ne"
+    },
+    {
+        "code": 42,
+        "text": "Harlan County",
+        "state": "ne"
+    },
+    {
+        "code": 43,
+        "text": "Hayes County",
+        "state": "ne"
+    },
+    {
+        "code": 44,
+        "text": "Hitchcock County",
+        "state": "ne"
+    },
+    {
+        "code": 45,
+        "text": "Holt County",
+        "state": "ne"
+    },
+    {
+        "code": 46,
+        "text": "Hooker County",
+        "state": "ne"
+    },
+    {
+        "code": 47,
+        "text": "Howard County",
+        "state": "ne"
+    },
+    {
+        "code": 48,
+        "text": "Jefferson Co",
+        "state": "ne"
+    },
+    {
+        "code": 49,
+        "text": "Johnson County",
+        "state": "ne"
+    },
+    {
+        "code": 50,
+        "text": "Kearney County",
+        "state": "ne"
+    },
+    {
+        "code": 51,
+        "text": "Keith County",
+        "state": "ne"
+    },
+    {
+        "code": 52,
+        "text": "Keya Paha Co",
+        "state": "ne"
+    },
+    {
+        "code": 53,
+        "text": "Kimball County",
+        "state": "ne"
+    },
+    {
+        "code": 54,
+        "text": "Knox County",
+        "state": "ne"
+    },
+    {
+        "code": 55,
+        "text": "Lancaster Co",
+        "state": "ne"
+    },
+    {
+        "code": 56,
+        "text": "Lincoln Co",
+        "state": "ne"
+    },
+    {
+        "code": 57,
+        "text": "Logan County",
+        "state": "ne"
+    },
+    {
+        "code": 58,
+        "text": "Loup County",
+        "state": "ne"
+    },
+    {
+        "code": 59,
+        "text": "Madison County",
+        "state": "ne"
+    },
+    {
+        "code": 60,
+        "text": "McPherson Co",
+        "state": "ne"
+    },
+    {
+        "code": 61,
+        "text": "Merrick County",
+        "state": "ne"
+    },
+    {
+        "code": 62,
+        "text": "Morrill County",
+        "state": "ne"
+    },
+    {
+        "code": 63,
+        "text": "Nance County",
+        "state": "ne"
+    },
+    {
+        "code": 64,
+        "text": "Nemaha County",
+        "state": "ne"
+    },
+    {
+        "code": 65,
+        "text": "Nuckolls Co",
+        "state": "ne"
+    },
+    {
+        "code": 66,
+        "text": "Otoe County",
+        "state": "ne"
+    },
+    {
+        "code": 67,
+        "text": "Pawnee County",
+        "state": "ne"
+    },
+    {
+        "code": 68,
+        "text": "Perkins County",
+        "state": "ne"
+    },
+    {
+        "code": 69,
+        "text": "Phelps County",
+        "state": "ne"
+    },
+    {
+        "code": 70,
+        "text": "Pierce County",
+        "state": "ne"
+    },
+    {
+        "code": 71,
+        "text": "Platte County",
+        "state": "ne"
+    },
+    {
+        "code": 72,
+        "text": "Polk County",
+        "state": "ne"
+    },
+    {
+        "code": 73,
+        "text": "Red Willow Co",
+        "state": "ne"
+    },
+    {
+        "code": 74,
+        "text": "Richardson Co",
+        "state": "ne"
+    },
+    {
+        "code": 75,
+        "text": "Rock County",
+        "state": "ne"
+    },
+    {
+        "code": 76,
+        "text": "Saline County",
+        "state": "ne"
+    },
+    {
+        "code": 77,
+        "text": "Sarpy County",
+        "state": "ne"
+    },
+    {
+        "code": 78,
+        "text": "Saunders County",
+        "state": "ne"
+    },
+    {
+        "code": 79,
+        "text": "Scotts Bluff Co",
+        "state": "ne"
+    },
+    {
+        "code": 80,
+        "text": "Seward County",
+        "state": "ne"
+    },
+    {
+        "code": 81,
+        "text": "Sheridan County",
+        "state": "ne"
+    },
+    {
+        "code": 82,
+        "text": "Sherman County",
+        "state": "ne"
+    },
+    {
+        "code": 83,
+        "text": "Sioux County",
+        "state": "ne"
+    },
+    {
+        "code": 84,
+        "text": "Stanton County",
+        "state": "ne"
+    },
+    {
+        "code": 85,
+        "text": "Thayer County",
+        "state": "ne"
+    },
+    {
+        "code": 86,
+        "text": "Thomas County",
+        "state": "ne"
+    },
+    {
+        "code": 87,
+        "text": "Thurston County",
+        "state": "ne"
+    },
+    {
+        "code": 88,
+        "text": "Valley County",
+        "state": "ne"
+    },
+    {
+        "code": 89,
+        "text": "Washington Co",
+        "state": "ne"
+    },
+    {
+        "code": 90,
+        "text": "Wayne County",
+        "state": "ne"
+    },
+    {
+        "code": 91,
+        "text": "Webster County",
+        "state": "ne"
+    },
+    {
+        "code": 92,
+        "text": "Wheeler County",
+        "state": "ne"
+    },
+    {
+        "code": 93,
+        "text": "York County",
+        "state": "ne"
+    }
+]

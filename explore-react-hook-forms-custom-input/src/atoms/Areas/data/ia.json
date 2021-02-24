@@ -1,0 +1,497 @@
+[
+    {
+        "code": 1,
+        "text": "Adair County",
+        "state": "ia"
+    },
+    {
+        "code": 2,
+        "text": "Adams County",
+        "state": "ia"
+    },
+    {
+        "code": 3,
+        "text": "Allamakee County",
+        "state": "ia"
+    },
+    {
+        "code": 4,
+        "text": "Appanoose County",
+        "state": "ia"
+    },
+    {
+        "code": 5,
+        "text": "Audubon County",
+        "state": "ia"
+    },
+    {
+        "code": 6,
+        "text": "Benton County",
+        "state": "ia"
+    },
+    {
+        "code": 7,
+        "text": "Black Hawk County",
+        "state": "ia"
+    },
+    {
+        "code": 8,
+        "text": "Boone County",
+        "state": "ia"
+    },
+    {
+        "code": 9,
+        "text": "Bremer County",
+        "state": "ia"
+    },
+    {
+        "code": 10,
+        "text": "Buchanan County",
+        "state": "ia"
+    },
+    {
+        "code": 11,
+        "text": "Buena Vista Co",
+        "state": "ia"
+    },
+    {
+        "code": 12,
+        "text": "Butler County",
+        "state": "ia"
+    },
+    {
+        "code": 13,
+        "text": "Calhoun County",
+        "state": "ia"
+    },
+    {
+        "code": 14,
+        "text": "Carroll County",
+        "state": "ia"
+    },
+    {
+        "code": 15,
+        "text": "Cass County",
+        "state": "ia"
+    },
+    {
+        "code": 16,
+        "text": "Cedar County",
+        "state": "ia"
+    },
+    {
+        "code": 17,
+        "text": "Cerro Gordo Co",
+        "state": "ia"
+    },
+    {
+        "code": 18,
+        "text": "Cherokee County",
+        "state": "ia"
+    },
+    {
+        "code": 19,
+        "text": "Chickasaw County",
+        "state": "ia"
+    },
+    {
+        "code": 20,
+        "text": "Clarke County",
+        "state": "ia"
+    },
+    {
+        "code": 21,
+        "text": "Clay County",
+        "state": "ia"
+    },
+    {
+        "code": 22,
+        "text": "Clayton County",
+        "state": "ia"
+    },
+    {
+        "code": 23,
+        "text": "Clinton County",
+        "state": "ia"
+    },
+    {
+        "code": 24,
+        "text": "Crawford County",
+        "state": "ia"
+    },
+    {
+        "code": 25,
+        "text": "Dallas County",
+        "state": "ia"
+    },
+    {
+        "code": 26,
+        "text": "Davis County",
+        "state": "ia"
+    },
+    {
+        "code": 27,
+        "text": "Decatur County",
+        "state": "ia"
+    },
+    {
+        "code": 28,
+        "text": "Delaware County",
+        "state": "ia"
+    },
+    {
+        "code": 29,
+        "text": "Des Moines Co",
+        "state": "ia"
+    },
+    {
+        "code": 30,
+        "text": "Dickinson County",
+        "state": "ia"
+    },
+    {
+        "code": 31,
+        "text": "Dubuque County",
+        "state": "ia"
+    },
+    {
+        "code": 32,
+        "text": "Emmet County",
+        "state": "ia"
+    },
+    {
+        "code": 33,
+        "text": "Fayette County",
+        "state": "ia"
+    },
+    {
+        "code": 34,
+        "text": "Floyd County",
+        "state": "ia"
+    },
+    {
+        "code": 35,
+        "text": "Franklin County",
+        "state": "ia"
+    },
+    {
+        "code": 36,
+        "text": "Fremont County",
+        "state": "ia"
+    },
+    {
+        "code": 37,
+        "text": "Greene County",
+        "state": "ia"
+    },
+    {
+        "code": 38,
+        "text": "Grundy County",
+        "state": "ia"
+    },
+    {
+        "code": 39,
+        "text": "Guthrie County",
+        "state": "ia"
+    },
+    {
+        "code": 40,
+        "text": "Hamilton County",
+        "state": "ia"
+    },
+    {
+        "code": 41,
+        "text": "Hancock County",
+        "state": "ia"
+    },
+    {
+        "code": 42,
+        "text": "Hardin County",
+        "state": "ia"
+    },
+    {
+        "code": 43,
+        "text": "Harrison County",
+        "state": "ia"
+    },
+    {
+        "code": 44,
+        "text": "Henry County",
+        "state": "ia"
+    },
+    {
+        "code": 45,
+        "text": "Howard County",
+        "state": "ia"
+    },
+    {
+        "code": 46,
+        "text": "Humboldt County",
+        "state": "ia"
+    },
+    {
+        "code": 47,
+        "text": "Ida County",
+        "state": "ia"
+    },
+    {
+        "code": 48,
+        "text": "Iowa County",
+        "state": "ia"
+    },
+    {
+        "code": 49,
+        "text": "Jackson County",
+        "state": "ia"
+    },
+    {
+        "code": 50,
+        "text": "Jasper County",
+        "state": "ia"
+    },
+    {
+        "code": 51,
+        "text": "Jefferson County",
+        "state": "ia"
+    },
+    {
+        "code": 52,
+        "text": "Johnson County",
+        "state": "ia"
+    },
+    {
+        "code": 53,
+        "text": "Jones County",
+        "state": "ia"
+    },
+    {
+        "code": 54,
+        "text": "Keokuk County",
+        "state": "ia"
+    },
+    {
+        "code": 55,
+        "text": "Kossuth County",
+        "state": "ia"
+    },
+    {
+        "code": 56,
+        "text": "Lee County",
+        "state": "ia"
+    },
+    {
+        "code": 57,
+        "text": "Linn County",
+        "state": "ia"
+    },
+    {
+        "code": 58,
+        "text": "Louisa County",
+        "state": "ia"
+    },
+    {
+        "code": 59,
+        "text": "Lucas County",
+        "state": "ia"
+    },
+    {
+        "code": 60,
+        "text": "Lyon County",
+        "state": "ia"
+    },
+    {
+        "code": 61,
+        "text": "Madison County",
+        "state": "ia"
+    },
+    {
+        "code": 62,
+        "text": "Mahaska County",
+        "state": "ia"
+    },
+    {
+        "code": 63,
+        "text": "Marion County",
+        "state": "ia"
+    },
+    {
+        "code": 64,
+        "text": "Marshall County",
+        "state": "ia"
+    },
+    {
+        "code": 65,
+        "text": "Mills County",
+        "state": "ia"
+    },
+    {
+        "code": 66,
+        "text": "Mitchell County",
+        "state": "ia"
+    },
+    {
+        "code": 67,
+        "text": "Monona County",
+        "state": "ia"
+    },
+    {
+        "code": 68,
+        "text": "Monroe County",
+        "state": "ia"
+    },
+    {
+        "code": 69,
+        "text": "Montgomery Co",
+        "state": "ia"
+    },
+    {
+        "code": 70,
+        "text": "Muscatine County",
+        "state": "ia"
+    },
+    {
+        "code": 71,
+        "text": "OBrien County",
+        "state": "ia"
+    },
+    {
+        "code": 72,
+        "text": "Osceola County",
+        "state": "ia"
+    },
+    {
+        "code": 73,
+        "text": "Page County",
+        "state": "ia"
+    },
+    {
+        "code": 74,
+        "text": "Palo Alto County",
+        "state": "ia"
+    },
+    {
+        "code": 75,
+        "text": "Plymouth County",
+        "state": "ia"
+    },
+    {
+        "code": 76,
+        "text": "Pocahontas County",
+        "state": "ia"
+    },
+    {
+        "code": 77,
+        "text": "Polk County",
+        "state": "ia"
+    },
+    {
+        "code": 78,
+        "text": "Pottawattamie Co",
+        "state": "ia"
+    },
+    {
+        "code": 79,
+        "text": "Poweshiek County",
+        "state": "ia"
+    },
+    {
+        "code": 80,
+        "text": "Ringgold County",
+        "state": "ia"
+    },
+    {
+        "code": 81,
+        "text": "Sac County",
+        "state": "ia"
+    },
+    {
+        "code": 82,
+        "text": "Scott County",
+        "state": "ia"
+    },
+    {
+        "code": 83,
+        "text": "Shelby County",
+        "state": "ia"
+    },
+    {
+        "code": 84,
+        "text": "Sioux County",
+        "state": "ia"
+    },
+    {
+        "code": 85,
+        "text": "Story County",
+        "state": "ia"
+    },
+    {
+        "code": 86,
+        "text": "Tama County",
+        "state": "ia"
+    },
+    {
+        "code": 87,
+        "text": "Taylor County",
+        "state": "ia"
+    },
+    {
+        "code": 88,
+        "text": "Union County",
+        "state": "ia"
+    },
+    {
+        "code": 89,
+        "text": "Van Buren Co",
+        "state": "ia"
+    },
+    {
+        "code": 90,
+        "text": "Wapello County",
+        "state": "ia"
+    },
+    {
+        "code": 91,
+        "text": "Warren County",
+        "state": "ia"
+    },
+    {
+        "code": 92,
+        "text": "Washington Co",
+        "state": "ia"
+    },
+    {
+        "code": 93,
+        "text": "Wayne County",
+        "state": "ia"
+    },
+    {
+        "code": 94,
+        "text": "Webster County",
+        "state": "ia"
+    },
+    {
+        "code": 95,
+        "text": "Winnebago County",
+        "state": "ia"
+    },
+    {
+        "code": 96,
+        "text": "Winneshiek Co",
+        "state": "ia"
+    },
+    {
+        "code": 97,
+        "text": "Woodbury County",
+        "state": "ia"
+    },
+    {
+        "code": 98,
+        "text": "Worth County",
+        "state": "ia"
+    },
+    {
+        "code": 99,
+        "text": "Wright County",
+        "state": "ia"
+    }
+]

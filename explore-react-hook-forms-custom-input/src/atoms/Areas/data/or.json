@@ -1,0 +1,187 @@
+[
+    {
+        "code": 1,
+        "text": "Baker County",
+        "state": "or"
+    },
+    {
+        "code": 2,
+        "text": "Benton County",
+        "state": "or"
+    },
+    {
+        "code": 3,
+        "text": "Clackamas County",
+        "state": "or"
+    },
+    {
+        "code": 4,
+        "text": "Clatsop County",
+        "state": "or"
+    },
+    {
+        "code": 5,
+        "text": "Columbia County",
+        "state": "or"
+    },
+    {
+        "code": 6,
+        "text": "Coos County",
+        "state": "or"
+    },
+    {
+        "code": 7,
+        "text": "Crook County",
+        "state": "or"
+    },
+    {
+        "code": 8,
+        "text": "Curry County",
+        "state": "or"
+    },
+    {
+        "code": 9,
+        "text": "Deschutes County",
+        "state": "or"
+    },
+    {
+        "code": 10,
+        "text": "Douglas County",
+        "state": "or"
+    },
+    {
+        "code": 11,
+        "text": "Gilliam County",
+        "state": "or"
+    },
+    {
+        "code": 12,
+        "text": "Grant County",
+        "state": "or"
+    },
+    {
+        "code": 13,
+        "text": "Harney County",
+        "state": "or"
+    },
+    {
+        "code": 14,
+        "text": "Hood River County",
+        "state": "or"
+    },
+    {
+        "code": 15,
+        "text": "Jackson County",
+        "state": "or"
+    },
+    {
+        "code": 16,
+        "text": "Jefferson County",
+        "state": "or"
+    },
+    {
+        "code": 17,
+        "text": "Josephine County",
+        "state": "or"
+    },
+    {
+        "code": 18,
+        "text": "Klamath County",
+        "state": "or"
+    },
+    {
+        "code": 19,
+        "text": "Lake County",
+        "state": "or"
+    },
+    {
+        "code": 20,
+        "text": "Lane County",
+        "state": "or"
+    },
+    {
+        "code": 21,
+        "text": "Lincoln County",
+        "state": "or"
+    },
+    {
+        "code": 22,
+        "text": "Linn County",
+        "state": "or"
+    },
+    {
+        "code": 23,
+        "text": "Malheur County",
+        "state": "or"
+    },
+    {
+        "code": 24,
+        "text": "Marion County",
+        "state": "or"
+    },
+    {
+        "code": 25,
+        "text": "Morrow County",
+        "state": "or"
+    },
+    {
+        "code": 26,
+        "text": "Multnomah County",
+        "state": "or"
+    },
+    {
+        "code": 27,
+        "text": "Polk County",
+        "state": "or"
+    },
+    {
+        "code": 28,
+        "text": "Portland",
+        "state": "or"
+    },
+    {
+        "code": 29,
+        "text": "Sherman County",
+        "state": "or"
+    },
+    {
+        "code": 30,
+        "text": "Tillamook County",
+        "state": "or"
+    },
+    {
+        "code": 31,
+        "text": "Umatilla County",
+        "state": "or"
+    },
+    {
+        "code": 32,
+        "text": "Union County",
+        "state": "or"
+    },
+    {
+        "code": 33,
+        "text": "Wallowa County",
+        "state": "or"
+    },
+    {
+        "code": 34,
+        "text": "Wasco County",
+        "state": "or"
+    },
+    {
+        "code": 35,
+        "text": "Washington County",
+        "state": "or"
+    },
+    {
+        "code": 36,
+        "text": "Wheeler County",
+        "state": "or"
+    },
+    {
+        "code": 37,
+        "text": "Yamhill County",
+        "state": "or"
+    }
+]

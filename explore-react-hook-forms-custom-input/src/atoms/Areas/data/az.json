@@ -1,0 +1,92 @@
+[
+    {
+        "code": 1,
+        "text": "Apache County",
+        "state": "az"
+    },
+    {
+        "code": 2,
+        "text": "Cochise County",
+        "state": "az"
+    },
+    {
+        "code": 3,
+        "text": "Coconino County",
+        "state": "az"
+    },
+    {
+        "code": 4,
+        "text": "Gila County",
+        "state": "az"
+    },
+    {
+        "code": 5,
+        "text": "Graham County",
+        "state": "az"
+    },
+    {
+        "code": 6,
+        "text": "Greenlee County",
+        "state": "az"
+    },
+    {
+        "code": 7,
+        "text": "La Paz County",
+        "state": "az"
+    },
+    {
+        "code": 8,
+        "text": "Maricopa County",
+        "state": "az"
+    },
+    {
+        "code": 9,
+        "text": "Mesa",
+        "state": "az"
+    },
+    {
+        "code": 10,
+        "text": "Mohave County",
+        "state": "az"
+    },
+    {
+        "code": 11,
+        "text": "Navajo County",
+        "state": "az"
+    },
+    {
+        "code": 12,
+        "text": "Phoenix",
+        "state": "az"
+    },
+    {
+        "code": 13,
+        "text": "Pima County",
+        "state": "az"
+    },
+    {
+        "code": 14,
+        "text": "Pinal County",
+        "state": "az"
+    },
+    {
+        "code": 15,
+        "text": "Santa Cruz Co",
+        "state": "az"
+    },
+    {
+        "code": 16,
+        "text": "Tucson",
+        "state": "az"
+    },
+    {
+        "code": 17,
+        "text": "Yavapai County",
+        "state": "az"
+    },
+    {
+        "code": 18,
+        "text": "Yuma County",
+        "state": "az"
+    }
+]

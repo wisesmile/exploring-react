@@ -1,0 +1,227 @@
+[
+    {
+        "code": 1,
+        "text": "Ada County",
+        "state": "id"
+    },
+    {
+        "code": 2,
+        "text": "Adams County",
+        "state": "id"
+    },
+    {
+        "code": 3,
+        "text": "Bannock County",
+        "state": "id"
+    },
+    {
+        "code": 4,
+        "text": "Bear Lake County",
+        "state": "id"
+    },
+    {
+        "code": 5,
+        "text": "Benewah County",
+        "state": "id"
+    },
+    {
+        "code": 6,
+        "text": "Bingham County",
+        "state": "id"
+    },
+    {
+        "code": 7,
+        "text": "Blaine County",
+        "state": "id"
+    },
+    {
+        "code": 8,
+        "text": "Boise City",
+        "state": "id"
+    },
+    {
+        "code": 9,
+        "text": "Boise County",
+        "state": "id"
+    },
+    {
+        "code": 10,
+        "text": "Bonner County",
+        "state": "id"
+    },
+    {
+        "code": 11,
+        "text": "Bonneville County",
+        "state": "id"
+    },
+    {
+        "code": 12,
+        "text": "Boundary County",
+        "state": "id"
+    },
+    {
+        "code": 13,
+        "text": "Butte County",
+        "state": "id"
+    },
+    {
+        "code": 14,
+        "text": "Camas County",
+        "state": "id"
+    },
+    {
+        "code": 15,
+        "text": "Canyon County",
+        "state": "id"
+    },
+    {
+        "code": 16,
+        "text": "Caribou County",
+        "state": "id"
+    },
+    {
+        "code": 17,
+        "text": "Cassia County",
+        "state": "id"
+    },
+    {
+        "code": 18,
+        "text": "Clark County",
+        "state": "id"
+    },
+    {
+        "code": 19,
+        "text": "Clearwater County",
+        "state": "id"
+    },
+    {
+        "code": 20,
+        "text": "Custer County",
+        "state": "id"
+    },
+    {
+        "code": 21,
+        "text": "Elmore County",
+        "state": "id"
+    },
+    {
+        "code": 22,
+        "text": "Franklin County",
+        "state": "id"
+    },
+    {
+        "code": 23,
+        "text": "Fremont County",
+        "state": "id"
+    },
+    {
+        "code": 24,
+        "text": "Gem County",
+        "state": "id"
+    },
+    {
+        "code": 25,
+        "text": "Gooding County",
+        "state": "id"
+    },
+    {
+        "code": 26,
+        "text": "Idaho County",
+        "state": "id"
+    },
+    {
+        "code": 27,
+        "text": "Jefferson County",
+        "state": "id"
+    },
+    {
+        "code": 28,
+        "text": "Jerome County",
+        "state": "id"
+    },
+    {
+        "code": 29,
+        "text": "Kootenai County",
+        "state": "id"
+    },
+    {
+        "code": 30,
+        "text": "Latah County",
+        "state": "id"
+    },
+    {
+        "code": 31,
+        "text": "Lemhi County",
+        "state": "id"
+    },
+    {
+        "code": 32,
+        "text": "Lewis County",
+        "state": "id"
+    },
+    {
+        "code": 33,
+        "text": "Lincoln County",
+        "state": "id"
+    },
+    {
+        "code": 34,
+        "text": "Madison County",
+        "state": "id"
+    },
+    {
+        "code": 35,
+        "text": "Minidoka County",
+        "state": "id"
+    },
+    {
+        "code": 36,
+        "text": "Nez Perce County",
+        "state": "id"
+    },
+    {
+        "code": 37,
+        "text": "Oneida County",
+        "state": "id"
+    },
+    {
+        "code": 38,
+        "text": "Owyhee County",
+        "state": "id"
+    },
+    {
+        "code": 39,
+        "text": "Payette County",
+        "state": "id"
+    },
+    {
+        "code": 40,
+        "text": "Power County",
+        "state": "id"
+    },
+    {
+        "code": 41,
+        "text": "Shoshone County",
+        "state": "id"
+    },
+    {
+        "code": 42,
+        "text": "Teton County",
+        "state": "id"
+    },
+    {
+        "code": 43,
+        "text": "Twin Falls County",
+        "state": "id"
+    },
+    {
+        "code": 44,
+        "text": "Valley County",
+        "state": "id"
+    },
+    {
+        "code": 45,
+        "text": "Washington County",
+        "state": "id"
+    }
+]

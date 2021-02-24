@@ -1,0 +1,52 @@
+[
+    {
+        "code": 1,
+        "text": "Belknap County",
+        "state": "nh"
+    },
+    {
+        "code": 2,
+        "text": "Carroll County",
+        "state": "nh"
+    },
+    {
+        "code": 3,
+        "text": "Cheshire County",
+        "state": "nh"
+    },
+    {
+        "code": 4,
+        "text": "Coos County",
+        "state": "nh"
+    },
+    {
+        "code": 5,
+        "text": "Grafton County",
+        "state": "nh"
+    },
+    {
+        "code": 6,
+        "text": "Hillsborough County",
+        "state": "nh"
+    },
+    {
+        "code": 7,
+        "text": "Merrimack County",
+        "state": "nh"
+    },
+    {
+        "code": 8,
+        "text": "Rockingham County",
+        "state": "nh"
+    },
+    {
+        "code": 9,
+        "text": "Strafford County",
+        "state": "nh"
+    },
+    {
+        "code": 10,
+        "text": "Sullivan County",
+        "state": "nh"
+    }
+]

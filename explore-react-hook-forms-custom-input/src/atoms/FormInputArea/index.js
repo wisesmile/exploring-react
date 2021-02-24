@@ -1,0 +1,1 @@
+export { FormInputArea } from "./FormInput";

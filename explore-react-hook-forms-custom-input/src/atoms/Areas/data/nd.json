@@ -1,0 +1,267 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "nd"
+    },
+    {
+        "code": 2,
+        "text": "Barnes County",
+        "state": "nd"
+    },
+    {
+        "code": 3,
+        "text": "Benson County",
+        "state": "nd"
+    },
+    {
+        "code": 4,
+        "text": "Billings County",
+        "state": "nd"
+    },
+    {
+        "code": 5,
+        "text": "Bottineau County",
+        "state": "nd"
+    },
+    {
+        "code": 6,
+        "text": "Bowman County",
+        "state": "nd"
+    },
+    {
+        "code": 7,
+        "text": "Burke County",
+        "state": "nd"
+    },
+    {
+        "code": 8,
+        "text": "Burleigh County",
+        "state": "nd"
+    },
+    {
+        "code": 9,
+        "text": "Cass County",
+        "state": "nd"
+    },
+    {
+        "code": 10,
+        "text": "Cavalier County",
+        "state": "nd"
+    },
+    {
+        "code": 11,
+        "text": "Dickey County",
+        "state": "nd"
+    },
+    {
+        "code": 12,
+        "text": "Divide County",
+        "state": "nd"
+    },
+    {
+        "code": 13,
+        "text": "Dunn County",
+        "state": "nd"
+    },
+    {
+        "code": 14,
+        "text": "Eddy County",
+        "state": "nd"
+    },
+    {
+        "code": 15,
+        "text": "Emmons County",
+        "state": "nd"
+    },
+    {
+        "code": 16,
+        "text": "Foster County",
+        "state": "nd"
+    },
+    {
+        "code": 17,
+        "text": "Golden Valley Co",
+        "state": "nd"
+    },
+    {
+        "code": 18,
+        "text": "Grand Forks Co",
+        "state": "nd"
+    },
+    {
+        "code": 19,
+        "text": "Grant County",
+        "state": "nd"
+    },
+    {
+        "code": 20,
+        "text": "Griggs County",
+        "state": "nd"
+    },
+    {
+        "code": 21,
+        "text": "Hettinger County",
+        "state": "nd"
+    },
+    {
+        "code": 22,
+        "text": "Kidder County",
+        "state": "nd"
+    },
+    {
+        "code": 23,
+        "text": "LaMoure County",
+        "state": "nd"
+    },
+    {
+        "code": 24,
+        "text": "Logan County",
+        "state": "nd"
+    },
+    {
+        "code": 25,
+        "text": "McHenry County",
+        "state": "nd"
+    },
+    {
+        "code": 26,
+        "text": "McIntosh County",
+        "state": "nd"
+    },
+    {
+        "code": 27,
+        "text": "McKenzie County",
+        "state": "nd"
+    },
+    {
+        "code": 28,
+        "text": "McLean County",
+        "state": "nd"
+    },
+    {
+        "code": 29,
+        "text": "Mercer County",
+        "state": "nd"
+    },
+    {
+        "code": 30,
+        "text": "Morton County",
+        "state": "nd"
+    },
+    {
+        "code": 31,
+        "text": "Mountrail Co",
+        "state": "nd"
+    },
+    {
+        "code": 32,
+        "text": "Nelson County",
+        "state": "nd"
+    },
+    {
+        "code": 33,
+        "text": "Oliver County",
+        "state": "nd"
+    },
+    {
+        "code": 34,
+        "text": "Pembina County",
+        "state": "nd"
+    },
+    {
+        "code": 35,
+        "text": "Pierce County",
+        "state": "nd"
+    },
+    {
+        "code": 36,
+        "text": "Ramsey County",
+        "state": "nd"
+    },
+    {
+        "code": 37,
+        "text": "Ransom County",
+        "state": "nd"
+    },
+    {
+        "code": 38,
+        "text": "Renville County",
+        "state": "nd"
+    },
+    {
+        "code": 39,
+        "text": "Richland County",
+        "state": "nd"
+    },
+    {
+        "code": 40,
+        "text": "Rolette County",
+        "state": "nd"
+    },
+    {
+        "code": 41,
+        "text": "Sargent County",
+        "state": "nd"
+    },
+    {
+        "code": 42,
+        "text": "Sheridan County",
+        "state": "nd"
+    },
+    {
+        "code": 43,
+        "text": "Sioux County",
+        "state": "nd"
+    },
+    {
+        "code": 44,
+        "text": "Slope County",
+        "state": "nd"
+    },
+    {
+        "code": 45,
+        "text": "Stark County",
+        "state": "nd"
+    },
+    {
+        "code": 46,
+        "text": "Steele County",
+        "state": "nd"
+    },
+    {
+        "code": 47,
+        "text": "Stutsman County",
+        "state": "nd"
+    },
+    {
+        "code": 48,
+        "text": "Towner County",
+        "state": "nd"
+    },
+    {
+        "code": 49,
+        "text": "Traill County",
+        "state": "nd"
+    },
+    {
+        "code": 50,
+        "text": "Walsh County",
+        "state": "nd"
+    },
+    {
+        "code": 51,
+        "text": "Ward County",
+        "state": "nd"
+    },
+    {
+        "code": 52,
+        "text": "Wells County",
+        "state": "nd"
+    },
+    {
+        "code": 53,
+        "text": "Williams Co",
+        "state": "nd"
+    }
+]

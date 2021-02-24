@@ -1,0 +1,202 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "wa"
+    },
+    {
+        "code": 2,
+        "text": "Asotin County",
+        "state": "wa"
+    },
+    {
+        "code": 3,
+        "text": "Benton County",
+        "state": "wa"
+    },
+    {
+        "code": 4,
+        "text": "Chelan County",
+        "state": "wa"
+    },
+    {
+        "code": 5,
+        "text": "Clallam County",
+        "state": "wa"
+    },
+    {
+        "code": 6,
+        "text": "Clark County",
+        "state": "wa"
+    },
+    {
+        "code": 7,
+        "text": "Columbia County",
+        "state": "wa"
+    },
+    {
+        "code": 8,
+        "text": "Cowlitz County",
+        "state": "wa"
+    },
+    {
+        "code": 9,
+        "text": "Douglas County",
+        "state": "wa"
+    },
+    {
+        "code": 10,
+        "text": "Ferry County",
+        "state": "wa"
+    },
+    {
+        "code": 11,
+        "text": "Franklin County",
+        "state": "wa"
+    },
+    {
+        "code": 12,
+        "text": "Garfield County",
+        "state": "wa"
+    },
+    {
+        "code": 13,
+        "text": "Grant County",
+        "state": "wa"
+    },
+    {
+        "code": 14,
+        "text": "Grays Harbor Co",
+        "state": "wa"
+    },
+    {
+        "code": 15,
+        "text": "Island County",
+        "state": "wa"
+    },
+    {
+        "code": 16,
+        "text": "Jefferson County",
+        "state": "wa"
+    },
+    {
+        "code": 17,
+        "text": "King County",
+        "state": "wa"
+    },
+    {
+        "code": 18,
+        "text": "Kitsap County",
+        "state": "wa"
+    },
+    {
+        "code": 19,
+        "text": "Kittitas County",
+        "state": "wa"
+    },
+    {
+        "code": 20,
+        "text": "Klickitat County",
+        "state": "wa"
+    },
+    {
+        "code": 21,
+        "text": "Lewis County",
+        "state": "wa"
+    },
+    {
+        "code": 22,
+        "text": "Lincoln County",
+        "state": "wa"
+    },
+    {
+        "code": 23,
+        "text": "Mason County",
+        "state": "wa"
+    },
+    {
+        "code": 24,
+        "text": "Okanogan County",
+        "state": "wa"
+    },
+    {
+        "code": 25,
+        "text": "Pacific County",
+        "state": "wa"
+    },
+    {
+        "code": 26,
+        "text": "Pend Oreille Co",
+        "state": "wa"
+    },
+    {
+        "code": 27,
+        "text": "Pierce County",
+        "state": "wa"
+    },
+    {
+        "code": 28,
+        "text": "San Juan County",
+        "state": "wa"
+    },
+    {
+        "code": 29,
+        "text": "Seattle",
+        "state": "wa"
+    },
+    {
+        "code": 30,
+        "text": "Skagit County",
+        "state": "wa"
+    },
+    {
+        "code": 31,
+        "text": "Skamania County",
+        "state": "wa"
+    },
+    {
+        "code": 32,
+        "text": "Snohomish County",
+        "state": "wa"
+    },
+    {
+        "code": 33,
+        "text": "Spokane County",
+        "state": "wa"
+    },
+    {
+        "code": 34,
+        "text": "Stevens County",
+        "state": "wa"
+    },
+    {
+        "code": 35,
+        "text": "Thurston County",
+        "state": "wa"
+    },
+    {
+        "code": 36,
+        "text": "Wahkiakum County",
+        "state": "wa"
+    },
+    {
+        "code": 37,
+        "text": "Walla Walla County",
+        "state": "wa"
+    },
+    {
+        "code": 38,
+        "text": "Whatcom County",
+        "state": "wa"
+    },
+    {
+        "code": 39,
+        "text": "Whitman County",
+        "state": "wa"
+    },
+    {
+        "code": 40,
+        "text": "Yakima County",
+        "state": "wa"
+    }
+]

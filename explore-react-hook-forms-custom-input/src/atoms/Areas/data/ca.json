@@ -1,0 +1,407 @@
+[
+    {
+        "code": 1,
+        "text": "Alameda City",
+        "state": "ca"
+    },
+    {
+        "code": 2,
+        "text": "Alameda County",
+        "state": "ca"
+    },
+    {
+        "code": 3,
+        "text": "Albany City",
+        "state": "ca"
+    },
+    {
+        "code": 4,
+        "text": "Alpine County",
+        "state": "ca"
+    },
+    {
+        "code": 5,
+        "text": "Amador County",
+        "state": "ca"
+    },
+    {
+        "code": 6,
+        "text": "Berkeley City",
+        "state": "ca"
+    },
+    {
+        "code": 7,
+        "text": "Butte County",
+        "state": "ca"
+    },
+    {
+        "code": 8,
+        "text": "Calaveras County",
+        "state": "ca"
+    },
+    {
+        "code": 9,
+        "text": "Colusa County",
+        "state": "ca"
+    },
+    {
+        "code": 10,
+        "text": "Contra Costa Co",
+        "state": "ca"
+    },
+    {
+        "code": 11,
+        "text": "Culver City",
+        "state": "ca"
+    },
+    {
+        "code": 12,
+        "text": "Del Norte County",
+        "state": "ca"
+    },
+    {
+        "code": 13,
+        "text": "El Dorado County",
+        "state": "ca"
+    },
+    {
+        "code": 14,
+        "text": "Fresno County",
+        "state": "ca"
+    },
+    {
+        "code": 15,
+        "text": "Glenn County",
+        "state": "ca"
+    },
+    {
+        "code": 16,
+        "text": "Hayward City",
+        "state": "ca"
+    },
+    {
+        "code": 17,
+        "text": "Humboldt County",
+        "state": "ca"
+    },
+    {
+        "code": 18,
+        "text": "Imperial County",
+        "state": "ca"
+    },
+    {
+        "code": 19,
+        "text": "Inyo County",
+        "state": "ca"
+    },
+    {
+        "code": 20,
+        "text": "Kern County",
+        "state": "ca"
+    },
+    {
+        "code": 21,
+        "text": "Kings County",
+        "state": "ca"
+    },
+    {
+        "code": 22,
+        "text": "Lake County",
+        "state": "ca"
+    },
+    {
+        "code": 23,
+        "text": "Lassen County",
+        "state": "ca"
+    },
+    {
+        "code": 24,
+        "text": "Los Angeles City",
+        "state": "ca"
+    },
+    {
+        "code": 25,
+        "text": "Los Angeles Co",
+        "state": "ca"
+    },
+    {
+        "code": 26,
+        "text": "Madera County",
+        "state": "ca"
+    },
+    {
+        "code": 27,
+        "text": "Marin County",
+        "state": "ca"
+    },
+    {
+        "code": 28,
+        "text": "Mariposa County",
+        "state": "ca"
+    },
+    {
+        "code": 29,
+        "text": "Mendocino County",
+        "state": "ca"
+    },
+    {
+        "code": 30,
+        "text": "Merced County",
+        "state": "ca"
+    },
+    {
+        "code": 31,
+        "text": "Modoc County",
+        "state": "ca"
+    },
+    {
+        "code": 32,
+        "text": "Mono County",
+        "state": "ca"
+    },
+    {
+        "code": 33,
+        "text": "Monterey County",
+        "state": "ca"
+    },
+    {
+        "code": 34,
+        "text": "Moutain View City",
+        "state": "ca"
+    },
+    {
+        "code": 35,
+        "text": "Napa County",
+        "state": "ca"
+    },
+    {
+        "code": 36,
+        "text": "Nevada County",
+        "state": "ca"
+    },
+    {
+        "code": 37,
+        "text": "Oakland City",
+        "state": "ca"
+    },
+    {
+        "code": 38,
+        "text": "Orange County",
+        "state": "ca"
+    },
+    {
+        "code": 39,
+        "text": "Palo Alto City",
+        "state": "ca"
+    },
+    {
+        "code": 40,
+        "text": "Petaluma City",
+        "state": "ca"
+    },
+    {
+        "code": 41,
+        "text": "Piedmont City",
+        "state": "ca"
+    },
+    {
+        "code": 42,
+        "text": "Placer County",
+        "state": "ca"
+    },
+    {
+        "code": 43,
+        "text": "Plumas County",
+        "state": "ca"
+    },
+    {
+        "code": 44,
+        "text": "Pomona City",
+        "state": "ca"
+    },
+    {
+        "code": 45,
+        "text": "Redondo Beach City",
+        "state": "ca"
+    },
+    {
+        "code": 46,
+        "text": "Richmond City",
+        "state": "ca"
+    },
+    {
+        "code": 47,
+        "text": "Riverside City",
+        "state": "ca"
+    },
+    {
+        "code": 48,
+        "text": "Riverside County",
+        "state": "ca"
+    },
+    {
+        "code": 49,
+        "text": "Sacramento City",
+        "state": "ca"
+    },
+    {
+        "code": 50,
+        "text": "Sacramento County",
+        "state": "ca"
+    },
+    {
+        "code": 51,
+        "text": "San Benito County",
+        "state": "ca"
+    },
+    {
+        "code": 52,
+        "text": "San Bernardino Co",
+        "state": "ca"
+    },
+    {
+        "code": 53,
+        "text": "San Diego County",
+        "state": "ca"
+    },
+    {
+        "code": 54,
+        "text": "San Diego",
+        "state": "ca"
+    },
+    {
+        "code": 55,
+        "text": "San Francisco Co",
+        "state": "ca"
+    },
+    {
+        "code": 56,
+        "text": "San Joaquin County",
+        "state": "ca"
+    },
+    {
+        "code": 57,
+        "text": "San Jose City",
+        "state": "ca"
+    },
+    {
+        "code": 58,
+        "text": "San Luis Obispo Co",
+        "state": "ca"
+    },
+    {
+        "code": 59,
+        "text": "San Mateo City",
+        "state": "ca"
+    },
+    {
+        "code": 60,
+        "text": "San Mateo County",
+        "state": "ca"
+    },
+    {
+        "code": 61,
+        "text": "San Pablo City",
+        "state": "ca"
+    },
+    {
+        "code": 62,
+        "text": "San Rafael City",
+        "state": "ca"
+    },
+    {
+        "code": 63,
+        "text": "Santa Barbara Co",
+        "state": "ca"
+    },
+    {
+        "code": 64,
+        "text": "Santa Clara County",
+        "state": "ca"
+    },
+    {
+        "code": 65,
+        "text": "Santa Cruz County",
+        "state": "ca"
+    },
+    {
+        "code": 66,
+        "text": "Santa Monica City",
+        "state": "ca"
+    },
+    {
+        "code": 67,
+        "text": "Santa Rosa City",
+        "state": "ca"
+    },
+    {
+        "code": 68,
+        "text": "Shasta County",
+        "state": "ca"
+    },
+    {
+        "code": 69,
+        "text": "Sierra County",
+        "state": "ca"
+    },
+    {
+        "code": 70,
+        "text": "Siskiyou County",
+        "state": "ca"
+    },
+    {
+        "code": 71,
+        "text": "Solano County",
+        "state": "ca"
+    },
+    {
+        "code": 72,
+        "text": "Sonoma County",
+        "state": "ca"
+    },
+    {
+        "code": 73,
+        "text": "Stanislaus County",
+        "state": "ca"
+    },
+    {
+        "code": 74,
+        "text": "Sutter County",
+        "state": "ca"
+    },
+    {
+        "code": 75,
+        "text": "Tehama County",
+        "state": "ca"
+    },
+    {
+        "code": 76,
+        "text": "Trinity County",
+        "state": "ca"
+    },
+    {
+        "code": 77,
+        "text": "Tulare County",
+        "state": "ca"
+    },
+    {
+        "code": 78,
+        "text": "Tuolumne County",
+        "state": "ca"
+    },
+    {
+        "code": 79,
+        "text": "Ventura County",
+        "state": "ca"
+    },
+    {
+        "code": 80,
+        "text": "Yolo County",
+        "state": "ca"
+    },
+    {
+        "code": 81,
+        "text": "Yuba County",
+        "state": "ca"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "code": 1,
+        "text": "Aleutians East Borough",
+        "state": "ak"
+    },
+    {
+        "code": 2,
+        "text": "Aleutians West Area",
+        "state": "ak"
+    },
+    {
+        "code": 3,
+        "text": "Anchorage Municipality",
+        "state": "ak"
+    },
+    {
+        "code": 4,
+        "text": "Bethel Census Area",
+        "state": "ak"
+    },
+    {
+        "code": 5,
+        "text": "Bristol Bay Borough",
+        "state": "ak"
+    },
+    {
+        "code": 6,
+        "text": "Denali Borough",
+        "state": "ak"
+    },
+    {
+        "code": 7,
+        "text": "Dillingham Area",
+        "state": "ak"
+    },
+    {
+        "code": 8,
+        "text": "Fairbanks North Star",
+        "state": "ak"
+    },
+    {
+        "code": 9,
+        "text": "Haines Borough",
+        "state": "ak"
+    },
+    {
+        "code": 10,
+        "text": "Hoonah-Angoon Area",
+        "state": "ak"
+    },
+    {
+        "code": 11,
+        "text": "Juneau City and Borough",
+        "state": "ak"
+    },
+    {
+        "code": 12,
+        "text": "Kenai Peninsula Borough",
+        "state": "ak"
+    },
+    {
+        "code": 13,
+        "text": "Ketchikan Gateway Borough",
+        "state": "ak"
+    },
+    {
+        "code": 14,
+        "text": "Kodiak Island Borough",
+        "state": "ak"
+    },
+    {
+        "code": 15,
+        "text": "Kusilvak Census Area",
+        "state": "ak"
+    },
+    {
+        "code": 16,
+        "text": "Lake and Peninsula Borough",
+        "state": "ak"
+    },
+    {
+        "code": 17,
+        "text": "Matanuska-Susitna Borough",
+        "state": "ak"
+    },
+    {
+        "code": 18,
+        "text": "Nome Census Area",
+        "state": "ak"
+    },
+    {
+        "code": 19,
+        "text": "North Slope Borough",
+        "state": "ak"
+    },
+    {
+        "code": 20,
+        "text": "Northwest Arctic Borough",
+        "state": "ak"
+    },
+    {
+        "code": 21,
+        "text": "Petersburg Borough",
+        "state": "ak"
+    },
+    {
+        "code": 22,
+        "text": "Prince of Wales-Hyder",
+        "state": "ak"
+    },
+    {
+        "code": 23,
+        "text": "Sitka City and Borough",
+        "state": "ak"
+    },
+    {
+        "code": 24,
+        "text": "Skagway Municipality",
+        "state": "ak"
+    },
+    {
+        "code": 25,
+        "text": "Southeast Fairbanks",
+        "state": "ak"
+    },
+    {
+        "code": 26,
+        "text": "Valdez-Cordova Area",
+        "state": "ak"
+    },
+    {
+        "code": 27,
+        "text": "Wrangell City and Borough",
+        "state": "ak"
+    },
+    {
+        "code": 28,
+        "text": "Yakutat City and Borough",
+        "state": "ak"
+    },
+    {
+        "code": 29,
+        "text": "Yukon-Koyukuk Area",
+        "state": "ak"
+    }
+]

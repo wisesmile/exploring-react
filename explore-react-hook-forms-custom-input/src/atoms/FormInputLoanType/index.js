@@ -1,0 +1,1 @@
+export { FormInputLoanType } from "./FormInput";

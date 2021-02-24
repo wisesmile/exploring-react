@@ -1,0 +1,172 @@
+[
+    {
+        "code": 1,
+        "text": "Albuquerque",
+        "state": "nm"
+    },
+    {
+        "code": 2,
+        "text": "Bernalillo County",
+        "state": "nm"
+    },
+    {
+        "code": 3,
+        "text": "Catron County",
+        "state": "nm"
+    },
+    {
+        "code": 4,
+        "text": "Chaves County",
+        "state": "nm"
+    },
+    {
+        "code": 5,
+        "text": "Cibola County",
+        "state": "nm"
+    },
+    {
+        "code": 6,
+        "text": "Colfax County",
+        "state": "nm"
+    },
+    {
+        "code": 7,
+        "text": "Curry County",
+        "state": "nm"
+    },
+    {
+        "code": 8,
+        "text": "De Baca County",
+        "state": "nm"
+    },
+    {
+        "code": 9,
+        "text": "Dona Ana County",
+        "state": "nm"
+    },
+    {
+        "code": 10,
+        "text": "Eddy County",
+        "state": "nm"
+    },
+    {
+        "code": 11,
+        "text": "Grant County",
+        "state": "nm"
+    },
+    {
+        "code": 12,
+        "text": "Guadalupe County",
+        "state": "nm"
+    },
+    {
+        "code": 13,
+        "text": "Harding County",
+        "state": "nm"
+    },
+    {
+        "code": 14,
+        "text": "Hidalgo County",
+        "state": "nm"
+    },
+    {
+        "code": 15,
+        "text": "Lea County",
+        "state": "nm"
+    },
+    {
+        "code": 16,
+        "text": "Lincoln County",
+        "state": "nm"
+    },
+    {
+        "code": 17,
+        "text": "Los Alamos County",
+        "state": "nm"
+    },
+    {
+        "code": 18,
+        "text": "Luna County",
+        "state": "nm"
+    },
+    {
+        "code": 19,
+        "text": "McKinley County",
+        "state": "nm"
+    },
+    {
+        "code": 20,
+        "text": "Mora County",
+        "state": "nm"
+    },
+    {
+        "code": 21,
+        "text": "Otero County",
+        "state": "nm"
+    },
+    {
+        "code": 22,
+        "text": "Quay County",
+        "state": "nm"
+    },
+    {
+        "code": 23,
+        "text": "Rio Arriba County",
+        "state": "nm"
+    },
+    {
+        "code": 24,
+        "text": "Roosevelt County",
+        "state": "nm"
+    },
+    {
+        "code": 25,
+        "text": "San Juan County",
+        "state": "nm"
+    },
+    {
+        "code": 26,
+        "text": "San Miguel County",
+        "state": "nm"
+    },
+    {
+        "code": 27,
+        "text": "Sandoval County",
+        "state": "nm"
+    },
+    {
+        "code": 28,
+        "text": "Santa Fe County",
+        "state": "nm"
+    },
+    {
+        "code": 29,
+        "text": "Sierra County",
+        "state": "nm"
+    },
+    {
+        "code": 30,
+        "text": "Socorro County",
+        "state": "nm"
+    },
+    {
+        "code": 31,
+        "text": "Taos County",
+        "state": "nm"
+    },
+    {
+        "code": 32,
+        "text": "Torrance County",
+        "state": "nm"
+    },
+    {
+        "code": 33,
+        "text": "Union County",
+        "state": "nm"
+    },
+    {
+        "code": 34,
+        "text": "Valencia County",
+        "state": "nm"
+    }
+]

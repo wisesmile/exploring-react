@@ -1,0 +1,1 @@
+export { FormInputTip } from "./FormInput";

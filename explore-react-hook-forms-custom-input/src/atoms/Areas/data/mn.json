@@ -1,0 +1,437 @@
+[
+    {
+        "code": 1,
+        "text": "Aitkin County",
+        "state": "mn"
+    },
+    {
+        "code": 2,
+        "text": "Anoka County",
+        "state": "mn"
+    },
+    {
+        "code": 3,
+        "text": "Becker County",
+        "state": "mn"
+    },
+    {
+        "code": 4,
+        "text": "Beltrami County",
+        "state": "mn"
+    },
+    {
+        "code": 5,
+        "text": "Benton County",
+        "state": "mn"
+    },
+    {
+        "code": 6,
+        "text": "Big Stone County",
+        "state": "mn"
+    },
+    {
+        "code": 7,
+        "text": "Blue Earth County",
+        "state": "mn"
+    },
+    {
+        "code": 8,
+        "text": "Brown County",
+        "state": "mn"
+    },
+    {
+        "code": 9,
+        "text": "Carlton County",
+        "state": "mn"
+    },
+    {
+        "code": 10,
+        "text": "Carver County",
+        "state": "mn"
+    },
+    {
+        "code": 11,
+        "text": "Cass County",
+        "state": "mn"
+    },
+    {
+        "code": 12,
+        "text": "Chippewa County",
+        "state": "mn"
+    },
+    {
+        "code": 13,
+        "text": "Chisago County",
+        "state": "mn"
+    },
+    {
+        "code": 14,
+        "text": "Clay County",
+        "state": "mn"
+    },
+    {
+        "code": 15,
+        "text": "Clearwater County",
+        "state": "mn"
+    },
+    {
+        "code": 16,
+        "text": "Cook County",
+        "state": "mn"
+    },
+    {
+        "code": 17,
+        "text": "Cottonwood County",
+        "state": "mn"
+    },
+    {
+        "code": 18,
+        "text": "Crow Wing County",
+        "state": "mn"
+    },
+    {
+        "code": 19,
+        "text": "Dakota County",
+        "state": "mn"
+    },
+    {
+        "code": 20,
+        "text": "Dodge County",
+        "state": "mn"
+    },
+    {
+        "code": 21,
+        "text": "Douglas County",
+        "state": "mn"
+    },
+    {
+        "code": 22,
+        "text": "Faribault County",
+        "state": "mn"
+    },
+    {
+        "code": 23,
+        "text": "Fillmore County",
+        "state": "mn"
+    },
+    {
+        "code": 24,
+        "text": "Freeborn County",
+        "state": "mn"
+    },
+    {
+        "code": 25,
+        "text": "Goodhue County",
+        "state": "mn"
+    },
+    {
+        "code": 26,
+        "text": "Grant County",
+        "state": "mn"
+    },
+    {
+        "code": 27,
+        "text": "Hennepin County",
+        "state": "mn"
+    },
+    {
+        "code": 28,
+        "text": "Houston County",
+        "state": "mn"
+    },
+    {
+        "code": 29,
+        "text": "Hubbard County",
+        "state": "mn"
+    },
+    {
+        "code": 30,
+        "text": "Isanti County",
+        "state": "mn"
+    },
+    {
+        "code": 31,
+        "text": "Itasca County",
+        "state": "mn"
+    },
+    {
+        "code": 32,
+        "text": "Jackson County",
+        "state": "mn"
+    },
+    {
+        "code": 33,
+        "text": "Kanabec County",
+        "state": "mn"
+    },
+    {
+        "code": 34,
+        "text": "Kandiyohi County",
+        "state": "mn"
+    },
+    {
+        "code": 35,
+        "text": "Kittson County",
+        "state": "mn"
+    },
+    {
+        "code": 36,
+        "text": "Koochiching County",
+        "state": "mn"
+    },
+    {
+        "code": 37,
+        "text": "Lac qui Parle Co",
+        "state": "mn"
+    },
+    {
+        "code": 38,
+        "text": "Lake County",
+        "state": "mn"
+    },
+    {
+        "code": 39,
+        "text": "Lake of the Woods Co",
+        "state": "mn"
+    },
+    {
+        "code": 40,
+        "text": "Le Sueur County",
+        "state": "mn"
+    },
+    {
+        "code": 41,
+        "text": "Lincoln County",
+        "state": "mn"
+    },
+    {
+        "code": 42,
+        "text": "Lyon County",
+        "state": "mn"
+    },
+    {
+        "code": 43,
+        "text": "Mahnomen County",
+        "state": "mn"
+    },
+    {
+        "code": 44,
+        "text": "Marshall County",
+        "state": "mn"
+    },
+    {
+        "code": 45,
+        "text": "Martin County",
+        "state": "mn"
+    },
+    {
+        "code": 46,
+        "text": "McLeod County",
+        "state": "mn"
+    },
+    {
+        "code": 47,
+        "text": "Meeker County",
+        "state": "mn"
+    },
+    {
+        "code": 48,
+        "text": "Mille Lacs County",
+        "state": "mn"
+    },
+    {
+        "code": 49,
+        "text": "Morrison County",
+        "state": "mn"
+    },
+    {
+        "code": 50,
+        "text": "Mower County",
+        "state": "mn"
+    },
+    {
+        "code": 51,
+        "text": "Murray County",
+        "state": "mn"
+    },
+    {
+        "code": 52,
+        "text": "Nicollet County",
+        "state": "mn"
+    },
+    {
+        "code": 53,
+        "text": "Nobles County",
+        "state": "mn"
+    },
+    {
+        "code": 54,
+        "text": "Norman County",
+        "state": "mn"
+    },
+    {
+        "code": 55,
+        "text": "Olmsted County",
+        "state": "mn"
+    },
+    {
+        "code": 56,
+        "text": "Otter Tail Co",
+        "state": "mn"
+    },
+    {
+        "code": 57,
+        "text": "Pennington Co",
+        "state": "mn"
+    },
+    {
+        "code": 58,
+        "text": "Pine County",
+        "state": "mn"
+    },
+    {
+        "code": 59,
+        "text": "Pipestone County",
+        "state": "mn"
+    },
+    {
+        "code": 60,
+        "text": "Polk County",
+        "state": "mn"
+    },
+    {
+        "code": 61,
+        "text": "Pope County",
+        "state": "mn"
+    },
+    {
+        "code": 62,
+        "text": "Ramsey County",
+        "state": "mn"
+    },
+    {
+        "code": 63,
+        "text": "Red Lake County",
+        "state": "mn"
+    },
+    {
+        "code": 64,
+        "text": "Redwood County",
+        "state": "mn"
+    },
+    {
+        "code": 65,
+        "text": "Renville County",
+        "state": "mn"
+    },
+    {
+        "code": 66,
+        "text": "Rice County",
+        "state": "mn"
+    },
+    {
+        "code": 67,
+        "text": "Rock County",
+        "state": "mn"
+    },
+    {
+        "code": 68,
+        "text": "Roseau County",
+        "state": "mn"
+    },
+    {
+        "code": 69,
+        "text": "Scott County",
+        "state": "mn"
+    },
+    {
+        "code": 70,
+        "text": "Sherburne County",
+        "state": "mn"
+    },
+    {
+        "code": 71,
+        "text": "Sibley County",
+        "state": "mn"
+    },
+    {
+        "code": 72,
+        "text": "St. Louis County",
+        "state": "mn"
+    },
+    {
+        "code": 73,
+        "text": "Stearns County",
+        "state": "mn"
+    },
+    {
+        "code": 74,
+        "text": "Steele County",
+        "state": "mn"
+    },
+    {
+        "code": 75,
+        "text": "Stevens County",
+        "state": "mn"
+    },
+    {
+        "code": 76,
+        "text": "Swift County",
+        "state": "mn"
+    },
+    {
+        "code": 77,
+        "text": "Todd County",
+        "state": "mn"
+    },
+    {
+        "code": 78,
+        "text": "Traverse County",
+        "state": "mn"
+    },
+    {
+        "code": 79,
+        "text": "Wabasha County",
+        "state": "mn"
+    },
+    {
+        "code": 80,
+        "text": "Wadena County",
+        "state": "mn"
+    },
+    {
+        "code": 81,
+        "text": "Waseca County",
+        "state": "mn"
+    },
+    {
+        "code": 82,
+        "text": "Washington County",
+        "state": "mn"
+    },
+    {
+        "code": 83,
+        "text": "Watonwan County",
+        "state": "mn"
+    },
+    {
+        "code": 84,
+        "text": "Wilkin County",
+        "state": "mn"
+    },
+    {
+        "code": 85,
+        "text": "Winona County",
+        "state": "mn"
+    },
+    {
+        "code": 86,
+        "text": "Wright County",
+        "state": "mn"
+    },
+    {
+        "code": 87,
+        "text": "Yellow Medicine Co",
+        "state": "mn"
+    }
+]

@@ -1,0 +1,1 @@
+export { FormInputRadio } from "./FormInput";

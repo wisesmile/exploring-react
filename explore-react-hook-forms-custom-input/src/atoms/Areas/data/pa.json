@@ -1,0 +1,357 @@
+[
+  {
+    "code": 1,
+    "text": "Adams County",
+    "state": "pa"
+  },
+  {
+    "code": 2,
+    "text": "Allegheny County",
+    "state": "pa"
+  },
+  {
+    "code": 3,
+    "text": "Armstrong County",
+    "state": "pa"
+  },
+  {
+    "code": 4,
+    "text": "Beaver County",
+    "state": "pa"
+  },
+  {
+    "code": 5,
+    "text": "Bedford County",
+    "state": "pa"
+  },
+  {
+    "code": 6,
+    "text": "Berks County",
+    "state": "pa"
+  },
+  {
+    "code": 7,
+    "text": "Blair County",
+    "state": "pa"
+  },
+  {
+    "code": 8,
+    "text": "Bradford County",
+    "state": "pa"
+  },
+  {
+    "code": 9,
+    "text": "Bucks County",
+    "state": "pa"
+  },
+  {
+    "code": 10,
+    "text": "Butler County",
+    "state": "pa"
+  },
+  {
+    "code": 11,
+    "text": "Cambria County",
+    "state": "pa"
+  },
+  {
+    "code": 12,
+    "text": "Cameron County",
+    "state": "pa"
+  },
+  {
+    "code": 13,
+    "text": "Carbon County",
+    "state": "pa"
+  },
+  {
+    "code": 14,
+    "text": "Centre County",
+    "state": "pa"
+  },
+  {
+    "code": 15,
+    "text": "Chester County",
+    "state": "pa"
+  },
+  {
+    "code": 16,
+    "text": "Clarion County",
+    "state": "pa"
+  },
+  {
+    "code": 17,
+    "text": "Clearfield County",
+    "state": "pa"
+  },
+  {
+    "code": 18,
+    "text": "Clinton County",
+    "state": "pa"
+  },
+  {
+    "code": 19,
+    "text": "Coatesville City",
+    "state": "pa"
+  },
+  {
+    "code": 20,
+    "text": "Columbia County",
+    "state": "pa"
+  },
+  {
+    "code": 21,
+    "text": "Crawford County",
+    "state": "pa"
+  },
+  {
+    "code": 22,
+    "text": "Cumberland County",
+    "state": "pa"
+  },
+  {
+    "code": 23,
+    "text": "Dauphin County",
+    "state": "pa"
+  },
+  {
+    "code": 24,
+    "text": "Delaware County",
+    "state": "pa"
+  },
+  {
+    "code": 25,
+    "text": "Elk County",
+    "state": "pa"
+  },
+  {
+    "code": 26,
+    "text": "Erie County",
+    "state": "pa"
+  },
+  {
+    "code": 27,
+    "text": "Fayette County",
+    "state": "pa"
+  },
+  {
+    "code": 28,
+    "text": "Forest County",
+    "state": "pa"
+  },
+  {
+    "code": 29,
+    "text": "Franklin County",
+    "state": "pa"
+  },
+  {
+    "code": 30,
+    "text": "Fulton County",
+    "state": "pa"
+  },
+  {
+    "code": 31,
+    "text": "Greene County",
+    "state": "pa"
+  },
+  {
+    "code": 32,
+    "text": "Huntingdon County",
+    "state": "pa"
+  },
+  {
+    "code": 33,
+    "text": "Indiana County",
+    "state": "pa"
+  },
+  {
+    "code": 34,
+    "text": "Jefferson County",
+    "state": "pa"
+  },
+  {
+    "code": 35,
+    "text": "Juniata County",
+    "state": "pa"
+  },
+  {
+    "code": 36,
+    "text": "Lackawanna County",
+    "state": "pa"
+  },
+  {
+    "code": 37,
+    "text": "Lancaster County",
+    "state": "pa"
+  },
+  {
+    "code": 38,
+    "text": "Lawrence County",
+    "state": "pa"
+  },
+  {
+    "code": 39,
+    "text": "Lebanon County",
+    "state": "pa"
+  },
+  {
+    "code": 40,
+    "text": "Lehigh County",
+    "state": "pa"
+  },
+  {
+    "code": 41,
+    "text": "Luzerne County",
+    "state": "pa"
+  },
+  {
+    "code": 42,
+    "text": "Lycoming County",
+    "state": "pa"
+  },
+  {
+    "code": 43,
+    "text": "McKean County",
+    "state": "pa"
+  },
+  {
+    "code": 44,
+    "text": "Mercer County",
+    "state": "pa"
+  },
+  {
+    "code": 45,
+    "text": "Mifflin County",
+    "state": "pa"
+  },
+  {
+    "code": 46,
+    "text": "Monroe County",
+    "state": "pa"
+  },
+  {
+    "code": 47,
+    "text": "Montgomery County",
+    "state": "pa"
+  },
+  {
+    "code": 48,
+    "text": "Montour County",
+    "state": "pa"
+  },
+  {
+    "code": 49,
+    "text": "Northampton County",
+    "state": "pa"
+  },
+  {
+    "code": 50,
+    "text": "Northumberland County",
+    "state": "pa"
+  },
+  {
+    "code": 51,
+    "text": "Perry County",
+    "state": "pa"
+  },
+  {
+    "code": 52,
+    "text": "Philadelphia",
+    "state": "pa"
+  },
+  {
+    "code": 53,
+    "text": "Pike County",
+    "state": "pa"
+  },
+  {
+    "code": 54,
+    "text": "Pittsburgh",
+    "state": "pa"
+  },
+  {
+    "code": 55,
+    "text": "Potter County",
+    "state": "pa"
+  },
+  {
+    "code": 56,
+    "text": "Reading ",
+    "state": "pa"
+  },
+  {
+    "code": 57,
+    "text": "Schuylkill County",
+    "state": "pa"
+  },
+  {
+    "code": 58,
+    "text": "Scranton",
+    "state": "pa"
+  },
+  {
+    "code": 59,
+    "text": "Snyder County",
+    "state": "pa"
+  },
+  {
+    "code": 60,
+    "text": "Somerset County",
+    "state": "pa"
+  },
+  {
+    "code": 61,
+    "text": "Sullivan County",
+    "state": "pa"
+  },
+  {
+    "code": 62,
+    "text": "Susquehanna County",
+    "state": "pa"
+  },
+  {
+    "code": 63,
+    "text": "Tioga County",
+    "state": "pa"
+  },
+  {
+    "code": 64,
+    "text": "Union County",
+    "state": "pa"
+  },
+  {
+    "code": 65,
+    "text": "Venango County",
+    "state": "pa"
+  },
+  {
+    "code": 66,
+    "text": "Warren County",
+    "state": "pa"
+  },
+  {
+    "code": 67,
+    "text": "Washington County",
+    "state": "pa"
+  },
+  {
+    "code": 68,
+    "text": "Wayne County",
+    "state": "pa"
+  },
+  {
+    "code": 69,
+    "text": "Westmoreland County",
+    "state": "pa"
+  },
+  {
+    "code": 70,
+    "text": "Wyoming County",
+    "state": "pa"
+  },
+  {
+    "code": 71,
+    "text": "York County",
+    "state": "pa"
+  }
+]

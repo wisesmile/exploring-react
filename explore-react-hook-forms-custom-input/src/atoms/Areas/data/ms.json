@@ -1,0 +1,412 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "ms"
+    },
+    {
+        "code": 2,
+        "text": "Alcorn County",
+        "state": "ms"
+    },
+    {
+        "code": 3,
+        "text": "Amite County",
+        "state": "ms"
+    },
+    {
+        "code": 4,
+        "text": "Attala County",
+        "state": "ms"
+    },
+    {
+        "code": 5,
+        "text": "Benton County",
+        "state": "ms"
+    },
+    {
+        "code": 6,
+        "text": "Bolivar County",
+        "state": "ms"
+    },
+    {
+        "code": 7,
+        "text": "Calhoun County",
+        "state": "ms"
+    },
+    {
+        "code": 8,
+        "text": "Carroll County",
+        "state": "ms"
+    },
+    {
+        "code": 9,
+        "text": "Chickasaw County",
+        "state": "ms"
+    },
+    {
+        "code": 10,
+        "text": "Choctaw County",
+        "state": "ms"
+    },
+    {
+        "code": 11,
+        "text": "Claiborne County",
+        "state": "ms"
+    },
+    {
+        "code": 12,
+        "text": "Clarke County",
+        "state": "ms"
+    },
+    {
+        "code": 13,
+        "text": "Clay County",
+        "state": "ms"
+    },
+    {
+        "code": 14,
+        "text": "Coahoma County",
+        "state": "ms"
+    },
+    {
+        "code": 15,
+        "text": "Copiah County",
+        "state": "ms"
+    },
+    {
+        "code": 16,
+        "text": "Covington County",
+        "state": "ms"
+    },
+    {
+        "code": 17,
+        "text": "DeSoto County",
+        "state": "ms"
+    },
+    {
+        "code": 18,
+        "text": "Forrest County",
+        "state": "ms"
+    },
+    {
+        "code": 19,
+        "text": "Franklin County",
+        "state": "ms"
+    },
+    {
+        "code": 20,
+        "text": "George County",
+        "state": "ms"
+    },
+    {
+        "code": 21,
+        "text": "Greene County",
+        "state": "ms"
+    },
+    {
+        "code": 22,
+        "text": "Grenada County",
+        "state": "ms"
+    },
+    {
+        "code": 23,
+        "text": "Hancock County",
+        "state": "ms"
+    },
+    {
+        "code": 24,
+        "text": "Harrison County",
+        "state": "ms"
+    },
+    {
+        "code": 25,
+        "text": "Hinds County",
+        "state": "ms"
+    },
+    {
+        "code": 26,
+        "text": "Holmes County",
+        "state": "ms"
+    },
+    {
+        "code": 27,
+        "text": "Humphreys County",
+        "state": "ms"
+    },
+    {
+        "code": 28,
+        "text": "Issaquena County",
+        "state": "ms"
+    },
+    {
+        "code": 29,
+        "text": "Itawamba County",
+        "state": "ms"
+    },
+    {
+        "code": 30,
+        "text": "Jackson County",
+        "state": "ms"
+    },
+    {
+        "code": 31,
+        "text": "Jasper County",
+        "state": "ms"
+    },
+    {
+        "code": 32,
+        "text": "Jefferson County",
+        "state": "ms"
+    },
+    {
+        "code": 33,
+        "text": "Jefferson Davis Co",
+        "state": "ms"
+    },
+    {
+        "code": 34,
+        "text": "Jones County",
+        "state": "ms"
+    },
+    {
+        "code": 35,
+        "text": "Kemper County",
+        "state": "ms"
+    },
+    {
+        "code": 36,
+        "text": "Lafayette County",
+        "state": "ms"
+    },
+    {
+        "code": 37,
+        "text": "Lamar County",
+        "state": "ms"
+    },
+    {
+        "code": 38,
+        "text": "Lauderdale County",
+        "state": "ms"
+    },
+    {
+        "code": 39,
+        "text": "Lawrence County",
+        "state": "ms"
+    },
+    {
+        "code": 40,
+        "text": "Leake County",
+        "state": "ms"
+    },
+    {
+        "code": 41,
+        "text": "Lee County",
+        "state": "ms"
+    },
+    {
+        "code": 42,
+        "text": "Leflore County",
+        "state": "ms"
+    },
+    {
+        "code": 43,
+        "text": "Lincoln County",
+        "state": "ms"
+    },
+    {
+        "code": 44,
+        "text": "Lowndes County",
+        "state": "ms"
+    },
+    {
+        "code": 45,
+        "text": "Madison County",
+        "state": "ms"
+    },
+    {
+        "code": 46,
+        "text": "Marion County",
+        "state": "ms"
+    },
+    {
+        "code": 47,
+        "text": "Marshall County",
+        "state": "ms"
+    },
+    {
+        "code": 48,
+        "text": "Monroe County",
+        "state": "ms"
+    },
+    {
+        "code": 49,
+        "text": "Montgomery County",
+        "state": "ms"
+    },
+    {
+        "code": 50,
+        "text": "Neshoba County",
+        "state": "ms"
+    },
+    {
+        "code": 51,
+        "text": "Newton County",
+        "state": "ms"
+    },
+    {
+        "code": 52,
+        "text": "Noxubee County",
+        "state": "ms"
+    },
+    {
+        "code": 53,
+        "text": "Oktibbeha County",
+        "state": "ms"
+    },
+    {
+        "code": 54,
+        "text": "Panola County",
+        "state": "ms"
+    },
+    {
+        "code": 55,
+        "text": "Pearl River County",
+        "state": "ms"
+    },
+    {
+        "code": 56,
+        "text": "Perry County",
+        "state": "ms"
+    },
+    {
+        "code": 57,
+        "text": "Pike County",
+        "state": "ms"
+    },
+    {
+        "code": 58,
+        "text": "Pontotoc County",
+        "state": "ms"
+    },
+    {
+        "code": 59,
+        "text": "Prentiss County",
+        "state": "ms"
+    },
+    {
+        "code": 60,
+        "text": "Quitman County",
+        "state": "ms"
+    },
+    {
+        "code": 61,
+        "text": "Rankin County",
+        "state": "ms"
+    },
+    {
+        "code": 62,
+        "text": "Scott County",
+        "state": "ms"
+    },
+    {
+        "code": 63,
+        "text": "Sharkey County",
+        "state": "ms"
+    },
+    {
+        "code": 64,
+        "text": "Simpson County",
+        "state": "ms"
+    },
+    {
+        "code": 65,
+        "text": "Smith County",
+        "state": "ms"
+    },
+    {
+        "code": 66,
+        "text": "Stone County",
+        "state": "ms"
+    },
+    {
+        "code": 67,
+        "text": "Sunflower County",
+        "state": "ms"
+    },
+    {
+        "code": 68,
+        "text": "Tallahatchie Co",
+        "state": "ms"
+    },
+    {
+        "code": 69,
+        "text": "Tate County",
+        "state": "ms"
+    },
+    {
+        "code": 70,
+        "text": "Tippah County",
+        "state": "ms"
+    },
+    {
+        "code": 71,
+        "text": "Tishomingo County",
+        "state": "ms"
+    },
+    {
+        "code": 72,
+        "text": "Tunica County",
+        "state": "ms"
+    },
+    {
+        "code": 73,
+        "text": "Union County",
+        "state": "ms"
+    },
+    {
+        "code": 74,
+        "text": "Walthall County",
+        "state": "ms"
+    },
+    {
+        "code": 75,
+        "text": "Warren County",
+        "state": "ms"
+    },
+    {
+        "code": 76,
+        "text": "Washington County",
+        "state": "ms"
+    },
+    {
+        "code": 77,
+        "text": "Wayne County",
+        "state": "ms"
+    },
+    {
+        "code": 78,
+        "text": "Webster County",
+        "state": "ms"
+    },
+    {
+        "code": 79,
+        "text": "Wilkinson County",
+        "state": "ms"
+    },
+    {
+        "code": 80,
+        "text": "Winston County",
+        "state": "ms"
+    },
+    {
+        "code": 81,
+        "text": "Yalobusha County",
+        "state": "ms"
+    },
+    {
+        "code": 82,
+        "text": "Yazoo County",
+        "state": "ms"
+    }
+]

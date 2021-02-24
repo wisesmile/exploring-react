@@ -1,0 +1,22 @@
+[
+    {
+        "code": 1,
+        "text": "Hawaii County",
+        "state": "hi"
+    },
+    {
+        "code": 2,
+        "text": "Honolulu County",
+        "state": "hi"
+    },
+    {
+        "code": 3,
+        "text": "Kauai County",
+        "state": "hi"
+    },
+    {
+        "code": 4,
+        "text": "Maui County",
+        "state": "hi"
+    }
+]

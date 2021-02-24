@@ -1,0 +1,32 @@
+[
+    {
+        "code": 1,
+        "text": "Bristol County",
+        "state": "ri"
+    },
+    {
+        "code": 2,
+        "text": "Kent County",
+        "state": "ri"
+    },
+    {
+        "code": 3,
+        "text": "Newport County",
+        "state": "ri"
+    },
+    {
+        "code": 4,
+        "text": "Providence City",
+        "state": "ri"
+    },
+    {
+        "code": 5,
+        "text": "Providence County",
+        "state": "ri"
+    },
+    {
+        "code": 6,
+        "text": "Washington County",
+        "state": "ri"
+    }
+]

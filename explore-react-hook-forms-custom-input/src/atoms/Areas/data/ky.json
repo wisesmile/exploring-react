@@ -1,0 +1,612 @@
+[
+    {
+        "code": 1,
+        "text": "Adair County",
+        "state": "ky"
+    },
+    {
+        "code": 2,
+        "text": "Allen County",
+        "state": "ky"
+    },
+    {
+        "code": 3,
+        "text": "Anderson County",
+        "state": "ky"
+    },
+    {
+        "code": 4,
+        "text": "Ballard County",
+        "state": "ky"
+    },
+    {
+        "code": 5,
+        "text": "Barren County",
+        "state": "ky"
+    },
+    {
+        "code": 6,
+        "text": "Bath County",
+        "state": "ky"
+    },
+    {
+        "code": 7,
+        "text": "Bell County",
+        "state": "ky"
+    },
+    {
+        "code": 8,
+        "text": "Boone County",
+        "state": "ky"
+    },
+    {
+        "code": 9,
+        "text": "Bourbon County",
+        "state": "ky"
+    },
+    {
+        "code": 10,
+        "text": "Boyd County",
+        "state": "ky"
+    },
+    {
+        "code": 11,
+        "text": "Boyle County",
+        "state": "ky"
+    },
+    {
+        "code": 12,
+        "text": "Bracken County",
+        "state": "ky"
+    },
+    {
+        "code": 13,
+        "text": "Breathitt County",
+        "state": "ky"
+    },
+    {
+        "code": 14,
+        "text": "Breckinridge County",
+        "state": "ky"
+    },
+    {
+        "code": 15,
+        "text": "Bullitt County",
+        "state": "ky"
+    },
+    {
+        "code": 16,
+        "text": "Butler County",
+        "state": "ky"
+    },
+    {
+        "code": 17,
+        "text": "Caldwell County",
+        "state": "ky"
+    },
+    {
+        "code": 18,
+        "text": "Calloway County",
+        "state": "ky"
+    },
+    {
+        "code": 19,
+        "text": "Campbell County",
+        "state": "ky"
+    },
+    {
+        "code": 20,
+        "text": "Carlisle County",
+        "state": "ky"
+    },
+    {
+        "code": 21,
+        "text": "Carroll County",
+        "state": "ky"
+    },
+    {
+        "code": 22,
+        "text": "Carter County",
+        "state": "ky"
+    },
+    {
+        "code": 23,
+        "text": "Casey County",
+        "state": "ky"
+    },
+    {
+        "code": 24,
+        "text": "Christian County",
+        "state": "ky"
+    },
+    {
+        "code": 25,
+        "text": "Clark County",
+        "state": "ky"
+    },
+    {
+        "code": 26,
+        "text": "Clay County",
+        "state": "ky"
+    },
+    {
+        "code": 27,
+        "text": "Clinton County",
+        "state": "ky"
+    },
+    {
+        "code": 28,
+        "text": "Crittenden County",
+        "state": "ky"
+    },
+    {
+        "code": 29,
+        "text": "Cumberland County",
+        "state": "ky"
+    },
+    {
+        "code": 30,
+        "text": "Daviess County",
+        "state": "ky"
+    },
+    {
+        "code": 31,
+        "text": "Edmonson County",
+        "state": "ky"
+    },
+    {
+        "code": 32,
+        "text": "Elliott County",
+        "state": "ky"
+    },
+    {
+        "code": 33,
+        "text": "Estill County",
+        "state": "ky"
+    },
+    {
+        "code": 34,
+        "text": "Fayette County",
+        "state": "ky"
+    },
+    {
+        "code": 35,
+        "text": "Fleming County",
+        "state": "ky"
+    },
+    {
+        "code": 36,
+        "text": "Floyd County",
+        "state": "ky"
+    },
+    {
+        "code": 37,
+        "text": "Franklin County",
+        "state": "ky"
+    },
+    {
+        "code": 38,
+        "text": "Fulton County",
+        "state": "ky"
+    },
+    {
+        "code": 39,
+        "text": "Gallatin County",
+        "state": "ky"
+    },
+    {
+        "code": 40,
+        "text": "Garrard County",
+        "state": "ky"
+    },
+    {
+        "code": 41,
+        "text": "Grant County",
+        "state": "ky"
+    },
+    {
+        "code": 42,
+        "text": "Graves County",
+        "state": "ky"
+    },
+    {
+        "code": 43,
+        "text": "Grayson County",
+        "state": "ky"
+    },
+    {
+        "code": 44,
+        "text": "Green County",
+        "state": "ky"
+    },
+    {
+        "code": 45,
+        "text": "Greenup County",
+        "state": "ky"
+    },
+    {
+        "code": 46,
+        "text": "Hancock County",
+        "state": "ky"
+    },
+    {
+        "code": 47,
+        "text": "Hardin County",
+        "state": "ky"
+    },
+    {
+        "code": 48,
+        "text": "Harlan County",
+        "state": "ky"
+    },
+    {
+        "code": 49,
+        "text": "Harrison County",
+        "state": "ky"
+    },
+    {
+        "code": 50,
+        "text": "Hart County",
+        "state": "ky"
+    },
+    {
+        "code": 51,
+        "text": "Henderson County",
+        "state": "ky"
+    },
+    {
+        "code": 52,
+        "text": "Henry County",
+        "state": "ky"
+    },
+    {
+        "code": 53,
+        "text": "Hickman County",
+        "state": "ky"
+    },
+    {
+        "code": 54,
+        "text": "Hopkins County",
+        "state": "ky"
+    },
+    {
+        "code": 55,
+        "text": "Jackson County",
+        "state": "ky"
+    },
+    {
+        "code": 56,
+        "text": "Jefferson County",
+        "state": "ky"
+    },
+    {
+        "code": 57,
+        "text": "Jessamine County",
+        "state": "ky"
+    },
+    {
+        "code": 58,
+        "text": "Johnson County",
+        "state": "ky"
+    },
+    {
+        "code": 59,
+        "text": "Kenton County",
+        "state": "ky"
+    },
+    {
+        "code": 60,
+        "text": "Knott County",
+        "state": "ky"
+    },
+    {
+        "code": 61,
+        "text": "Knox County",
+        "state": "ky"
+    },
+    {
+        "code": 62,
+        "text": "Larue County",
+        "state": "ky"
+    },
+    {
+        "code": 63,
+        "text": "Laurel County",
+        "state": "ky"
+    },
+    {
+        "code": 64,
+        "text": "Lawrence County",
+        "state": "ky"
+    },
+    {
+        "code": 65,
+        "text": "Lee County",
+        "state": "ky"
+    },
+    {
+        "code": 66,
+        "text": "Leslie County",
+        "state": "ky"
+    },
+    {
+        "code": 67,
+        "text": "Letcher County",
+        "state": "ky"
+    },
+    {
+        "code": 68,
+        "text": "Lewis County",
+        "state": "ky"
+    },
+    {
+        "code": 69,
+        "text": "Lexington",
+        "state": "ky"
+    },
+    {
+        "code": 70,
+        "text": "Lincoln County",
+        "state": "ky"
+    },
+    {
+        "code": 71,
+        "text": "Livingston County",
+        "state": "ky"
+    },
+    {
+        "code": 72,
+        "text": "Logan County",
+        "state": "ky"
+    },
+    {
+        "code": 73,
+        "text": "Louisville",
+        "state": "ky"
+    },
+    {
+        "code": 74,
+        "text": "Lyon County",
+        "state": "ky"
+    },
+    {
+        "code": 75,
+        "text": "Madison County",
+        "state": "ky"
+    },
+    {
+        "code": 76,
+        "text": "Magoffin County",
+        "state": "ky"
+    },
+    {
+        "code": 77,
+        "text": "Marion County",
+        "state": "ky"
+    },
+    {
+        "code": 78,
+        "text": "Marshall County",
+        "state": "ky"
+    },
+    {
+        "code": 79,
+        "text": "Martin County",
+        "state": "ky"
+    },
+    {
+        "code": 80,
+        "text": "Mason County",
+        "state": "ky"
+    },
+    {
+        "code": 81,
+        "text": "McCracken County",
+        "state": "ky"
+    },
+    {
+        "code": 82,
+        "text": "McCreary County",
+        "state": "ky"
+    },
+    {
+        "code": 83,
+        "text": "McLean County",
+        "state": "ky"
+    },
+    {
+        "code": 84,
+        "text": "Meade County",
+        "state": "ky"
+    },
+    {
+        "code": 85,
+        "text": "Menifee County",
+        "state": "ky"
+    },
+    {
+        "code": 86,
+        "text": "Mercer County",
+        "state": "ky"
+    },
+    {
+        "code": 87,
+        "text": "Metcalfe County",
+        "state": "ky"
+    },
+    {
+        "code": 88,
+        "text": "Monroe County",
+        "state": "ky"
+    },
+    {
+        "code": 89,
+        "text": "Montgomery County",
+        "state": "ky"
+    },
+    {
+        "code": 90,
+        "text": "Morgan County",
+        "state": "ky"
+    },
+    {
+        "code": 91,
+        "text": "Muhlenberg County",
+        "state": "ky"
+    },
+    {
+        "code": 92,
+        "text": "Nelson County",
+        "state": "ky"
+    },
+    {
+        "code": 93,
+        "text": "Nicholas County",
+        "state": "ky"
+    },
+    {
+        "code": 94,
+        "text": "Ohio County",
+        "state": "ky"
+    },
+    {
+        "code": 95,
+        "text": "Oldham County",
+        "state": "ky"
+    },
+    {
+        "code": 96,
+        "text": "Owen County",
+        "state": "ky"
+    },
+    {
+        "code": 97,
+        "text": "Owsley County",
+        "state": "ky"
+    },
+    {
+        "code": 98,
+        "text": "Pendleton County",
+        "state": "ky"
+    },
+    {
+        "code": 99,
+        "text": "Perry County",
+        "state": "ky"
+    },
+    {
+        "code": 100,
+        "text": "Pike County",
+        "state": "ky"
+    },
+    {
+        "code": 101,
+        "text": "Powell County",
+        "state": "ky"
+    },
+    {
+        "code": 102,
+        "text": "Pulaski County",
+        "state": "ky"
+    },
+    {
+        "code": 103,
+        "text": "Robertson County",
+        "state": "ky"
+    },
+    {
+        "code": 104,
+        "text": "Rockcastle County",
+        "state": "ky"
+    },
+    {
+        "code": 105,
+        "text": "Rowan County",
+        "state": "ky"
+    },
+    {
+        "code": 106,
+        "text": "Russell County",
+        "state": "ky"
+    },
+    {
+        "code": 107,
+        "text": "Scott County",
+        "state": "ky"
+    },
+    {
+        "code": 108,
+        "text": "Shelby County",
+        "state": "ky"
+    },
+    {
+        "code": 109,
+        "text": "Simpson County",
+        "state": "ky"
+    },
+    {
+        "code": 110,
+        "text": "Spencer County",
+        "state": "ky"
+    },
+    {
+        "code": 111,
+        "text": "Taylor County",
+        "state": "ky"
+    },
+    {
+        "code": 112,
+        "text": "Todd County",
+        "state": "ky"
+    },
+    {
+        "code": 113,
+        "text": "Trigg County",
+        "state": "ky"
+    },
+    {
+        "code": 114,
+        "text": "Trimble County",
+        "state": "ky"
+    },
+    {
+        "code": 115,
+        "text": "Union County",
+        "state": "ky"
+    },
+    {
+        "code": 116,
+        "text": "Warren County",
+        "state": "ky"
+    },
+    {
+        "code": 117,
+        "text": "Washington County",
+        "state": "ky"
+    },
+    {
+        "code": 118,
+        "text": "Wayne County",
+        "state": "ky"
+    },
+    {
+        "code": 119,
+        "text": "Webster County",
+        "state": "ky"
+    },
+    {
+        "code": 120,
+        "text": "Whitley County",
+        "state": "ky"
+    },
+    {
+        "code": 121,
+        "text": "Wolfe County",
+        "state": "ky"
+    },
+    {
+        "code": 122,
+        "text": "Woodford County",
+        "state": "ky"
+    }
+]

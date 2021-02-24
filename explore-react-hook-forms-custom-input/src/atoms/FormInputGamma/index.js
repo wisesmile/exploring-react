@@ -1,0 +1,1 @@
+export { FormInputGamma } from "./FormInput";

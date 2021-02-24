@@ -1,0 +1,382 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "co"
+    },
+    {
+        "code": 2,
+        "text": "Alamosa County",
+        "state": "co"
+    },
+    {
+        "code": 3,
+        "text": "Arapahoe County",
+        "state": "co"
+    },
+    {
+        "code": 4,
+        "text": "Archuleta County",
+        "state": "co"
+    },
+    {
+        "code": 5,
+        "text": "Aspen",
+        "state": "co"
+    },
+    {
+        "code": 6,
+        "text": "Avon",
+        "state": "co"
+    },
+    {
+        "code": 7,
+        "text": "Baca County",
+        "state": "co"
+    },
+    {
+        "code": 8,
+        "text": "Bent County",
+        "state": "co"
+    },
+    {
+        "code": 9,
+        "text": "Boulder County",
+        "state": "co"
+    },
+    {
+        "code": 10,
+        "text": "Breckenridge",
+        "state": "co"
+    },
+    {
+        "code": 11,
+        "text": "Broomfield County",
+        "state": "co"
+    },
+    {
+        "code": 12,
+        "text": "Chaffee County",
+        "state": "co"
+    },
+    {
+        "code": 13,
+        "text": "Cheyenne County",
+        "state": "co"
+    },
+    {
+        "code": 14,
+        "text": "Clear Creek County",
+        "state": "co"
+    },
+    {
+        "code": 15,
+        "text": "Conejos County",
+        "state": "co"
+    },
+    {
+        "code": 16,
+        "text": "Costilla County",
+        "state": "co"
+    },
+    {
+        "code": 17,
+        "text": "Crested Butte",
+        "state": "co"
+    },
+    {
+        "code": 18,
+        "text": "Crowley County",
+        "state": "co"
+    },
+    {
+        "code": 19,
+        "text": "Custer County",
+        "state": "co"
+    },
+    {
+        "code": 20,
+        "text": "Delta County",
+        "state": "co"
+    },
+    {
+        "code": 21,
+        "text": "Denver County",
+        "state": "co"
+    },
+    {
+        "code": 22,
+        "text": "Denver",
+        "state": "co"
+    },
+    {
+        "code": 23,
+        "text": "Dolores County",
+        "state": "co"
+    },
+    {
+        "code": 24,
+        "text": "Douglas County",
+        "state": "co"
+    },
+    {
+        "code": 25,
+        "text": "Eagle County",
+        "state": "co"
+    },
+    {
+        "code": 26,
+        "text": "El Paso County",
+        "state": "co"
+    },
+    {
+        "code": 27,
+        "text": "Elbert County",
+        "state": "co"
+    },
+    {
+        "code": 28,
+        "text": "Fremont County",
+        "state": "co"
+    },
+    {
+        "code": 29,
+        "text": "Frisco",
+        "state": "co"
+    },
+    {
+        "code": 30,
+        "text": "Garfield County",
+        "state": "co"
+    },
+    {
+        "code": 31,
+        "text": "Gilpin County",
+        "state": "co"
+    },
+    {
+        "code": 32,
+        "text": "Grand County",
+        "state": "co"
+    },
+    {
+        "code": 33,
+        "text": "Gunnison County",
+        "state": "co"
+    },
+    {
+        "code": 34,
+        "text": "Gypsum",
+        "state": "co"
+    },
+    {
+        "code": 35,
+        "text": "Hinsdale County",
+        "state": "co"
+    },
+    {
+        "code": 36,
+        "text": "Huerfano County",
+        "state": "co"
+    },
+    {
+        "code": 37,
+        "text": "Jackson County",
+        "state": "co"
+    },
+    {
+        "code": 38,
+        "text": "Jefferson County",
+        "state": "co"
+    },
+    {
+        "code": 39,
+        "text": "Kiowa County",
+        "state": "co"
+    },
+    {
+        "code": 40,
+        "text": "Kit Carson County",
+        "state": "co"
+    },
+    {
+        "code": 41,
+        "text": "La Plata County",
+        "state": "co"
+    },
+    {
+        "code": 42,
+        "text": "Lake County",
+        "state": "co"
+    },
+    {
+        "code": 43,
+        "text": "Larimer County",
+        "state": "co"
+    },
+    {
+        "code": 44,
+        "text": "Las Animas County",
+        "state": "co"
+    },
+    {
+        "code": 45,
+        "text": "Lincoln County",
+        "state": "co"
+    },
+    {
+        "code": 46,
+        "text": "Logan County",
+        "state": "co"
+    },
+    {
+        "code": 47,
+        "text": "Mesa County",
+        "state": "co"
+    },
+    {
+        "code": 48,
+        "text": "Mineral County",
+        "state": "co"
+    },
+    {
+        "code": 49,
+        "text": "Minturn",
+        "state": "co"
+    },
+    {
+        "code": 50,
+        "text": "Moffat County",
+        "state": "co"
+    },
+    {
+        "code": 51,
+        "text": "Montezuma County",
+        "state": "co"
+    },
+    {
+        "code": 52,
+        "text": "Montrose County",
+        "state": "co"
+    },
+    {
+        "code": 53,
+        "text": "Morgan County",
+        "state": "co"
+    },
+    {
+        "code": 54,
+        "text": "Ophir",
+        "state": "co"
+    },
+    {
+        "code": 55,
+        "text": "Otero County",
+        "state": "co"
+    },
+    {
+        "code": 56,
+        "text": "Ouray County",
+        "state": "co"
+    },
+    {
+        "code": 57,
+        "text": "Park County",
+        "state": "co"
+    },
+    {
+        "code": 58,
+        "text": "Phillips County",
+        "state": "co"
+    },
+    {
+        "code": 59,
+        "text": "Pitkin County",
+        "state": "co"
+    },
+    {
+        "code": 60,
+        "text": "Prowers County",
+        "state": "co"
+    },
+    {
+        "code": 61,
+        "text": "Pueblo County",
+        "state": "co"
+    },
+    {
+        "code": 62,
+        "text": "Rio Blanco County",
+        "state": "co"
+    },
+    {
+        "code": 63,
+        "text": "Rio Grande County",
+        "state": "co"
+    },
+    {
+        "code": 64,
+        "text": "Routt County",
+        "state": "co"
+    },
+    {
+        "code": 65,
+        "text": "Saguache County",
+        "state": "co"
+    },
+    {
+        "code": 66,
+        "text": "San Juan County",
+        "state": "co"
+    },
+    {
+        "code": 67,
+        "text": "San Miguel County",
+        "state": "co"
+    },
+    {
+        "code": 68,
+        "text": "Sedgwick County",
+        "state": "co"
+    },
+    {
+        "code": 69,
+        "text": "Snowmass Village",
+        "state": "co"
+    },
+    {
+        "code": 70,
+        "text": "Summit County",
+        "state": "co"
+    },
+    {
+        "code": 71,
+        "text": "Teller County",
+        "state": "co"
+    },
+    {
+        "code": 72,
+        "text": "Telluride",
+        "state": "co"
+    },
+    {
+        "code": 73,
+        "text": "Vail",
+        "state": "co"
+    },
+    {
+        "code": 74,
+        "text": "Washington County",
+        "state": "co"
+    },
+    {
+        "code": 75,
+        "text": "Weld County",
+        "state": "co"
+    },
+    {
+        "code": 76,
+        "text": "Yuma County",
+        "state": "co"
+    }
+]

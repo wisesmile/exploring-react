@@ -1,0 +1,122 @@
+[
+    {
+        "code": 1,
+        "text": "Atlantic County",
+        "state": "nj"
+    },
+    {
+        "code": 2,
+        "text": "Bergen County",
+        "state": "nj"
+    },
+    {
+        "code": 3,
+        "text": "Burlington County",
+        "state": "nj"
+    },
+    {
+        "code": 4,
+        "text": "Camden County",
+        "state": "nj"
+    },
+    {
+        "code": 5,
+        "text": "Cape May County",
+        "state": "nj"
+    },
+    {
+        "code": 6,
+        "text": "Cumberland County",
+        "state": "nj"
+    },
+    {
+        "code": 7,
+        "text": "Elizabeth",
+        "state": "nj"
+    },
+    {
+        "code": 8,
+        "text": "Essex County",
+        "state": "nj"
+    },
+    {
+        "code": 9,
+        "text": "Gloucester County",
+        "state": "nj"
+    },
+    {
+        "code": 10,
+        "text": "Hudson County",
+        "state": "nj"
+    },
+    {
+        "code": 11,
+        "text": "Hunterdon County",
+        "state": "nj"
+    },
+    {
+        "code": 12,
+        "text": "Jersey City",
+        "state": "nj"
+    },
+    {
+        "code": 13,
+        "text": "Mercer County",
+        "state": "nj"
+    },
+    {
+        "code": 14,
+        "text": "Middlesex County",
+        "state": "nj"
+    },
+    {
+        "code": 15,
+        "text": "Monmouth County",
+        "state": "nj"
+    },
+    {
+        "code": 16,
+        "text": "Morris County",
+        "state": "nj"
+    },
+    {
+        "code": 17,
+        "text": "Newark",
+        "state": "nj"
+    },
+    {
+        "code": 18,
+        "text": "Ocean County",
+        "state": "nj"
+    },
+    {
+        "code": 19,
+        "text": "Passaic County",
+        "state": "nj"
+    },
+    {
+        "code": 20,
+        "text": "Salem County",
+        "state": "nj"
+    },
+    {
+        "code": 21,
+        "text": "Somerset County",
+        "state": "nj"
+    },
+    {
+        "code": 22,
+        "text": "Sussex County",
+        "state": "nj"
+    },
+    {
+        "code": 23,
+        "text": "Union County",
+        "state": "nj"
+    },
+    {
+        "code": 24,
+        "text": "Warren County",
+        "state": "nj"
+    }
+]

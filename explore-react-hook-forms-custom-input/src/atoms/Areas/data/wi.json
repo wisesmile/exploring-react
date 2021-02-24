@@ -1,0 +1,362 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "wi"
+    },
+    {
+        "code": 2,
+        "text": "Ashland County",
+        "state": "wi"
+    },
+    {
+        "code": 3,
+        "text": "Barron County",
+        "state": "wi"
+    },
+    {
+        "code": 4,
+        "text": "Bayfield County",
+        "state": "wi"
+    },
+    {
+        "code": 5,
+        "text": "Brown County",
+        "state": "wi"
+    },
+    {
+        "code": 6,
+        "text": "Buffalo County",
+        "state": "wi"
+    },
+    {
+        "code": 7,
+        "text": "Burnett County",
+        "state": "wi"
+    },
+    {
+        "code": 8,
+        "text": "Calumet County",
+        "state": "wi"
+    },
+    {
+        "code": 9,
+        "text": "Chippewa County",
+        "state": "wi"
+    },
+    {
+        "code": 10,
+        "text": "Clark County",
+        "state": "wi"
+    },
+    {
+        "code": 11,
+        "text": "Columbia County",
+        "state": "wi"
+    },
+    {
+        "code": 12,
+        "text": "Crawford County",
+        "state": "wi"
+    },
+    {
+        "code": 13,
+        "text": "Dane County",
+        "state": "wi"
+    },
+    {
+        "code": 14,
+        "text": "Dodge County",
+        "state": "wi"
+    },
+    {
+        "code": 15,
+        "text": "Door County",
+        "state": "wi"
+    },
+    {
+        "code": 16,
+        "text": "Douglas County",
+        "state": "wi"
+    },
+    {
+        "code": 17,
+        "text": "Dunn County",
+        "state": "wi"
+    },
+    {
+        "code": 18,
+        "text": "Eau Claire Co",
+        "state": "wi"
+    },
+    {
+        "code": 19,
+        "text": "Florence County",
+        "state": "wi"
+    },
+    {
+        "code": 20,
+        "text": "Fond Du Lac Co",
+        "state": "wi"
+    },
+    {
+        "code": 21,
+        "text": "Forest County",
+        "state": "wi"
+    },
+    {
+        "code": 22,
+        "text": "Grant County",
+        "state": "wi"
+    },
+    {
+        "code": 23,
+        "text": "Green County",
+        "state": "wi"
+    },
+    {
+        "code": 24,
+        "text": "Green Lake County",
+        "state": "wi"
+    },
+    {
+        "code": 25,
+        "text": "Iowa County",
+        "state": "wi"
+    },
+    {
+        "code": 26,
+        "text": "Iron County",
+        "state": "wi"
+    },
+    {
+        "code": 27,
+        "text": "Jackson County",
+        "state": "wi"
+    },
+    {
+        "code": 28,
+        "text": "Jefferson County",
+        "state": "wi"
+    },
+    {
+        "code": 29,
+        "text": "Juneau  County",
+        "state": "wi"
+    },
+    {
+        "code": 30,
+        "text": "Kenosha County",
+        "state": "wi"
+    },
+    {
+        "code": 31,
+        "text": "Kewaunee County",
+        "state": "wi"
+    },
+    {
+        "code": 32,
+        "text": "La Crosse County",
+        "state": "wi"
+    },
+    {
+        "code": 33,
+        "text": "Lafayette County",
+        "state": "wi"
+    },
+    {
+        "code": 34,
+        "text": "Langlade County",
+        "state": "wi"
+    },
+    {
+        "code": 35,
+        "text": "Lincoln County",
+        "state": "wi"
+    },
+    {
+        "code": 36,
+        "text": "Manitowoc County",
+        "state": "wi"
+    },
+    {
+        "code": 37,
+        "text": "Marathon County",
+        "state": "wi"
+    },
+    {
+        "code": 38,
+        "text": "Marinette County",
+        "state": "wi"
+    },
+    {
+        "code": 39,
+        "text": "Marquette County",
+        "state": "wi"
+    },
+    {
+        "code": 40,
+        "text": "Menominee County",
+        "state": "wi"
+    },
+    {
+        "code": 41,
+        "text": "Milwaukee County",
+        "state": "wi"
+    },
+    {
+        "code": 42,
+        "text": "Monroe County ",
+        "state": "wi"
+    },
+    {
+        "code": 43,
+        "text": "Oconto County",
+        "state": "wi"
+    },
+    {
+        "code": 44,
+        "text": "Oneida County",
+        "state": "wi"
+    },
+    {
+        "code": 45,
+        "text": "Outagamie County",
+        "state": "wi"
+    },
+    {
+        "code": 46,
+        "text": "Ozaukee County",
+        "state": "wi"
+    },
+    {
+        "code": 47,
+        "text": "Pepin County",
+        "state": "wi"
+    },
+    {
+        "code": 48,
+        "text": "Pierce County",
+        "state": "wi"
+    },
+    {
+        "code": 49,
+        "text": "Polk County",
+        "state": "wi"
+    },
+    {
+        "code": 50,
+        "text": "Portage County",
+        "state": "wi"
+    },
+    {
+        "code": 51,
+        "text": "Price County",
+        "state": "wi"
+    },
+    {
+        "code": 52,
+        "text": "Racine County",
+        "state": "wi"
+    },
+    {
+        "code": 53,
+        "text": "Richland County",
+        "state": "wi"
+    },
+    {
+        "code": 54,
+        "text": "Rock County",
+        "state": "wi"
+    },
+    {
+        "code": 55,
+        "text": "Rusk County",
+        "state": "wi"
+    },
+    {
+        "code": 56,
+        "text": "Sauk County",
+        "state": "wi"
+    },
+    {
+        "code": 57,
+        "text": "Sawyer County",
+        "state": "wi"
+    },
+    {
+        "code": 58,
+        "text": "Shawano County",
+        "state": "wi"
+    },
+    {
+        "code": 59,
+        "text": "Sheboygan County",
+        "state": "wi"
+    },
+    {
+        "code": 60,
+        "text": "St. Croix Co",
+        "state": "wi"
+    },
+    {
+        "code": 61,
+        "text": "Taylor County",
+        "state": "wi"
+    },
+    {
+        "code": 62,
+        "text": "Trempealeau Co",
+        "state": "wi"
+    },
+    {
+        "code": 63,
+        "text": "Vernon County",
+        "state": "wi"
+    },
+    {
+        "code": 64,
+        "text": "Vilas County",
+        "state": "wi"
+    },
+    {
+        "code": 65,
+        "text": "Walworth County",
+        "state": "wi"
+    },
+    {
+        "code": 66,
+        "text": "Washburn County",
+        "state": "wi"
+    },
+    {
+        "code": 67,
+        "text": "Washington Co",
+        "state": "wi"
+    },
+    {
+        "code": 68,
+        "text": "Waukesha County",
+        "state": "wi"
+    },
+    {
+        "code": 69,
+        "text": "Waupaca County",
+        "state": "wi"
+    },
+    {
+        "code": 70,
+        "text": "Waushara County",
+        "state": "wi"
+    },
+    {
+        "code": 71,
+        "text": "Winnebago County",
+        "state": "wi"
+    },
+    {
+        "code": 72,
+        "text": "Wood County",
+        "state": "wi"
+    }
+]

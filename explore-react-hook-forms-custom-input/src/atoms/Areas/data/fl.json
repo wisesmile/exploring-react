@@ -1,0 +1,357 @@
+[
+    {
+        "code": 1,
+        "text": "Alachua County",
+        "state": "fl"
+    },
+    {
+        "code": 2,
+        "text": "Baker County",
+        "state": "fl"
+    },
+    {
+        "code": 3,
+        "text": "Bay County",
+        "state": "fl"
+    },
+    {
+        "code": 4,
+        "text": "Bradford County",
+        "state": "fl"
+    },
+    {
+        "code": 5,
+        "text": "Brevard County",
+        "state": "fl"
+    },
+    {
+        "code": 6,
+        "text": "Broward County",
+        "state": "fl"
+    },
+    {
+        "code": 7,
+        "text": "Calhoun County",
+        "state": "fl"
+    },
+    {
+        "code": 8,
+        "text": "Charlotte Co",
+        "state": "fl"
+    },
+    {
+        "code": 9,
+        "text": "Citrus County",
+        "state": "fl"
+    },
+    {
+        "code": 10,
+        "text": "Clay County",
+        "state": "fl"
+    },
+    {
+        "code": 11,
+        "text": "Collier County",
+        "state": "fl"
+    },
+    {
+        "code": 12,
+        "text": "Columbia County",
+        "state": "fl"
+    },
+    {
+        "code": 13,
+        "text": "De Soto County",
+        "state": "fl"
+    },
+    {
+        "code": 14,
+        "text": "Dixie County",
+        "state": "fl"
+    },
+    {
+        "code": 15,
+        "text": "Duval County",
+        "state": "fl"
+    },
+    {
+        "code": 16,
+        "text": "Escambia County",
+        "state": "fl"
+    },
+    {
+        "code": 17,
+        "text": "Flagler County",
+        "state": "fl"
+    },
+    {
+        "code": 18,
+        "text": "Franklin County",
+        "state": "fl"
+    },
+    {
+        "code": 19,
+        "text": "Gadsden County",
+        "state": "fl"
+    },
+    {
+        "code": 20,
+        "text": "Gilchrist County",
+        "state": "fl"
+    },
+    {
+        "code": 21,
+        "text": "Glades County",
+        "state": "fl"
+    },
+    {
+        "code": 22,
+        "text": "Gulf County",
+        "state": "fl"
+    },
+    {
+        "code": 23,
+        "text": "Hamilton County",
+        "state": "fl"
+    },
+    {
+        "code": 24,
+        "text": "Hardee County",
+        "state": "fl"
+    },
+    {
+        "code": 25,
+        "text": "Hendry County",
+        "state": "fl"
+    },
+    {
+        "code": 26,
+        "text": "Hernando County",
+        "state": "fl"
+    },
+    {
+        "code": 27,
+        "text": "Highlands County",
+        "state": "fl"
+    },
+    {
+        "code": 28,
+        "text": "Hillsborough Co",
+        "state": "fl"
+    },
+    {
+        "code": 29,
+        "text": "Holmes County",
+        "state": "fl"
+    },
+    {
+        "code": 30,
+        "text": "Indian River Co",
+        "state": "fl"
+    },
+    {
+        "code": 31,
+        "text": "Jackson County",
+        "state": "fl"
+    },
+    {
+        "code": 32,
+        "text": "Jacksonville",
+        "state": "fl"
+    },
+    {
+        "code": 33,
+        "text": "Jefferson County",
+        "state": "fl"
+    },
+    {
+        "code": 34,
+        "text": "Lafayette County",
+        "state": "fl"
+    },
+    {
+        "code": 35,
+        "text": "Lake County",
+        "state": "fl"
+    },
+    {
+        "code": 36,
+        "text": "Lee County",
+        "state": "fl"
+    },
+    {
+        "code": 37,
+        "text": "Leon County",
+        "state": "fl"
+    },
+    {
+        "code": 38,
+        "text": "Levy County",
+        "state": "fl"
+    },
+    {
+        "code": 39,
+        "text": "Liberty County",
+        "state": "fl"
+    },
+    {
+        "code": 40,
+        "text": "Madison County",
+        "state": "fl"
+    },
+    {
+        "code": 41,
+        "text": "Manatee County",
+        "state": "fl"
+    },
+    {
+        "code": 42,
+        "text": "Marion County",
+        "state": "fl"
+    },
+    {
+        "code": 43,
+        "text": "Martin County",
+        "state": "fl"
+    },
+    {
+        "code": 44,
+        "text": "Miami",
+        "state": "fl"
+    },
+    {
+        "code": 45,
+        "text": "Miami-Dade Co",
+        "state": "fl"
+    },
+    {
+        "code": 46,
+        "text": "Monroe County",
+        "state": "fl"
+    },
+    {
+        "code": 47,
+        "text": "Nassau County",
+        "state": "fl"
+    },
+    {
+        "code": 48,
+        "text": "Okaloosa County",
+        "state": "fl"
+    },
+    {
+        "code": 49,
+        "text": "Okeechobee Co",
+        "state": "fl"
+    },
+    {
+        "code": 50,
+        "text": "Orange County",
+        "state": "fl"
+    },
+    {
+        "code": 51,
+        "text": "Orlando",
+        "state": "fl"
+    },
+    {
+        "code": 52,
+        "text": "Osceola County",
+        "state": "fl"
+    },
+    {
+        "code": 53,
+        "text": "Palm Beach Co",
+        "state": "fl"
+    },
+    {
+        "code": 54,
+        "text": "Pasco County",
+        "state": "fl"
+    },
+    {
+        "code": 55,
+        "text": "Pinellas County",
+        "state": "fl"
+    },
+    {
+        "code": 56,
+        "text": "Polk County",
+        "state": "fl"
+    },
+    {
+        "code": 57,
+        "text": "Putnam County",
+        "state": "fl"
+    },
+    {
+        "code": 58,
+        "text": "Santa Rosa Co",
+        "state": "fl"
+    },
+    {
+        "code": 59,
+        "text": "Sarasota County",
+        "state": "fl"
+    },
+    {
+        "code": 60,
+        "text": "Seminole County",
+        "state": "fl"
+    },
+    {
+        "code": 61,
+        "text": "St. Johns Co",
+        "state": "fl"
+    },
+    {
+        "code": 62,
+        "text": "St. Lucie Co",
+        "state": "fl"
+    },
+    {
+        "code": 63,
+        "text": "Sumter County",
+        "state": "fl"
+    },
+    {
+        "code": 64,
+        "text": "Suwannee Co",
+        "state": "fl"
+    },
+    {
+        "code": 65,
+        "text": "Tampa",
+        "state": "fl"
+    },
+    {
+        "code": 66,
+        "text": "Taylor County",
+        "state": "fl"
+    },
+    {
+        "code": 67,
+        "text": "Union County",
+        "state": "fl"
+    },
+    {
+        "code": 68,
+        "text": "Volusia County",
+        "state": "fl"
+    },
+    {
+        "code": 69,
+        "text": "Wakulla County",
+        "state": "fl"
+    },
+    {
+        "code": 70,
+        "text": "Walton County",
+        "state": "fl"
+    },
+    {
+        "code": 71,
+        "text": "Washington Co",
+        "state": "fl"
+    }
+]

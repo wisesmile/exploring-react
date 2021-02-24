@@ -1,0 +1,92 @@
+[
+    {
+        "code": 1,
+        "text": "Carson City",
+        "state": "nv"
+    },
+    {
+        "code": 2,
+        "text": "Churchhill County ",
+        "state": "nv"
+    },
+    {
+        "code": 3,
+        "text": "Clark County",
+        "state": "nv"
+    },
+    {
+        "code": 4,
+        "text": "Douglas County",
+        "state": "nv"
+    },
+    {
+        "code": 5,
+        "text": "Elko County",
+        "state": "nv"
+    },
+    {
+        "code": 6,
+        "text": "Esmeralda County",
+        "state": "nv"
+    },
+    {
+        "code": 7,
+        "text": "Eureka County",
+        "state": "nv"
+    },
+    {
+        "code": 8,
+        "text": "Humboldt County",
+        "state": "nv"
+    },
+    {
+        "code": 9,
+        "text": "Lander County",
+        "state": "nv"
+    },
+    {
+        "code": 10,
+        "text": "Las Vegas",
+        "state": "nv"
+    },
+    {
+        "code": 11,
+        "text": "Lincoln County",
+        "state": "nv"
+    },
+    {
+        "code": 12,
+        "text": "Lyon County",
+        "state": "nv"
+    },
+    {
+        "code": 13,
+        "text": "Mineral County",
+        "state": "nv"
+    },
+    {
+        "code": 14,
+        "text": "Nye County",
+        "state": "nv"
+    },
+    {
+        "code": 15,
+        "text": "Pershing County",
+        "state": "nv"
+    },
+    {
+        "code": 16,
+        "text": "Storey County",
+        "state": "nv"
+    },
+    {
+        "code": 17,
+        "text": "Washoe County",
+        "state": "nv"
+    },
+    {
+        "code": 18,
+        "text": "White Pine County",
+        "state": "nv"
+    }
+]

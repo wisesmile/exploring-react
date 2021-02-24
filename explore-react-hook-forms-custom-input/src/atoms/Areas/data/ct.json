@@ -1,0 +1,42 @@
+[
+    {
+        "code": 1,
+        "text": "Fairfield County",
+        "state": "ct"
+    },
+    {
+        "code": 2,
+        "text": "Hartford County",
+        "state": "ct"
+    },
+    {
+        "code": 3,
+        "text": "Litchfield County",
+        "state": "ct"
+    },
+    {
+        "code": 4,
+        "text": "Middlesex County",
+        "state": "ct"
+    },
+    {
+        "code": 5,
+        "text": "New Haven County",
+        "state": "ct"
+    },
+    {
+        "code": 6,
+        "text": "New London County",
+        "state": "ct"
+    },
+    {
+        "code": 7,
+        "text": "Tolland County",
+        "state": "ct"
+    },
+    {
+        "code": 8,
+        "text": "Windham County",
+        "state": "ct"
+    }
+]

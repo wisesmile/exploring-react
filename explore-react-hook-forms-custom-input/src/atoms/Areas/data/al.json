@@ -1,0 +1,337 @@
+[
+    {
+        "code": 1,
+        "text": "Autauga County",
+        "state": "al"
+    },
+    {
+        "code": 2,
+        "text": "Baldwin County",
+        "state": "al"
+    },
+    {
+        "code": 3,
+        "text": "Barbour County",
+        "state": "al"
+    },
+    {
+        "code": 4,
+        "text": "Bibb County",
+        "state": "al"
+    },
+    {
+        "code": 5,
+        "text": "Blount County",
+        "state": "al"
+    },
+    {
+        "code": 6,
+        "text": "Bullock County",
+        "state": "al"
+    },
+    {
+        "code": 7,
+        "text": "Butler County",
+        "state": "al"
+    },
+    {
+        "code": 8,
+        "text": "Calhoun County",
+        "state": "al"
+    },
+    {
+        "code": 9,
+        "text": "Chambers County",
+        "state": "al"
+    },
+    {
+        "code": 10,
+        "text": "Cherokee County",
+        "state": "al"
+    },
+    {
+        "code": 11,
+        "text": "Chilton County",
+        "state": "al"
+    },
+    {
+        "code": 12,
+        "text": "Choctaw County",
+        "state": "al"
+    },
+    {
+        "code": 13,
+        "text": "Clarke County",
+        "state": "al"
+    },
+    {
+        "code": 14,
+        "text": "Clay County",
+        "state": "al"
+    },
+    {
+        "code": 15,
+        "text": "Cleburne County",
+        "state": "al"
+    },
+    {
+        "code": 16,
+        "text": "Coffee County",
+        "state": "al"
+    },
+    {
+        "code": 17,
+        "text": "Colbert County",
+        "state": "al"
+    },
+    {
+        "code": 18,
+        "text": "Conecuh County",
+        "state": "al"
+    },
+    {
+        "code": 19,
+        "text": "Coosa County",
+        "state": "al"
+    },
+    {
+        "code": 20,
+        "text": "Covington County",
+        "state": "al"
+    },
+    {
+        "code": 21,
+        "text": "Crenshaw County",
+        "state": "al"
+    },
+    {
+        "code": 22,
+        "text": "Cullman County",
+        "state": "al"
+    },
+    {
+        "code": 23,
+        "text": "Dale County",
+        "state": "al"
+    },
+    {
+        "code": 24,
+        "text": "Dallas County",
+        "state": "al"
+    },
+    {
+        "code": 25,
+        "text": "DeKalb County",
+        "state": "al"
+    },
+    {
+        "code": 26,
+        "text": "Elmore County",
+        "state": "al"
+    },
+    {
+        "code": 27,
+        "text": "Escambia County",
+        "state": "al"
+    },
+    {
+        "code": 28,
+        "text": "Etowah County",
+        "state": "al"
+    },
+    {
+        "code": 29,
+        "text": "Fayette County",
+        "state": "al"
+    },
+    {
+        "code": 30,
+        "text": "Franklin County",
+        "state": "al"
+    },
+    {
+        "code": 31,
+        "text": "Geneva County",
+        "state": "al"
+    },
+    {
+        "code": 32,
+        "text": "Greene County",
+        "state": "al"
+    },
+    {
+        "code": 33,
+        "text": "Hale County",
+        "state": "al"
+    },
+    {
+        "code": 34,
+        "text": "Henry County",
+        "state": "al"
+    },
+    {
+        "code": 35,
+        "text": "Houston County",
+        "state": "al"
+    },
+    {
+        "code": 36,
+        "text": "Jackson County",
+        "state": "al"
+    },
+    {
+        "code": 37,
+        "text": "Jefferson County",
+        "state": "al"
+    },
+    {
+        "code": 38,
+        "text": "Lamar County",
+        "state": "al"
+    },
+    {
+        "code": 39,
+        "text": "Lauderdale County",
+        "state": "al"
+    },
+    {
+        "code": 40,
+        "text": "Lawrence County",
+        "state": "al"
+    },
+    {
+        "code": 41,
+        "text": "Lee County",
+        "state": "al"
+    },
+    {
+        "code": 42,
+        "text": "Limestone County",
+        "state": "al"
+    },
+    {
+        "code": 43,
+        "text": "Lowndes County",
+        "state": "al"
+    },
+    {
+        "code": 44,
+        "text": "Macon County",
+        "state": "al"
+    },
+    {
+        "code": 45,
+        "text": "Madison County",
+        "state": "al"
+    },
+    {
+        "code": 46,
+        "text": "Marengo County",
+        "state": "al"
+    },
+    {
+        "code": 47,
+        "text": "Marion County",
+        "state": "al"
+    },
+    {
+        "code": 48,
+        "text": "Marshall County",
+        "state": "al"
+    },
+    {
+        "code": 49,
+        "text": "Mobile County",
+        "state": "al"
+    },
+    {
+        "code": 50,
+        "text": "Monroe County",
+        "state": "al"
+    },
+    {
+        "code": 51,
+        "text": "Montgomery County",
+        "state": "al"
+    },
+    {
+        "code": 52,
+        "text": "Morgan County",
+        "state": "al"
+    },
+    {
+        "code": 53,
+        "text": "Perry County",
+        "state": "al"
+    },
+    {
+        "code": 54,
+        "text": "Pickens County",
+        "state": "al"
+    },
+    {
+        "code": 55,
+        "text": "Pike County",
+        "state": "al"
+    },
+    {
+        "code": 56,
+        "text": "Randolph County",
+        "state": "al"
+    },
+    {
+        "code": 57,
+        "text": "Russell County",
+        "state": "al"
+    },
+    {
+        "code": 58,
+        "text": "Shelby County",
+        "state": "al"
+    },
+    {
+        "code": 59,
+        "text": "St. Clair County",
+        "state": "al"
+    },
+    {
+        "code": 60,
+        "text": "Sumter County",
+        "state": "al"
+    },
+    {
+        "code": 61,
+        "text": "Talladega County",
+        "state": "al"
+    },
+    {
+        "code": 62,
+        "text": "Tallapoosa County",
+        "state": "al"
+    },
+    {
+        "code": 63,
+        "text": "Tuscaloosa County",
+        "state": "al"
+    },
+    {
+        "code": 64,
+        "text": "Walker County",
+        "state": "al"
+    },
+    {
+        "code": 65,
+        "text": "Washington County",
+        "state": "al"
+    },
+    {
+        "code": 66,
+        "text": "Wilcox County",
+        "state": "al"
+    },
+    {
+        "code": 67,
+        "text": "Winston County",
+        "state": "al"
+    }
+]

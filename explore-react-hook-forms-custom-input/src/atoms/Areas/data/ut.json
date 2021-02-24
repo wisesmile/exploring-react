@@ -1,0 +1,152 @@
+[
+    {
+        "code": 1,
+        "text": "Beaver County",
+        "state": "ut"
+    },
+    {
+        "code": 2,
+        "text": "Box Elder County",
+        "state": "ut"
+    },
+    {
+        "code": 3,
+        "text": "Cache County",
+        "state": "ut"
+    },
+    {
+        "code": 4,
+        "text": "Carbon County",
+        "state": "ut"
+    },
+    {
+        "code": 5,
+        "text": "Daggett County",
+        "state": "ut"
+    },
+    {
+        "code": 6,
+        "text": "Davis County",
+        "state": "ut"
+    },
+    {
+        "code": 7,
+        "text": "Duchesne County",
+        "state": "ut"
+    },
+    {
+        "code": 8,
+        "text": "Emery County",
+        "state": "ut"
+    },
+    {
+        "code": 9,
+        "text": "Garfield County",
+        "state": "ut"
+    },
+    {
+        "code": 10,
+        "text": "Grand County",
+        "state": "ut"
+    },
+    {
+        "code": 11,
+        "text": "Iron County",
+        "state": "ut"
+    },
+    {
+        "code": 12,
+        "text": "Juab County",
+        "state": "ut"
+    },
+    {
+        "code": 13,
+        "text": "Kane County",
+        "state": "ut"
+    },
+    {
+        "code": 14,
+        "text": "Millard County ",
+        "state": "ut"
+    },
+    {
+        "code": 15,
+        "text": "Morgan County",
+        "state": "ut"
+    },
+    {
+        "code": 16,
+        "text": "Piute County",
+        "state": "ut"
+    },
+    {
+        "code": 17,
+        "text": "Rich County",
+        "state": "ut"
+    },
+    {
+        "code": 18,
+        "text": "Salt Lake City",
+        "state": "ut"
+    },
+    {
+        "code": 19,
+        "text": "Salt Lake County",
+        "state": "ut"
+    },
+    {
+        "code": 20,
+        "text": "San Juan County",
+        "state": "ut"
+    },
+    {
+        "code": 21,
+        "text": "Sanpete County",
+        "state": "ut"
+    },
+    {
+        "code": 22,
+        "text": "Sevier County",
+        "state": "ut"
+    },
+    {
+        "code": 23,
+        "text": "Summit County",
+        "state": "ut"
+    },
+    {
+        "code": 24,
+        "text": "Tooele County",
+        "state": "ut"
+    },
+    {
+        "code": 25,
+        "text": "Uintah County",
+        "state": "ut"
+    },
+    {
+        "code": 26,
+        "text": "Utah County",
+        "state": "ut"
+    },
+    {
+        "code": 27,
+        "text": "Wasatch County",
+        "state": "ut"
+    },
+    {
+        "code": 28,
+        "text": "Washington County",
+        "state": "ut"
+    },
+    {
+        "code": 29,
+        "text": "Wayne County",
+        "state": "ut"
+    },
+    {
+        "code": 30,
+        "text": "Weber County",
+        "state": "ut"
+    }
+]

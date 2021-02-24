@@ -1,0 +1,502 @@
+[
+    {
+        "code": 1,
+        "text": "Alamance County",
+        "state": "nc"
+    },
+    {
+        "code": 2,
+        "text": "Alexander County",
+        "state": "nc"
+    },
+    {
+        "code": 3,
+        "text": "Alleghany County",
+        "state": "nc"
+    },
+    {
+        "code": 4,
+        "text": "Anson County",
+        "state": "nc"
+    },
+    {
+        "code": 5,
+        "text": "Ashe County",
+        "state": "nc"
+    },
+    {
+        "code": 6,
+        "text": "Avery County",
+        "state": "nc"
+    },
+    {
+        "code": 7,
+        "text": "Beaufort County",
+        "state": "nc"
+    },
+    {
+        "code": 8,
+        "text": "Bertie County",
+        "state": "nc"
+    },
+    {
+        "code": 9,
+        "text": "Bladen County",
+        "state": "nc"
+    },
+    {
+        "code": 10,
+        "text": "Brunswick County",
+        "state": "nc"
+    },
+    {
+        "code": 11,
+        "text": "Buncombe County",
+        "state": "nc"
+    },
+    {
+        "code": 12,
+        "text": "Burke County",
+        "state": "nc"
+    },
+    {
+        "code": 13,
+        "text": "Cabarrus County",
+        "state": "nc"
+    },
+    {
+        "code": 14,
+        "text": "Caldwell County",
+        "state": "nc"
+    },
+    {
+        "code": 15,
+        "text": "Camden County",
+        "state": "nc"
+    },
+    {
+        "code": 16,
+        "text": "Carteret County",
+        "state": "nc"
+    },
+    {
+        "code": 17,
+        "text": "Caswell County",
+        "state": "nc"
+    },
+    {
+        "code": 18,
+        "text": "Catawba County",
+        "state": "nc"
+    },
+    {
+        "code": 19,
+        "text": "Chatham County",
+        "state": "nc"
+    },
+    {
+        "code": 20,
+        "text": "Cherokee County",
+        "state": "nc"
+    },
+    {
+        "code": 21,
+        "text": "Chowan County",
+        "state": "nc"
+    },
+    {
+        "code": 22,
+        "text": "Clay County",
+        "state": "nc"
+    },
+    {
+        "code": 23,
+        "text": "Cleveland County",
+        "state": "nc"
+    },
+    {
+        "code": 24,
+        "text": "Columbus County",
+        "state": "nc"
+    },
+    {
+        "code": 25,
+        "text": "Craven County",
+        "state": "nc"
+    },
+    {
+        "code": 26,
+        "text": "Cumberland County",
+        "state": "nc"
+    },
+    {
+        "code": 27,
+        "text": "Currituck County",
+        "state": "nc"
+    },
+    {
+        "code": 28,
+        "text": "Dare County",
+        "state": "nc"
+    },
+    {
+        "code": 29,
+        "text": "Davidson County",
+        "state": "nc"
+    },
+    {
+        "code": 30,
+        "text": "Davie County",
+        "state": "nc"
+    },
+    {
+        "code": 31,
+        "text": "Duplin County",
+        "state": "nc"
+    },
+    {
+        "code": 32,
+        "text": "Durham County",
+        "state": "nc"
+    },
+    {
+        "code": 33,
+        "text": "Edgecombe County",
+        "state": "nc"
+    },
+    {
+        "code": 34,
+        "text": "Forsyth County",
+        "state": "nc"
+    },
+    {
+        "code": 35,
+        "text": "Franklin County",
+        "state": "nc"
+    },
+    {
+        "code": 36,
+        "text": "Gaston County",
+        "state": "nc"
+    },
+    {
+        "code": 37,
+        "text": "Gates County",
+        "state": "nc"
+    },
+    {
+        "code": 38,
+        "text": "Graham County",
+        "state": "nc"
+    },
+    {
+        "code": 39,
+        "text": "Granville County",
+        "state": "nc"
+    },
+    {
+        "code": 40,
+        "text": "Greene County",
+        "state": "nc"
+    },
+    {
+        "code": 41,
+        "text": "Guilford County",
+        "state": "nc"
+    },
+    {
+        "code": 42,
+        "text": "Halifax County",
+        "state": "nc"
+    },
+    {
+        "code": 43,
+        "text": "Harnett County",
+        "state": "nc"
+    },
+    {
+        "code": 44,
+        "text": "Haywood County",
+        "state": "nc"
+    },
+    {
+        "code": 45,
+        "text": "Henderson County",
+        "state": "nc"
+    },
+    {
+        "code": 46,
+        "text": "Hertford County",
+        "state": "nc"
+    },
+    {
+        "code": 47,
+        "text": "Hoke County",
+        "state": "nc"
+    },
+    {
+        "code": 48,
+        "text": "Hyde County",
+        "state": "nc"
+    },
+    {
+        "code": 49,
+        "text": "Iredell County",
+        "state": "nc"
+    },
+    {
+        "code": 50,
+        "text": "Jackson County",
+        "state": "nc"
+    },
+    {
+        "code": 51,
+        "text": "Johnston County",
+        "state": "nc"
+    },
+    {
+        "code": 52,
+        "text": "Jones County",
+        "state": "nc"
+    },
+    {
+        "code": 53,
+        "text": "Lee County",
+        "state": "nc"
+    },
+    {
+        "code": 54,
+        "text": "Lenoir County",
+        "state": "nc"
+    },
+    {
+        "code": 55,
+        "text": "Lincoln County",
+        "state": "nc"
+    },
+    {
+        "code": 56,
+        "text": "Macon County",
+        "state": "nc"
+    },
+    {
+        "code": 57,
+        "text": "Madison County",
+        "state": "nc"
+    },
+    {
+        "code": 58,
+        "text": "Martin County",
+        "state": "nc"
+    },
+    {
+        "code": 59,
+        "text": "McDowell County",
+        "state": "nc"
+    },
+    {
+        "code": 60,
+        "text": "Mecklenburg County",
+        "state": "nc"
+    },
+    {
+        "code": 61,
+        "text": "Mitchell County",
+        "state": "nc"
+    },
+    {
+        "code": 62,
+        "text": "Montgomery County",
+        "state": "nc"
+    },
+    {
+        "code": 63,
+        "text": "Moore County",
+        "state": "nc"
+    },
+    {
+        "code": 64,
+        "text": "Nash County",
+        "state": "nc"
+    },
+    {
+        "code": 65,
+        "text": "New Hanover County",
+        "state": "nc"
+    },
+    {
+        "code": 66,
+        "text": "Northampton County",
+        "state": "nc"
+    },
+    {
+        "code": 67,
+        "text": "Onslow County",
+        "state": "nc"
+    },
+    {
+        "code": 68,
+        "text": "Orange County",
+        "state": "nc"
+    },
+    {
+        "code": 69,
+        "text": "Pamlico County",
+        "state": "nc"
+    },
+    {
+        "code": 70,
+        "text": "Pasquotank County",
+        "state": "nc"
+    },
+    {
+        "code": 71,
+        "text": "Pender County",
+        "state": "nc"
+    },
+    {
+        "code": 72,
+        "text": "Perquimans County",
+        "state": "nc"
+    },
+    {
+        "code": 73,
+        "text": "Person County",
+        "state": "nc"
+    },
+    {
+        "code": 74,
+        "text": "Pitt County",
+        "state": "nc"
+    },
+    {
+        "code": 75,
+        "text": "Polk County",
+        "state": "nc"
+    },
+    {
+        "code": 76,
+        "text": "Randolph County",
+        "state": "nc"
+    },
+    {
+        "code": 77,
+        "text": "Richmond County",
+        "state": "nc"
+    },
+    {
+        "code": 78,
+        "text": "Robeson County",
+        "state": "nc"
+    },
+    {
+        "code": 79,
+        "text": "Rockingham County",
+        "state": "nc"
+    },
+    {
+        "code": 80,
+        "text": "Rowan County",
+        "state": "nc"
+    },
+    {
+        "code": 81,
+        "text": "Rutherford County",
+        "state": "nc"
+    },
+    {
+        "code": 82,
+        "text": "Sampson County",
+        "state": "nc"
+    },
+    {
+        "code": 83,
+        "text": "Scotland County",
+        "state": "nc"
+    },
+    {
+        "code": 84,
+        "text": "Stanly County",
+        "state": "nc"
+    },
+    {
+        "code": 85,
+        "text": "Stokes County",
+        "state": "nc"
+    },
+    {
+        "code": 86,
+        "text": "Surry County",
+        "state": "nc"
+    },
+    {
+        "code": 87,
+        "text": "Swain County",
+        "state": "nc"
+    },
+    {
+        "code": 88,
+        "text": "Transylvania County",
+        "state": "nc"
+    },
+    {
+        "code": 89,
+        "text": "Tyrrell County",
+        "state": "nc"
+    },
+    {
+        "code": 90,
+        "text": "Union County",
+        "state": "nc"
+    },
+    {
+        "code": 91,
+        "text": "Vance County",
+        "state": "nc"
+    },
+    {
+        "code": 92,
+        "text": "Wake County",
+        "state": "nc"
+    },
+    {
+        "code": 93,
+        "text": "Warren County",
+        "state": "nc"
+    },
+    {
+        "code": 94,
+        "text": "Washington County",
+        "state": "nc"
+    },
+    {
+        "code": 95,
+        "text": "Watauga County",
+        "state": "nc"
+    },
+    {
+        "code": 96,
+        "text": "Wayne County",
+        "state": "nc"
+    },
+    {
+        "code": 97,
+        "text": "Wilkes County",
+        "state": "nc"
+    },
+    {
+        "code": 98,
+        "text": "Wilson County",
+        "state": "nc"
+    },
+    {
+        "code": 99,
+        "text": "Yadkin County",
+        "state": "nc"
+    },
+    {
+        "code": 100,
+        "text": "Yancey County",
+        "state": "nc"
+    }
+]

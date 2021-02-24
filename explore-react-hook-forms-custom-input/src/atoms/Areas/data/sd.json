@@ -1,0 +1,332 @@
+[
+    {
+        "code": 1,
+        "text": "Aurora County",
+        "state": "sd"
+    },
+    {
+        "code": 2,
+        "text": "Beadle County",
+        "state": "sd"
+    },
+    {
+        "code": 3,
+        "text": "Bennett County",
+        "state": "sd"
+    },
+    {
+        "code": 4,
+        "text": "Bon Homme Co",
+        "state": "sd"
+    },
+    {
+        "code": 5,
+        "text": "Brookings Co",
+        "state": "sd"
+    },
+    {
+        "code": 6,
+        "text": "Brown County",
+        "state": "sd"
+    },
+    {
+        "code": 7,
+        "text": "Brule County",
+        "state": "sd"
+    },
+    {
+        "code": 8,
+        "text": "Buffalo County",
+        "state": "sd"
+    },
+    {
+        "code": 9,
+        "text": "Butte County",
+        "state": "sd"
+    },
+    {
+        "code": 10,
+        "text": "Campbell Co",
+        "state": "sd"
+    },
+    {
+        "code": 11,
+        "text": "Charles Mix Co",
+        "state": "sd"
+    },
+    {
+        "code": 12,
+        "text": "Clark County",
+        "state": "sd"
+    },
+    {
+        "code": 13,
+        "text": "Clay County",
+        "state": "sd"
+    },
+    {
+        "code": 14,
+        "text": "Codington Co",
+        "state": "sd"
+    },
+    {
+        "code": 15,
+        "text": "Corson County",
+        "state": "sd"
+    },
+    {
+        "code": 16,
+        "text": "Custer County",
+        "state": "sd"
+    },
+    {
+        "code": 17,
+        "text": "Davison County",
+        "state": "sd"
+    },
+    {
+        "code": 18,
+        "text": "Day County",
+        "state": "sd"
+    },
+    {
+        "code": 19,
+        "text": "Deuel County",
+        "state": "sd"
+    },
+    {
+        "code": 20,
+        "text": "Dewey County",
+        "state": "sd"
+    },
+    {
+        "code": 21,
+        "text": "Douglas County",
+        "state": "sd"
+    },
+    {
+        "code": 22,
+        "text": "Edmunds County",
+        "state": "sd"
+    },
+    {
+        "code": 23,
+        "text": "Fall River Co",
+        "state": "sd"
+    },
+    {
+        "code": 24,
+        "text": "Faulk County",
+        "state": "sd"
+    },
+    {
+        "code": 25,
+        "text": "Grant County",
+        "state": "sd"
+    },
+    {
+        "code": 26,
+        "text": "Gregory County",
+        "state": "sd"
+    },
+    {
+        "code": 27,
+        "text": "Haakon County",
+        "state": "sd"
+    },
+    {
+        "code": 28,
+        "text": "Hamlin County",
+        "state": "sd"
+    },
+    {
+        "code": 29,
+        "text": "Hand County",
+        "state": "sd"
+    },
+    {
+        "code": 30,
+        "text": "Hanson County",
+        "state": "sd"
+    },
+    {
+        "code": 31,
+        "text": "Harding County",
+        "state": "sd"
+    },
+    {
+        "code": 32,
+        "text": "Hughes County",
+        "state": "sd"
+    },
+    {
+        "code": 33,
+        "text": "Hutchinson Co",
+        "state": "sd"
+    },
+    {
+        "code": 34,
+        "text": "Hyde County",
+        "state": "sd"
+    },
+    {
+        "code": 35,
+        "text": "Jackson County",
+        "state": "sd"
+    },
+    {
+        "code": 36,
+        "text": "Jerauld County",
+        "state": "sd"
+    },
+    {
+        "code": 37,
+        "text": "Jones County",
+        "state": "sd"
+    },
+    {
+        "code": 38,
+        "text": "Kingsbury County",
+        "state": "sd"
+    },
+    {
+        "code": 39,
+        "text": "Lake County",
+        "state": "sd"
+    },
+    {
+        "code": 40,
+        "text": "Lawrence County",
+        "state": "sd"
+    },
+    {
+        "code": 41,
+        "text": "Lincoln County",
+        "state": "sd"
+    },
+    {
+        "code": 42,
+        "text": "Lyman County",
+        "state": "sd"
+    },
+    {
+        "code": 43,
+        "text": "Marshall County",
+        "state": "sd"
+    },
+    {
+        "code": 44,
+        "text": "McCook County",
+        "state": "sd"
+    },
+    {
+        "code": 45,
+        "text": "McPherson Co",
+        "state": "sd"
+    },
+    {
+        "code": 46,
+        "text": "Meade County",
+        "state": "sd"
+    },
+    {
+        "code": 47,
+        "text": "Mellette County",
+        "state": "sd"
+    },
+    {
+        "code": 48,
+        "text": "Miner County",
+        "state": "sd"
+    },
+    {
+        "code": 49,
+        "text": "Minnehaha County",
+        "state": "sd"
+    },
+    {
+        "code": 50,
+        "text": "Moody County",
+        "state": "sd"
+    },
+    {
+        "code": 51,
+        "text": "Oglala Lakota Co",
+        "state": "sd"
+    },
+    {
+        "code": 52,
+        "text": "Pennington Co",
+        "state": "sd"
+    },
+    {
+        "code": 53,
+        "text": "Perkins County",
+        "state": "sd"
+    },
+    {
+        "code": 54,
+        "text": "Potter County",
+        "state": "sd"
+    },
+    {
+        "code": 55,
+        "text": "Roberts County",
+        "state": "sd"
+    },
+    {
+        "code": 56,
+        "text": "Sanborn County",
+        "state": "sd"
+    },
+    {
+        "code": 57,
+        "text": "Spink County",
+        "state": "sd"
+    },
+    {
+        "code": 58,
+        "text": "Stanley County",
+        "state": "sd"
+    },
+    {
+        "code": 59,
+        "text": "Sully County",
+        "state": "sd"
+    },
+    {
+        "code": 60,
+        "text": "Todd County",
+        "state": "sd"
+    },
+    {
+        "code": 61,
+        "text": "Tripp County",
+        "state": "sd"
+    },
+    {
+        "code": 62,
+        "text": "Turner County",
+        "state": "sd"
+    },
+    {
+        "code": 63,
+        "text": "Union County",
+        "state": "sd"
+    },
+    {
+        "code": 64,
+        "text": "Walworth County",
+        "state": "sd"
+    },
+    {
+        "code": 65,
+        "text": "Yankton County",
+        "state": "sd"
+    },
+    {
+        "code": 66,
+        "text": "Ziebach County",
+        "state": "sd"
+    }
+]

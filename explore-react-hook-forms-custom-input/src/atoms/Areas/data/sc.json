@@ -1,0 +1,247 @@
+[
+    {
+        "code": 1,
+        "text": "Abbeville County",
+        "state": "sc"
+    },
+    {
+        "code": 2,
+        "text": "Aiken County",
+        "state": "sc"
+    },
+    {
+        "code": 3,
+        "text": "Allendale County",
+        "state": "sc"
+    },
+    {
+        "code": 4,
+        "text": "Anderson County",
+        "state": "sc"
+    },
+    {
+        "code": 5,
+        "text": "Bamberg County",
+        "state": "sc"
+    },
+    {
+        "code": 6,
+        "text": "Barnwell County",
+        "state": "sc"
+    },
+    {
+        "code": 7,
+        "text": "Beaufort County",
+        "state": "sc"
+    },
+    {
+        "code": 8,
+        "text": "Berkeley County",
+        "state": "sc"
+    },
+    {
+        "code": 9,
+        "text": "Calhoun County",
+        "state": "sc"
+    },
+    {
+        "code": 10,
+        "text": "Charleston County",
+        "state": "sc"
+    },
+    {
+        "code": 11,
+        "text": "Charleston",
+        "state": "sc"
+    },
+    {
+        "code": 12,
+        "text": "Cherokee County",
+        "state": "sc"
+    },
+    {
+        "code": 13,
+        "text": "Chester County",
+        "state": "sc"
+    },
+    {
+        "code": 14,
+        "text": "Chesterfield County",
+        "state": "sc"
+    },
+    {
+        "code": 15,
+        "text": "Clarendon County",
+        "state": "sc"
+    },
+    {
+        "code": 16,
+        "text": "Colleton County",
+        "state": "sc"
+    },
+    {
+        "code": 17,
+        "text": "Columbia",
+        "state": "sc"
+    },
+    {
+        "code": 18,
+        "text": "Darlington County",
+        "state": "sc"
+    },
+    {
+        "code": 19,
+        "text": "Dillon County",
+        "state": "sc"
+    },
+    {
+        "code": 20,
+        "text": "Dorchester County",
+        "state": "sc"
+    },
+    {
+        "code": 21,
+        "text": "Edgefield County",
+        "state": "sc"
+    },
+    {
+        "code": 22,
+        "text": "Fairfield County",
+        "state": "sc"
+    },
+    {
+        "code": 23,
+        "text": "Florence County",
+        "state": "sc"
+    },
+    {
+        "code": 24,
+        "text": "Folly Beach",
+        "state": "sc"
+    },
+    {
+        "code": 25,
+        "text": "Georgetown County",
+        "state": "sc"
+    },
+    {
+        "code": 26,
+        "text": "Greenville County",
+        "state": "sc"
+    },
+    {
+        "code": 27,
+        "text": "Greenwood County",
+        "state": "sc"
+    },
+    {
+        "code": 28,
+        "text": "Hampton County",
+        "state": "sc"
+    },
+    {
+        "code": 29,
+        "text": "Horry County",
+        "state": "sc"
+    },
+    {
+        "code": 30,
+        "text": "Jasper County",
+        "state": "sc"
+    },
+    {
+        "code": 31,
+        "text": "Kershaw County",
+        "state": "sc"
+    },
+    {
+        "code": 32,
+        "text": "Lancaster County",
+        "state": "sc"
+    },
+    {
+        "code": 33,
+        "text": "Laurens County",
+        "state": "sc"
+    },
+    {
+        "code": 34,
+        "text": "Lee County",
+        "state": "sc"
+    },
+    {
+        "code": 35,
+        "text": "Lexington County",
+        "state": "sc"
+    },
+    {
+        "code": 36,
+        "text": "Marion County",
+        "state": "sc"
+    },
+    {
+        "code": 37,
+        "text": "Marlboro County",
+        "state": "sc"
+    },
+    {
+        "code": 38,
+        "text": "McCormick County",
+        "state": "sc"
+    },
+    {
+        "code": 39,
+        "text": "Newberry County",
+        "state": "sc"
+    },
+    {
+        "code": 40,
+        "text": "Oconee County",
+        "state": "sc"
+    },
+    {
+        "code": 41,
+        "text": "Orangeburg County",
+        "state": "sc"
+    },
+    {
+        "code": 42,
+        "text": "Pickens County",
+        "state": "sc"
+    },
+    {
+        "code": 43,
+        "text": "Richland County",
+        "state": "sc"
+    },
+    {
+        "code": 44,
+        "text": "Saluda County",
+        "state": "sc"
+    },
+    {
+        "code": 45,
+        "text": "Spartanburg County",
+        "state": "sc"
+    },
+    {
+        "code": 46,
+        "text": "Sumter County",
+        "state": "sc"
+    },
+    {
+        "code": 47,
+        "text": "Union County",
+        "state": "sc"
+    },
+    {
+        "code": 48,
+        "text": "Williamsburg County",
+        "state": "sc"
+    },
+    {
+        "code": 49,
+        "text": "York County",
+        "state": "sc"
+    }
+]

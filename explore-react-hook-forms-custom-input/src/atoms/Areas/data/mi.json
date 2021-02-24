@@ -1,0 +1,422 @@
+[
+    {
+        "code": 1,
+        "text": "Alcona County",
+        "state": "mi"
+    },
+    {
+        "code": 2,
+        "text": "Alger County",
+        "state": "mi"
+    },
+    {
+        "code": 3,
+        "text": "Allegan County",
+        "state": "mi"
+    },
+    {
+        "code": 4,
+        "text": "Alpena County",
+        "state": "mi"
+    },
+    {
+        "code": 5,
+        "text": "Antrim County",
+        "state": "mi"
+    },
+    {
+        "code": 6,
+        "text": "Arenac County",
+        "state": "mi"
+    },
+    {
+        "code": 7,
+        "text": "Baraga County",
+        "state": "mi"
+    },
+    {
+        "code": 8,
+        "text": "Barry County",
+        "state": "mi"
+    },
+    {
+        "code": 9,
+        "text": "Bay County",
+        "state": "mi"
+    },
+    {
+        "code": 10,
+        "text": "Benzie County",
+        "state": "mi"
+    },
+    {
+        "code": 11,
+        "text": "Berrien County",
+        "state": "mi"
+    },
+    {
+        "code": 12,
+        "text": "Branch County",
+        "state": "mi"
+    },
+    {
+        "code": 13,
+        "text": "Calhoun County",
+        "state": "mi"
+    },
+    {
+        "code": 14,
+        "text": "Cass County",
+        "state": "mi"
+    },
+    {
+        "code": 15,
+        "text": "Charlevoix County",
+        "state": "mi"
+    },
+    {
+        "code": 16,
+        "text": "Cheboygan County",
+        "state": "mi"
+    },
+    {
+        "code": 17,
+        "text": "Chippewa County",
+        "state": "mi"
+    },
+    {
+        "code": 18,
+        "text": "Clare County",
+        "state": "mi"
+    },
+    {
+        "code": 19,
+        "text": "Clinton County",
+        "state": "mi"
+    },
+    {
+        "code": 20,
+        "text": "Crawford County",
+        "state": "mi"
+    },
+    {
+        "code": 21,
+        "text": "Delta County",
+        "state": "mi"
+    },
+    {
+        "code": 22,
+        "text": "Detroit",
+        "state": "mi"
+    },
+    {
+        "code": 23,
+        "text": "Dickinson County",
+        "state": "mi"
+    },
+    {
+        "code": 24,
+        "text": "Eaton County",
+        "state": "mi"
+    },
+    {
+        "code": 25,
+        "text": "Emmet County",
+        "state": "mi"
+    },
+    {
+        "code": 26,
+        "text": "Genesee County",
+        "state": "mi"
+    },
+    {
+        "code": 27,
+        "text": "Gladwin County",
+        "state": "mi"
+    },
+    {
+        "code": 28,
+        "text": "Gogebic County",
+        "state": "mi"
+    },
+    {
+        "code": 29,
+        "text": "Grand Traverse Co",
+        "state": "mi"
+    },
+    {
+        "code": 30,
+        "text": "Gratiot County",
+        "state": "mi"
+    },
+    {
+        "code": 31,
+        "text": "Hillsdale County",
+        "state": "mi"
+    },
+    {
+        "code": 32,
+        "text": "Houghton County",
+        "state": "mi"
+    },
+    {
+        "code": 33,
+        "text": "Huron County",
+        "state": "mi"
+    },
+    {
+        "code": 34,
+        "text": "Ingham County",
+        "state": "mi"
+    },
+    {
+        "code": 35,
+        "text": "Ionia County",
+        "state": "mi"
+    },
+    {
+        "code": 36,
+        "text": "Iosco County",
+        "state": "mi"
+    },
+    {
+        "code": 37,
+        "text": "Iron County",
+        "state": "mi"
+    },
+    {
+        "code": 38,
+        "text": "Isabella County",
+        "state": "mi"
+    },
+    {
+        "code": 39,
+        "text": "Jackson County",
+        "state": "mi"
+    },
+    {
+        "code": 40,
+        "text": "Kalamazoo County",
+        "state": "mi"
+    },
+    {
+        "code": 41,
+        "text": "Kalkaska County",
+        "state": "mi"
+    },
+    {
+        "code": 42,
+        "text": "Kent County",
+        "state": "mi"
+    },
+    {
+        "code": 43,
+        "text": "Keweenaw County",
+        "state": "mi"
+    },
+    {
+        "code": 44,
+        "text": "Lake County",
+        "state": "mi"
+    },
+    {
+        "code": 45,
+        "text": "Lapeer County",
+        "state": "mi"
+    },
+    {
+        "code": 46,
+        "text": "Leelanau County",
+        "state": "mi"
+    },
+    {
+        "code": 47,
+        "text": "Lenawee County",
+        "state": "mi"
+    },
+    {
+        "code": 48,
+        "text": "Livingston County",
+        "state": "mi"
+    },
+    {
+        "code": 49,
+        "text": "Luce County",
+        "state": "mi"
+    },
+    {
+        "code": 50,
+        "text": "Mackinac County",
+        "state": "mi"
+    },
+    {
+        "code": 51,
+        "text": "Macomb County",
+        "state": "mi"
+    },
+    {
+        "code": 52,
+        "text": "Manistee County",
+        "state": "mi"
+    },
+    {
+        "code": 53,
+        "text": "Marquette County",
+        "state": "mi"
+    },
+    {
+        "code": 54,
+        "text": "Mason County",
+        "state": "mi"
+    },
+    {
+        "code": 55,
+        "text": "Mecosta County",
+        "state": "mi"
+    },
+    {
+        "code": 56,
+        "text": "Menominee County",
+        "state": "mi"
+    },
+    {
+        "code": 57,
+        "text": "Midland County",
+        "state": "mi"
+    },
+    {
+        "code": 58,
+        "text": "Missaukee County",
+        "state": "mi"
+    },
+    {
+        "code": 59,
+        "text": "Monroe County",
+        "state": "mi"
+    },
+    {
+        "code": 60,
+        "text": "Montcalm County",
+        "state": "mi"
+    },
+    {
+        "code": 61,
+        "text": "Montmorency County",
+        "state": "mi"
+    },
+    {
+        "code": 62,
+        "text": "Muskegon County",
+        "state": "mi"
+    },
+    {
+        "code": 63,
+        "text": "Newaygo County",
+        "state": "mi"
+    },
+    {
+        "code": 64,
+        "text": "Oakland County",
+        "state": "mi"
+    },
+    {
+        "code": 65,
+        "text": "Oceana County",
+        "state": "mi"
+    },
+    {
+        "code": 66,
+        "text": "Ogemaw County",
+        "state": "mi"
+    },
+    {
+        "code": 67,
+        "text": "Ontonagon County",
+        "state": "mi"
+    },
+    {
+        "code": 68,
+        "text": "Osceola County",
+        "state": "mi"
+    },
+    {
+        "code": 69,
+        "text": "Oscoda County",
+        "state": "mi"
+    },
+    {
+        "code": 70,
+        "text": "Otsego County",
+        "state": "mi"
+    },
+    {
+        "code": 71,
+        "text": "Ottawa County",
+        "state": "mi"
+    },
+    {
+        "code": 72,
+        "text": "Presque Isle Co",
+        "state": "mi"
+    },
+    {
+        "code": 73,
+        "text": "Roscommon County",
+        "state": "mi"
+    },
+    {
+        "code": 74,
+        "text": "Saginaw County",
+        "state": "mi"
+    },
+    {
+        "code": 75,
+        "text": "Sanilac County",
+        "state": "mi"
+    },
+    {
+        "code": 76,
+        "text": "Schoolcraft County",
+        "state": "mi"
+    },
+    {
+        "code": 77,
+        "text": "Shiawassee County",
+        "state": "mi"
+    },
+    {
+        "code": 78,
+        "text": "St. Clair County",
+        "state": "mi"
+    },
+    {
+        "code": 79,
+        "text": "St. Joseph County",
+        "state": "mi"
+    },
+    {
+        "code": 80,
+        "text": "Tuscola County",
+        "state": "mi"
+    },
+    {
+        "code": 81,
+        "text": "Van Buren County",
+        "state": "mi"
+    },
+    {
+        "code": 82,
+        "text": "Washtenaw County",
+        "state": "mi"
+    },
+    {
+        "code": 83,
+        "text": "Wayne County",
+        "state": "mi"
+    },
+    {
+        "code": 84,
+        "text": "Wexford County",
+        "state": "mi"
+    }
+]

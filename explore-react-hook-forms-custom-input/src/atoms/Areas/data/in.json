@@ -1,0 +1,472 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "in"
+    },
+    {
+        "code": 2,
+        "text": "Allen County",
+        "state": "in"
+    },
+    {
+        "code": 3,
+        "text": "Bartholomew County",
+        "state": "in"
+    },
+    {
+        "code": 4,
+        "text": "Benton County",
+        "state": "in"
+    },
+    {
+        "code": 5,
+        "text": "Blackford County",
+        "state": "in"
+    },
+    {
+        "code": 6,
+        "text": "Boone County",
+        "state": "in"
+    },
+    {
+        "code": 7,
+        "text": "Brown County",
+        "state": "in"
+    },
+    {
+        "code": 8,
+        "text": "Carroll County",
+        "state": "in"
+    },
+    {
+        "code": 9,
+        "text": "Cass County",
+        "state": "in"
+    },
+    {
+        "code": 10,
+        "text": "Clark County",
+        "state": "in"
+    },
+    {
+        "code": 11,
+        "text": "Clay County",
+        "state": "in"
+    },
+    {
+        "code": 12,
+        "text": "Clinton County",
+        "state": "in"
+    },
+    {
+        "code": 13,
+        "text": "Crawford County",
+        "state": "in"
+    },
+    {
+        "code": 14,
+        "text": "Daviess County",
+        "state": "in"
+    },
+    {
+        "code": 15,
+        "text": "Dearborn County",
+        "state": "in"
+    },
+    {
+        "code": 16,
+        "text": "Decatur County",
+        "state": "in"
+    },
+    {
+        "code": 17,
+        "text": "DeKalb County",
+        "state": "in"
+    },
+    {
+        "code": 18,
+        "text": "Delaware County",
+        "state": "in"
+    },
+    {
+        "code": 19,
+        "text": "Dubois County",
+        "state": "in"
+    },
+    {
+        "code": 20,
+        "text": "Elkhart County",
+        "state": "in"
+    },
+    {
+        "code": 21,
+        "text": "Fayette County",
+        "state": "in"
+    },
+    {
+        "code": 22,
+        "text": "Floyd County",
+        "state": "in"
+    },
+    {
+        "code": 23,
+        "text": "Fountain County",
+        "state": "in"
+    },
+    {
+        "code": 24,
+        "text": "Franklin County",
+        "state": "in"
+    },
+    {
+        "code": 25,
+        "text": "Fulton County",
+        "state": "in"
+    },
+    {
+        "code": 26,
+        "text": "Gary",
+        "state": "in"
+    },
+    {
+        "code": 27,
+        "text": "Gibson County",
+        "state": "in"
+    },
+    {
+        "code": 28,
+        "text": "Grant County",
+        "state": "in"
+    },
+    {
+        "code": 29,
+        "text": "Greene County",
+        "state": "in"
+    },
+    {
+        "code": 30,
+        "text": "Hamilton County",
+        "state": "in"
+    },
+    {
+        "code": 31,
+        "text": "Hancock County",
+        "state": "in"
+    },
+    {
+        "code": 32,
+        "text": "Harrison County",
+        "state": "in"
+    },
+    {
+        "code": 33,
+        "text": "Hendricks County",
+        "state": "in"
+    },
+    {
+        "code": 34,
+        "text": "Henry County",
+        "state": "in"
+    },
+    {
+        "code": 35,
+        "text": "Howard County",
+        "state": "in"
+    },
+    {
+        "code": 36,
+        "text": "Huntington County",
+        "state": "in"
+    },
+    {
+        "code": 37,
+        "text": "Jackson County",
+        "state": "in"
+    },
+    {
+        "code": 38,
+        "text": "Jasper County",
+        "state": "in"
+    },
+    {
+        "code": 39,
+        "text": "Jay County",
+        "state": "in"
+    },
+    {
+        "code": 40,
+        "text": "Jefferson County",
+        "state": "in"
+    },
+    {
+        "code": 41,
+        "text": "Jennings County",
+        "state": "in"
+    },
+    {
+        "code": 42,
+        "text": "Johnson County",
+        "state": "in"
+    },
+    {
+        "code": 43,
+        "text": "Knox County",
+        "state": "in"
+    },
+    {
+        "code": 44,
+        "text": "Kosciusko County",
+        "state": "in"
+    },
+    {
+        "code": 45,
+        "text": "LaGrange County",
+        "state": "in"
+    },
+    {
+        "code": 46,
+        "text": "Lake County",
+        "state": "in"
+    },
+    {
+        "code": 47,
+        "text": "LaPorte County",
+        "state": "in"
+    },
+    {
+        "code": 48,
+        "text": "Lawrence County",
+        "state": "in"
+    },
+    {
+        "code": 49,
+        "text": "Madison County",
+        "state": "in"
+    },
+    {
+        "code": 50,
+        "text": "Marion County",
+        "state": "in"
+    },
+    {
+        "code": 51,
+        "text": "Marshall County",
+        "state": "in"
+    },
+    {
+        "code": 52,
+        "text": "Martin County",
+        "state": "in"
+    },
+    {
+        "code": 53,
+        "text": "Miami County",
+        "state": "in"
+    },
+    {
+        "code": 54,
+        "text": "Monroe County",
+        "state": "in"
+    },
+    {
+        "code": 55,
+        "text": "Montgomery County",
+        "state": "in"
+    },
+    {
+        "code": 56,
+        "text": "Morgan County",
+        "state": "in"
+    },
+    {
+        "code": 57,
+        "text": "Newton County",
+        "state": "in"
+    },
+    {
+        "code": 58,
+        "text": "Noble County",
+        "state": "in"
+    },
+    {
+        "code": 59,
+        "text": "Ohio County",
+        "state": "in"
+    },
+    {
+        "code": 60,
+        "text": "Orange County",
+        "state": "in"
+    },
+    {
+        "code": 61,
+        "text": "Owen County",
+        "state": "in"
+    },
+    {
+        "code": 62,
+        "text": "Parke County",
+        "state": "in"
+    },
+    {
+        "code": 63,
+        "text": "Perry County",
+        "state": "in"
+    },
+    {
+        "code": 64,
+        "text": "Pike County",
+        "state": "in"
+    },
+    {
+        "code": 65,
+        "text": "Porter County",
+        "state": "in"
+    },
+    {
+        "code": 66,
+        "text": "Posey County",
+        "state": "in"
+    },
+    {
+        "code": 67,
+        "text": "Pulaski County",
+        "state": "in"
+    },
+    {
+        "code": 68,
+        "text": "Putnam County",
+        "state": "in"
+    },
+    {
+        "code": 69,
+        "text": "Randolph County",
+        "state": "in"
+    },
+    {
+        "code": 70,
+        "text": "Ripley County",
+        "state": "in"
+    },
+    {
+        "code": 71,
+        "text": "Rush County",
+        "state": "in"
+    },
+    {
+        "code": 72,
+        "text": "Scott County",
+        "state": "in"
+    },
+    {
+        "code": 73,
+        "text": "Shelby County",
+        "state": "in"
+    },
+    {
+        "code": 74,
+        "text": "South Bend",
+        "state": "in"
+    },
+    {
+        "code": 75,
+        "text": "Spencer County",
+        "state": "in"
+    },
+    {
+        "code": 76,
+        "text": "St. Joseph County",
+        "state": "in"
+    },
+    {
+        "code": 77,
+        "text": "Starke County",
+        "state": "in"
+    },
+    {
+        "code": 78,
+        "text": "Steuben County",
+        "state": "in"
+    },
+    {
+        "code": 79,
+        "text": "Sullivan County",
+        "state": "in"
+    },
+    {
+        "code": 80,
+        "text": "Switzerland County",
+        "state": "in"
+    },
+    {
+        "code": 81,
+        "text": "Tippecanoe County",
+        "state": "in"
+    },
+    {
+        "code": 82,
+        "text": "Tipton County",
+        "state": "in"
+    },
+    {
+        "code": 83,
+        "text": "Union County",
+        "state": "in"
+    },
+    {
+        "code": 84,
+        "text": "Vanderburgh County",
+        "state": "in"
+    },
+    {
+        "code": 85,
+        "text": "Vermillion County",
+        "state": "in"
+    },
+    {
+        "code": 86,
+        "text": "Vigo County",
+        "state": "in"
+    },
+    {
+        "code": 87,
+        "text": "Wabash County",
+        "state": "in"
+    },
+    {
+        "code": 88,
+        "text": "Warren County",
+        "state": "in"
+    },
+    {
+        "code": 89,
+        "text": "Warrick County",
+        "state": "in"
+    },
+    {
+        "code": 90,
+        "text": "Washington County",
+        "state": "in"
+    },
+    {
+        "code": 91,
+        "text": "Wayne County",
+        "state": "in"
+    },
+    {
+        "code": 92,
+        "text": "Wells County",
+        "state": "in"
+    },
+    {
+        "code": 93,
+        "text": "White County",
+        "state": "in"
+    },
+    {
+        "code": 94,
+        "text": "Whitley County",
+        "state": "in"
+    }
+]

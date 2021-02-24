@@ -1,0 +1,807 @@
+[
+    {
+        "code": 1,
+        "text": "Appling County",
+        "state": "ga"
+    },
+    {
+        "code": 2,
+        "text": "Atkinson County",
+        "state": "ga"
+    },
+    {
+        "code": 3,
+        "text": "Atlanta",
+        "state": "ga"
+    },
+    {
+        "code": 4,
+        "text": "Augusta",
+        "state": "ga"
+    },
+    {
+        "code": 5,
+        "text": "Bacon County",
+        "state": "ga"
+    },
+    {
+        "code": 6,
+        "text": "Baker County",
+        "state": "ga"
+    },
+    {
+        "code": 7,
+        "text": "Baldwin County",
+        "state": "ga"
+    },
+    {
+        "code": 8,
+        "text": "Banks County",
+        "state": "ga"
+    },
+    {
+        "code": 9,
+        "text": "Barrow County",
+        "state": "ga"
+    },
+    {
+        "code": 10,
+        "text": "Bartow County",
+        "state": "ga"
+    },
+    {
+        "code": 11,
+        "text": "Ben Hill County",
+        "state": "ga"
+    },
+    {
+        "code": 12,
+        "text": "Berrien County",
+        "state": "ga"
+    },
+    {
+        "code": 13,
+        "text": "Bibb County",
+        "state": "ga"
+    },
+    {
+        "code": 14,
+        "text": "Bleckley County",
+        "state": "ga"
+    },
+    {
+        "code": 15,
+        "text": "Brantley County",
+        "state": "ga"
+    },
+    {
+        "code": 16,
+        "text": "Brooks County",
+        "state": "ga"
+    },
+    {
+        "code": 17,
+        "text": "Bryan County",
+        "state": "ga"
+    },
+    {
+        "code": 18,
+        "text": "Bulloch County",
+        "state": "ga"
+    },
+    {
+        "code": 19,
+        "text": "Burke County",
+        "state": "ga"
+    },
+    {
+        "code": 20,
+        "text": "Butts County",
+        "state": "ga"
+    },
+    {
+        "code": 21,
+        "text": "Calhoun County",
+        "state": "ga"
+    },
+    {
+        "code": 22,
+        "text": "Camden County",
+        "state": "ga"
+    },
+    {
+        "code": 23,
+        "text": "Candler County",
+        "state": "ga"
+    },
+    {
+        "code": 24,
+        "text": "Carroll County",
+        "state": "ga"
+    },
+    {
+        "code": 25,
+        "text": "Catoosa County",
+        "state": "ga"
+    },
+    {
+        "code": 26,
+        "text": "Charlton County",
+        "state": "ga"
+    },
+    {
+        "code": 27,
+        "text": "Chatham County",
+        "state": "ga"
+    },
+    {
+        "code": 28,
+        "text": "Chattahoochee",
+        "state": "ga"
+    },
+    {
+        "code": 29,
+        "text": "Chattooga County",
+        "state": "ga"
+    },
+    {
+        "code": 30,
+        "text": "Cherokee County",
+        "state": "ga"
+    },
+    {
+        "code": 31,
+        "text": "Clarke County",
+        "state": "ga"
+    },
+    {
+        "code": 32,
+        "text": "Clay County",
+        "state": "ga"
+    },
+    {
+        "code": 33,
+        "text": "Clayton County",
+        "state": "ga"
+    },
+    {
+        "code": 34,
+        "text": "Clinch County",
+        "state": "ga"
+    },
+    {
+        "code": 35,
+        "text": "Cobb County",
+        "state": "ga"
+    },
+    {
+        "code": 36,
+        "text": "Coffee County",
+        "state": "ga"
+    },
+    {
+        "code": 37,
+        "text": "Colquitt County",
+        "state": "ga"
+    },
+    {
+        "code": 38,
+        "text": "Columbia County",
+        "state": "ga"
+    },
+    {
+        "code": 39,
+        "text": "Cook County",
+        "state": "ga"
+    },
+    {
+        "code": 40,
+        "text": "Coweta County",
+        "state": "ga"
+    },
+    {
+        "code": 41,
+        "text": "Crawford County",
+        "state": "ga"
+    },
+    {
+        "code": 42,
+        "text": "Crisp County",
+        "state": "ga"
+    },
+    {
+        "code": 43,
+        "text": "Dade County",
+        "state": "ga"
+    },
+    {
+        "code": 44,
+        "text": "Dawson County",
+        "state": "ga"
+    },
+    {
+        "code": 45,
+        "text": "Decatur County",
+        "state": "ga"
+    },
+    {
+        "code": 46,
+        "text": "DeKalb County",
+        "state": "ga"
+    },
+    {
+        "code": 47,
+        "text": "Dodge County",
+        "state": "ga"
+    },
+    {
+        "code": 48,
+        "text": "Dooly County",
+        "state": "ga"
+    },
+    {
+        "code": 49,
+        "text": "Dougherty County",
+        "state": "ga"
+    },
+    {
+        "code": 50,
+        "text": "Douglas County",
+        "state": "ga"
+    },
+    {
+        "code": 51,
+        "text": "Early County",
+        "state": "ga"
+    },
+    {
+        "code": 52,
+        "text": "Echols County",
+        "state": "ga"
+    },
+    {
+        "code": 53,
+        "text": "Effingham County",
+        "state": "ga"
+    },
+    {
+        "code": 54,
+        "text": "Elbert County",
+        "state": "ga"
+    },
+    {
+        "code": 55,
+        "text": "Emanuel County",
+        "state": "ga"
+    },
+    {
+        "code": 56,
+        "text": "Evans County",
+        "state": "ga"
+    },
+    {
+        "code": 57,
+        "text": "Fannin County",
+        "state": "ga"
+    },
+    {
+        "code": 58,
+        "text": "Fayette County",
+        "state": "ga"
+    },
+    {
+        "code": 59,
+        "text": "Floyd County",
+        "state": "ga"
+    },
+    {
+        "code": 60,
+        "text": "Forsyth County",
+        "state": "ga"
+    },
+    {
+        "code": 61,
+        "text": "Franklin County",
+        "state": "ga"
+    },
+    {
+        "code": 62,
+        "text": "Fulton County",
+        "state": "ga"
+    },
+    {
+        "code": 63,
+        "text": "Gilmer County",
+        "state": "ga"
+    },
+    {
+        "code": 64,
+        "text": "Glascock County",
+        "state": "ga"
+    },
+    {
+        "code": 65,
+        "text": "Glynn County",
+        "state": "ga"
+    },
+    {
+        "code": 66,
+        "text": "Gordon County",
+        "state": "ga"
+    },
+    {
+        "code": 67,
+        "text": "Grady County",
+        "state": "ga"
+    },
+    {
+        "code": 68,
+        "text": "Greene County",
+        "state": "ga"
+    },
+    {
+        "code": 69,
+        "text": "Gwinnett County",
+        "state": "ga"
+    },
+    {
+        "code": 70,
+        "text": "Habersham County",
+        "state": "ga"
+    },
+    {
+        "code": 71,
+        "text": "Hall County",
+        "state": "ga"
+    },
+    {
+        "code": 72,
+        "text": "Hancock County",
+        "state": "ga"
+    },
+    {
+        "code": 73,
+        "text": "Haralson County",
+        "state": "ga"
+    },
+    {
+        "code": 74,
+        "text": "Harris County",
+        "state": "ga"
+    },
+    {
+        "code": 75,
+        "text": "Hart County",
+        "state": "ga"
+    },
+    {
+        "code": 76,
+        "text": "Heard County",
+        "state": "ga"
+    },
+    {
+        "code": 77,
+        "text": "Henry County",
+        "state": "ga"
+    },
+    {
+        "code": 78,
+        "text": "Houston County",
+        "state": "ga"
+    },
+    {
+        "code": 79,
+        "text": "Irwin County",
+        "state": "ga"
+    },
+    {
+        "code": 80,
+        "text": "Jackson County",
+        "state": "ga"
+    },
+    {
+        "code": 81,
+        "text": "Jasper County",
+        "state": "ga"
+    },
+    {
+        "code": 82,
+        "text": "Jeff Davis County",
+        "state": "ga"
+    },
+    {
+        "code": 83,
+        "text": "Jefferson County",
+        "state": "ga"
+    },
+    {
+        "code": 84,
+        "text": "Jenkins County",
+        "state": "ga"
+    },
+    {
+        "code": 85,
+        "text": "Johnson County",
+        "state": "ga"
+    },
+    {
+        "code": 86,
+        "text": "Jones County",
+        "state": "ga"
+    },
+    {
+        "code": 87,
+        "text": "Lamar County",
+        "state": "ga"
+    },
+    {
+        "code": 88,
+        "text": "Lanier County",
+        "state": "ga"
+    },
+    {
+        "code": 89,
+        "text": "Laurens County",
+        "state": "ga"
+    },
+    {
+        "code": 90,
+        "text": "Lee County",
+        "state": "ga"
+    },
+    {
+        "code": 91,
+        "text": "Liberty County",
+        "state": "ga"
+    },
+    {
+        "code": 92,
+        "text": "Lincoln County",
+        "state": "ga"
+    },
+    {
+        "code": 93,
+        "text": "Long County",
+        "state": "ga"
+    },
+    {
+        "code": 94,
+        "text": "Lowndes County",
+        "state": "ga"
+    },
+    {
+        "code": 95,
+        "text": "Lumpkin County",
+        "state": "ga"
+    },
+    {
+        "code": 96,
+        "text": "Macon County",
+        "state": "ga"
+    },
+    {
+        "code": 97,
+        "text": "Madison County",
+        "state": "ga"
+    },
+    {
+        "code": 98,
+        "text": "Marion County",
+        "state": "ga"
+    },
+    {
+        "code": 99,
+        "text": "McDuffie County",
+        "state": "ga"
+    },
+    {
+        "code": 100,
+        "text": "McIntosh County",
+        "state": "ga"
+    },
+    {
+        "code": 101,
+        "text": "Meriwether County",
+        "state": "ga"
+    },
+    {
+        "code": 102,
+        "text": "Miller County",
+        "state": "ga"
+    },
+    {
+        "code": 103,
+        "text": "Mitchell County",
+        "state": "ga"
+    },
+    {
+        "code": 104,
+        "text": "Monroe County",
+        "state": "ga"
+    },
+    {
+        "code": 105,
+        "text": "Montgomery County",
+        "state": "ga"
+    },
+    {
+        "code": 106,
+        "text": "Morgan County",
+        "state": "ga"
+    },
+    {
+        "code": 107,
+        "text": "Murray County",
+        "state": "ga"
+    },
+    {
+        "code": 108,
+        "text": "Muscogee County",
+        "state": "ga"
+    },
+    {
+        "code": 109,
+        "text": "Newton County",
+        "state": "ga"
+    },
+    {
+        "code": 110,
+        "text": "Oconee County",
+        "state": "ga"
+    },
+    {
+        "code": 111,
+        "text": "Oglethorpe County",
+        "state": "ga"
+    },
+    {
+        "code": 112,
+        "text": "Paulding County",
+        "state": "ga"
+    },
+    {
+        "code": 113,
+        "text": "Peach County",
+        "state": "ga"
+    },
+    {
+        "code": 114,
+        "text": "Pickens County",
+        "state": "ga"
+    },
+    {
+        "code": 115,
+        "text": "Pierce County",
+        "state": "ga"
+    },
+    {
+        "code": 116,
+        "text": "Pike County",
+        "state": "ga"
+    },
+    {
+        "code": 117,
+        "text": "Polk County",
+        "state": "ga"
+    },
+    {
+        "code": 118,
+        "text": "Pulaski County",
+        "state": "ga"
+    },
+    {
+        "code": 119,
+        "text": "Putnam County",
+        "state": "ga"
+    },
+    {
+        "code": 120,
+        "text": "Quitman County",
+        "state": "ga"
+    },
+    {
+        "code": 121,
+        "text": "Rabun County",
+        "state": "ga"
+    },
+    {
+        "code": 122,
+        "text": "Randolph County",
+        "state": "ga"
+    },
+    {
+        "code": 123,
+        "text": "Richmond County",
+        "state": "ga"
+    },
+    {
+        "code": 124,
+        "text": "Rockdale County",
+        "state": "ga"
+    },
+    {
+        "code": 125,
+        "text": "Schley County",
+        "state": "ga"
+    },
+    {
+        "code": 126,
+        "text": "Screven County",
+        "state": "ga"
+    },
+    {
+        "code": 127,
+        "text": "Seminole County",
+        "state": "ga"
+    },
+    {
+        "code": 128,
+        "text": "Spalding County",
+        "state": "ga"
+    },
+    {
+        "code": 129,
+        "text": "Stephens County",
+        "state": "ga"
+    },
+    {
+        "code": 130,
+        "text": "Stewart County",
+        "state": "ga"
+    },
+    {
+        "code": 131,
+        "text": "Sumter County",
+        "state": "ga"
+    },
+    {
+        "code": 132,
+        "text": "Talbot County",
+        "state": "ga"
+    },
+    {
+        "code": 133,
+        "text": "Taliaferro County",
+        "state": "ga"
+    },
+    {
+        "code": 134,
+        "text": "Tattnall County",
+        "state": "ga"
+    },
+    {
+        "code": 135,
+        "text": "Taylor County",
+        "state": "ga"
+    },
+    {
+        "code": 136,
+        "text": "Telfair County",
+        "state": "ga"
+    },
+    {
+        "code": 137,
+        "text": "Terrell County",
+        "state": "ga"
+    },
+    {
+        "code": 138,
+        "text": "Thomas County",
+        "state": "ga"
+    },
+    {
+        "code": 139,
+        "text": "Tift County",
+        "state": "ga"
+    },
+    {
+        "code": 140,
+        "text": "Tombs County",
+        "state": "ga"
+    },
+    {
+        "code": 141,
+        "text": "Towns County",
+        "state": "ga"
+    },
+    {
+        "code": 142,
+        "text": "Treutlen County",
+        "state": "ga"
+    },
+    {
+        "code": 143,
+        "text": "Troup County",
+        "state": "ga"
+    },
+    {
+        "code": 144,
+        "text": "Turner County",
+        "state": "ga"
+    },
+    {
+        "code": 145,
+        "text": "Twiggs County",
+        "state": "ga"
+    },
+    {
+        "code": 146,
+        "text": "Union County",
+        "state": "ga"
+    },
+    {
+        "code": 147,
+        "text": "Upson County",
+        "state": "ga"
+    },
+    {
+        "code": 148,
+        "text": "Walker County",
+        "state": "ga"
+    },
+    {
+        "code": 149,
+        "text": "Walton County",
+        "state": "ga"
+    },
+    {
+        "code": 150,
+        "text": "Ware County",
+        "state": "ga"
+    },
+    {
+        "code": 151,
+        "text": "Warren County",
+        "state": "ga"
+    },
+    {
+        "code": 152,
+        "text": "Washington County",
+        "state": "ga"
+    },
+    {
+        "code": 153,
+        "text": "Wayne County",
+        "state": "ga"
+    },
+    {
+        "code": 154,
+        "text": "Webster County",
+        "state": "ga"
+    },
+    {
+        "code": 155,
+        "text": "Wheeler County",
+        "state": "ga"
+    },
+    {
+        "code": 156,
+        "text": "White County",
+        "state": "ga"
+    },
+    {
+        "code": 157,
+        "text": "Whitfield County",
+        "state": "ga"
+    },
+    {
+        "code": 158,
+        "text": "Wilcox County",
+        "state": "ga"
+    },
+    {
+        "code": 159,
+        "text": "Wilkes County",
+        "state": "ga"
+    },
+    {
+        "code": 160,
+        "text": "Wilkinson County",
+        "state": "ga"
+    },
+    {
+        "code": 161,
+        "text": "Worth County",
+        "state": "ga"
+    }
+]

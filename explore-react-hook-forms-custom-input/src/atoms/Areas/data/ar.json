@@ -1,0 +1,377 @@
+[
+    {
+        "code": 1,
+        "text": "Arkansas County",
+        "state": "ar"
+    },
+    {
+        "code": 2,
+        "text": "Ashley County",
+        "state": "ar"
+    },
+    {
+        "code": 3,
+        "text": "Baxter County",
+        "state": "ar"
+    },
+    {
+        "code": 4,
+        "text": "Benton County",
+        "state": "ar"
+    },
+    {
+        "code": 5,
+        "text": "Boone County",
+        "state": "ar"
+    },
+    {
+        "code": 6,
+        "text": "Bradley County",
+        "state": "ar"
+    },
+    {
+        "code": 7,
+        "text": "Calhoun County",
+        "state": "ar"
+    },
+    {
+        "code": 8,
+        "text": "Carroll County",
+        "state": "ar"
+    },
+    {
+        "code": 9,
+        "text": "Chicot County",
+        "state": "ar"
+    },
+    {
+        "code": 10,
+        "text": "Clark County",
+        "state": "ar"
+    },
+    {
+        "code": 11,
+        "text": "Clay County",
+        "state": "ar"
+    },
+    {
+        "code": 12,
+        "text": "Cleburne County",
+        "state": "ar"
+    },
+    {
+        "code": 13,
+        "text": "Cleveland County",
+        "state": "ar"
+    },
+    {
+        "code": 14,
+        "text": "Columbia County",
+        "state": "ar"
+    },
+    {
+        "code": 15,
+        "text": "Conway County",
+        "state": "ar"
+    },
+    {
+        "code": 16,
+        "text": "Craighead County",
+        "state": "ar"
+    },
+    {
+        "code": 17,
+        "text": "Crawford County",
+        "state": "ar"
+    },
+    {
+        "code": 18,
+        "text": "Crittenden County",
+        "state": "ar"
+    },
+    {
+        "code": 19,
+        "text": "Cross County",
+        "state": "ar"
+    },
+    {
+        "code": 20,
+        "text": "Dallas County",
+        "state": "ar"
+    },
+    {
+        "code": 21,
+        "text": "Desha County",
+        "state": "ar"
+    },
+    {
+        "code": 22,
+        "text": "Drew County",
+        "state": "ar"
+    },
+    {
+        "code": 23,
+        "text": "Faulkner County",
+        "state": "ar"
+    },
+    {
+        "code": 24,
+        "text": "Franklin County",
+        "state": "ar"
+    },
+    {
+        "code": 25,
+        "text": "Fulton County",
+        "state": "ar"
+    },
+    {
+        "code": 26,
+        "text": "Garland County",
+        "state": "ar"
+    },
+    {
+        "code": 27,
+        "text": "Grant County",
+        "state": "ar"
+    },
+    {
+        "code": 28,
+        "text": "Greene County",
+        "state": "ar"
+    },
+    {
+        "code": 29,
+        "text": "Hempstead County",
+        "state": "ar"
+    },
+    {
+        "code": 30,
+        "text": "Hot Spring County",
+        "state": "ar"
+    },
+    {
+        "code": 31,
+        "text": "Howard County",
+        "state": "ar"
+    },
+    {
+        "code": 32,
+        "text": "Independence County",
+        "state": "ar"
+    },
+    {
+        "code": 33,
+        "text": "Izard County",
+        "state": "ar"
+    },
+    {
+        "code": 34,
+        "text": "Jackson County",
+        "state": "ar"
+    },
+    {
+        "code": 35,
+        "text": "Jefferson County",
+        "state": "ar"
+    },
+    {
+        "code": 36,
+        "text": "Johnson County",
+        "state": "ar"
+    },
+    {
+        "code": 37,
+        "text": "Lafayette County",
+        "state": "ar"
+    },
+    {
+        "code": 38,
+        "text": "Lawrence County",
+        "state": "ar"
+    },
+    {
+        "code": 39,
+        "text": "Lee County",
+        "state": "ar"
+    },
+    {
+        "code": 40,
+        "text": "Lincoln County",
+        "state": "ar"
+    },
+    {
+        "code": 41,
+        "text": "Little River County",
+        "state": "ar"
+    },
+    {
+        "code": 42,
+        "text": "Logan County",
+        "state": "ar"
+    },
+    {
+        "code": 43,
+        "text": "Lonoke County",
+        "state": "ar"
+    },
+    {
+        "code": 44,
+        "text": "Madison County",
+        "state": "ar"
+    },
+    {
+        "code": 45,
+        "text": "Marion County",
+        "state": "ar"
+    },
+    {
+        "code": 46,
+        "text": "Miller County",
+        "state": "ar"
+    },
+    {
+        "code": 47,
+        "text": "Mississippi County",
+        "state": "ar"
+    },
+    {
+        "code": 48,
+        "text": "Monroe County",
+        "state": "ar"
+    },
+    {
+        "code": 49,
+        "text": "Montgomery County",
+        "state": "ar"
+    },
+    {
+        "code": 50,
+        "text": "Nevada County",
+        "state": "ar"
+    },
+    {
+        "code": 51,
+        "text": "Newton County",
+        "state": "ar"
+    },
+    {
+        "code": 52,
+        "text": "Ouachita County",
+        "state": "ar"
+    },
+    {
+        "code": 53,
+        "text": "Perry County",
+        "state": "ar"
+    },
+    {
+        "code": 54,
+        "text": "Phillips County",
+        "state": "ar"
+    },
+    {
+        "code": 55,
+        "text": "Pike County",
+        "state": "ar"
+    },
+    {
+        "code": 56,
+        "text": "Poinsett County",
+        "state": "ar"
+    },
+    {
+        "code": 57,
+        "text": "Polk County",
+        "state": "ar"
+    },
+    {
+        "code": 58,
+        "text": "Pope County",
+        "state": "ar"
+    },
+    {
+        "code": 59,
+        "text": "Prairie County",
+        "state": "ar"
+    },
+    {
+        "code": 60,
+        "text": "Pulaski County",
+        "state": "ar"
+    },
+    {
+        "code": 61,
+        "text": "Randolph County",
+        "state": "ar"
+    },
+    {
+        "code": 62,
+        "text": "Saline County",
+        "state": "ar"
+    },
+    {
+        "code": 63,
+        "text": "Scott County",
+        "state": "ar"
+    },
+    {
+        "code": 64,
+        "text": "Searcy County",
+        "state": "ar"
+    },
+    {
+        "code": 65,
+        "text": "Sebastian County",
+        "state": "ar"
+    },
+    {
+        "code": 66,
+        "text": "Sevier County",
+        "state": "ar"
+    },
+    {
+        "code": 67,
+        "text": "Sharp County",
+        "state": "ar"
+    },
+    {
+        "code": 68,
+        "text": "St. Francis County",
+        "state": "ar"
+    },
+    {
+        "code": 69,
+        "text": "Stone County",
+        "state": "ar"
+    },
+    {
+        "code": 70,
+        "text": "Union County",
+        "state": "ar"
+    },
+    {
+        "code": 71,
+        "text": "Van Buren County",
+        "state": "ar"
+    },
+    {
+        "code": 72,
+        "text": "Washington County",
+        "state": "ar"
+    },
+    {
+        "code": 73,
+        "text": "White County",
+        "state": "ar"
+    },
+    {
+        "code": 74,
+        "text": "Woodruff County",
+        "state": "ar"
+    },
+    {
+        "code": 75,
+        "text": "Yell County",
+        "state": "ar"
+    }
+]

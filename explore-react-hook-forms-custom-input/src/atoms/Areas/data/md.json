@@ -1,0 +1,157 @@
+[
+  {
+    "code": 1,
+    "text": "Allegany County",
+    "state": "md"
+  },
+  {
+    "code": 2,
+    "text": "Annapolis",
+    "state": "md"
+  },
+  {
+    "code": 3,
+    "text": "Anne Arundel County",
+    "state": "md"
+  },
+  {
+    "code": 4,
+    "text": "Baltimore City",
+    "state": "md"
+  },
+  {
+    "code": 5,
+    "text": "Baltimore County",
+    "state": "md"
+  },
+  {
+    "code": 6,
+    "text": "Calvert County",
+    "state": "md"
+  },
+  {
+    "code": 7,
+    "text": "Caroline County",
+    "state": "md"
+  },
+  {
+    "code": 8,
+    "text": "Carroll County",
+    "state": "md"
+  },
+  {
+    "code": 9,
+    "text": "Cecil County",
+    "state": "md"
+  },
+  {
+    "code": 10,
+    "text": "Charles County",
+    "state": "md"
+  },
+  {
+    "code": 11,
+    "text": "Cumberland",
+    "state": "md"
+  },
+  {
+    "code": 12,
+    "text": "Dorchester County",
+    "state": "md"
+  },
+  {
+    "code": 13,
+    "text": "Frederick",
+    "state": "md"
+  },
+  {
+    "code": 14,
+    "text": "Frederick County",
+    "state": "md"
+  },
+  {
+    "code": 15,
+    "text": "Garrett County",
+    "state": "md"
+  },
+  {
+    "code": 16,
+    "text": "Greenbelt",
+    "state": "md"
+  },
+  {
+    "code": 17,
+    "text": "Hagerstown",
+    "state": "md"
+  },
+  {
+    "code": 18,
+    "text": "Harford County",
+    "state": "md"
+  },
+  {
+    "code": 19,
+    "text": "Howard County",
+    "state": "md"
+  },
+  {
+    "code": 20,
+    "text": "Kent County",
+    "state": "md"
+  },
+  {
+    "code": 21,
+    "text": "Montgomery County",
+    "state": "md"
+  },
+  {
+    "code": 22,
+    "text": "Prince Georges County",
+    "state": "md"
+  },
+  {
+    "code": 23,
+    "text": "Queen Annes County",
+    "state": "md"
+  },
+  {
+    "code": 24,
+    "text": "Rockville",
+    "state": "md"
+  },
+  {
+    "code": 25,
+    "text": "Salisbury",
+    "state": "md"
+  },
+  {
+    "code": 26,
+    "text": "Somerset County",
+    "state": "md"
+  },
+  {
+    "code": 27,
+    "text": "St Marys County",
+    "state": "md"
+  },
+  {
+    "code": 28,
+    "text": "Talbot County",
+    "state": "md"
+  },
+  {
+    "code": 29,
+    "text": "Washington County",
+    "state": "md"
+  },
+  {
+    "code": 30,
+    "text": "Wicomico County",
+    "state": "md"
+  },
+  {
+    "code": 31,
+    "text": "Worcester County",
+    "state": "md"
+  }
+]

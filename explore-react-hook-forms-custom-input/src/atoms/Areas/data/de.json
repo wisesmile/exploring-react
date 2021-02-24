@@ -1,0 +1,17 @@
+[
+    {
+        "code": 1,
+        "text": "Kent County",
+        "state": "de"
+    },
+    {
+        "code": 2,
+        "text": "New Castle County",
+        "state": "de"
+    },
+    {
+        "code": 3,
+        "text": "Sussex County",
+        "state": "de"
+    }
+]

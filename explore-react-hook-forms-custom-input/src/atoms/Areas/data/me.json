@@ -1,0 +1,82 @@
+[
+    {
+        "code": 1,
+        "text": "Androscoggin County",
+        "state": "me"
+    },
+    {
+        "code": 2,
+        "text": "Aroostook County",
+        "state": "me"
+    },
+    {
+        "code": 3,
+        "text": "Cumberland County",
+        "state": "me"
+    },
+    {
+        "code": 4,
+        "text": "Franklin County",
+        "state": "me"
+    },
+    {
+        "code": 5,
+        "text": "Hancock County",
+        "state": "me"
+    },
+    {
+        "code": 6,
+        "text": "Kennebec County",
+        "state": "me"
+    },
+    {
+        "code": 7,
+        "text": "Knox County",
+        "state": "me"
+    },
+    {
+        "code": 8,
+        "text": "Lincoln County",
+        "state": "me"
+    },
+    {
+        "code": 9,
+        "text": "Oxford County",
+        "state": "me"
+    },
+    {
+        "code": 10,
+        "text": "Penobscot County",
+        "state": "me"
+    },
+    {
+        "code": 11,
+        "text": "Piscataquis County",
+        "state": "me"
+    },
+    {
+        "code": 12,
+        "text": "Sagadahoc County",
+        "state": "me"
+    },
+    {
+        "code": 13,
+        "text": "Somerset County",
+        "state": "me"
+    },
+    {
+        "code": 14,
+        "text": "Waldo County",
+        "state": "me"
+    },
+    {
+        "code": 15,
+        "text": "Washington County",
+        "state": "me"
+    },
+    {
+        "code": 16,
+        "text": "York County",
+        "state": "me"
+    }
+]

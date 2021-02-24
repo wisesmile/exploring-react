@@ -1,0 +1,492 @@
+[
+    {
+        "code": 1,
+        "text": "Anderson County",
+        "state": "tn"
+    },
+    {
+        "code": 2,
+        "text": "Bedford County",
+        "state": "tn"
+    },
+    {
+        "code": 3,
+        "text": "Benton County",
+        "state": "tn"
+    },
+    {
+        "code": 4,
+        "text": "Bledsoe County",
+        "state": "tn"
+    },
+    {
+        "code": 5,
+        "text": "Blount County",
+        "state": "tn"
+    },
+    {
+        "code": 6,
+        "text": "Bradley County",
+        "state": "tn"
+    },
+    {
+        "code": 7,
+        "text": "Campbell County",
+        "state": "tn"
+    },
+    {
+        "code": 8,
+        "text": "Cannon County",
+        "state": "tn"
+    },
+    {
+        "code": 9,
+        "text": "Carroll County",
+        "state": "tn"
+    },
+    {
+        "code": 10,
+        "text": "Carter County",
+        "state": "tn"
+    },
+    {
+        "code": 11,
+        "text": "Cheatham County",
+        "state": "tn"
+    },
+    {
+        "code": 12,
+        "text": "Chester County",
+        "state": "tn"
+    },
+    {
+        "code": 13,
+        "text": "Claiborne County",
+        "state": "tn"
+    },
+    {
+        "code": 14,
+        "text": "Clay County",
+        "state": "tn"
+    },
+    {
+        "code": 15,
+        "text": "Cocke County",
+        "state": "tn"
+    },
+    {
+        "code": 16,
+        "text": "Coffee County",
+        "state": "tn"
+    },
+    {
+        "code": 17,
+        "text": "Crockett County",
+        "state": "tn"
+    },
+    {
+        "code": 18,
+        "text": "Cumberland County",
+        "state": "tn"
+    },
+    {
+        "code": 19,
+        "text": "Davidson County",
+        "state": "tn"
+    },
+    {
+        "code": 20,
+        "text": "Decatur County",
+        "state": "tn"
+    },
+    {
+        "code": 21,
+        "text": "DeKalb County",
+        "state": "tn"
+    },
+    {
+        "code": 22,
+        "text": "Dickson County",
+        "state": "tn"
+    },
+    {
+        "code": 23,
+        "text": "Dyer County",
+        "state": "tn"
+    },
+    {
+        "code": 24,
+        "text": "Fayette County",
+        "state": "tn"
+    },
+    {
+        "code": 25,
+        "text": "Fentress County",
+        "state": "tn"
+    },
+    {
+        "code": 26,
+        "text": "Franklin County",
+        "state": "tn"
+    },
+    {
+        "code": 27,
+        "text": "Gibson County",
+        "state": "tn"
+    },
+    {
+        "code": 28,
+        "text": "Giles County",
+        "state": "tn"
+    },
+    {
+        "code": 29,
+        "text": "Grainger County",
+        "state": "tn"
+    },
+    {
+        "code": 30,
+        "text": "Greene County",
+        "state": "tn"
+    },
+    {
+        "code": 31,
+        "text": "Grundy County",
+        "state": "tn"
+    },
+    {
+        "code": 32,
+        "text": "Hamblen County",
+        "state": "tn"
+    },
+    {
+        "code": 33,
+        "text": "Hamilton County",
+        "state": "tn"
+    },
+    {
+        "code": 34,
+        "text": "Hancock County",
+        "state": "tn"
+    },
+    {
+        "code": 35,
+        "text": "Hardeman County",
+        "state": "tn"
+    },
+    {
+        "code": 36,
+        "text": "Hardin County",
+        "state": "tn"
+    },
+    {
+        "code": 37,
+        "text": "Hawkins County",
+        "state": "tn"
+    },
+    {
+        "code": 38,
+        "text": "Haywood County",
+        "state": "tn"
+    },
+    {
+        "code": 39,
+        "text": "Henderson County",
+        "state": "tn"
+    },
+    {
+        "code": 40,
+        "text": "Henry County",
+        "state": "tn"
+    },
+    {
+        "code": 41,
+        "text": "Hickman County",
+        "state": "tn"
+    },
+    {
+        "code": 42,
+        "text": "Houston County",
+        "state": "tn"
+    },
+    {
+        "code": 43,
+        "text": "Humphreys County",
+        "state": "tn"
+    },
+    {
+        "code": 44,
+        "text": "Jackson County",
+        "state": "tn"
+    },
+    {
+        "code": 45,
+        "text": "Jefferson County",
+        "state": "tn"
+    },
+    {
+        "code": 46,
+        "text": "Johnson County",
+        "state": "tn"
+    },
+    {
+        "code": 47,
+        "text": "Knox County",
+        "state": "tn"
+    },
+    {
+        "code": 48,
+        "text": "Knoxville",
+        "state": "tn"
+    },
+    {
+        "code": 49,
+        "text": "Lake County",
+        "state": "tn"
+    },
+    {
+        "code": 50,
+        "text": "Lauderdale County",
+        "state": "tn"
+    },
+    {
+        "code": 51,
+        "text": "Lawrence County",
+        "state": "tn"
+    },
+    {
+        "code": 52,
+        "text": "Lewis County",
+        "state": "tn"
+    },
+    {
+        "code": 53,
+        "text": "Lincoln County",
+        "state": "tn"
+    },
+    {
+        "code": 54,
+        "text": "Loudon County",
+        "state": "tn"
+    },
+    {
+        "code": 55,
+        "text": "Macon County",
+        "state": "tn"
+    },
+    {
+        "code": 56,
+        "text": "Madison County",
+        "state": "tn"
+    },
+    {
+        "code": 57,
+        "text": "Marion County",
+        "state": "tn"
+    },
+    {
+        "code": 58,
+        "text": "Marshall County",
+        "state": "tn"
+    },
+    {
+        "code": 59,
+        "text": "Maury County",
+        "state": "tn"
+    },
+    {
+        "code": 60,
+        "text": "McMinn County",
+        "state": "tn"
+    },
+    {
+        "code": 61,
+        "text": "McNairy County",
+        "state": "tn"
+    },
+    {
+        "code": 62,
+        "text": "Meigs County",
+        "state": "tn"
+    },
+    {
+        "code": 63,
+        "text": "Memphis",
+        "state": "tn"
+    },
+    {
+        "code": 64,
+        "text": "Monroe County",
+        "state": "tn"
+    },
+    {
+        "code": 65,
+        "text": "Montgomery County",
+        "state": "tn"
+    },
+    {
+        "code": 66,
+        "text": "Moore County",
+        "state": "tn"
+    },
+    {
+        "code": 67,
+        "text": "Morgan County",
+        "state": "tn"
+    },
+    {
+        "code": 68,
+        "text": "Nashville",
+        "state": "tn"
+    },
+    {
+        "code": 69,
+        "text": "Obion County",
+        "state": "tn"
+    },
+    {
+        "code": 70,
+        "text": "Overton County",
+        "state": "tn"
+    },
+    {
+        "code": 71,
+        "text": "Perry County",
+        "state": "tn"
+    },
+    {
+        "code": 72,
+        "text": "Pickett County",
+        "state": "tn"
+    },
+    {
+        "code": 73,
+        "text": "Polk County",
+        "state": "tn"
+    },
+    {
+        "code": 74,
+        "text": "Putnam County",
+        "state": "tn"
+    },
+    {
+        "code": 75,
+        "text": "Rhea County",
+        "state": "tn"
+    },
+    {
+        "code": 76,
+        "text": "Roane County",
+        "state": "tn"
+    },
+    {
+        "code": 77,
+        "text": "Robertson County",
+        "state": "tn"
+    },
+    {
+        "code": 78,
+        "text": "Rutherford County",
+        "state": "tn"
+    },
+    {
+        "code": 79,
+        "text": "Scott County",
+        "state": "tn"
+    },
+    {
+        "code": 80,
+        "text": "Sequatchie County",
+        "state": "tn"
+    },
+    {
+        "code": 81,
+        "text": "Sevier County",
+        "state": "tn"
+    },
+    {
+        "code": 82,
+        "text": "Shelby County",
+        "state": "tn"
+    },
+    {
+        "code": 83,
+        "text": "Smith County",
+        "state": "tn"
+    },
+    {
+        "code": 84,
+        "text": "Stewart County",
+        "state": "tn"
+    },
+    {
+        "code": 85,
+        "text": "Sullivan County",
+        "state": "tn"
+    },
+    {
+        "code": 86,
+        "text": "Sumner County",
+        "state": "tn"
+    },
+    {
+        "code": 87,
+        "text": "Tipton County",
+        "state": "tn"
+    },
+    {
+        "code": 88,
+        "text": "Trousdale County",
+        "state": "tn"
+    },
+    {
+        "code": 89,
+        "text": "Unicoi County",
+        "state": "tn"
+    },
+    {
+        "code": 90,
+        "text": "Union County",
+        "state": "tn"
+    },
+    {
+        "code": 91,
+        "text": "Van Buren County",
+        "state": "tn"
+    },
+    {
+        "code": 92,
+        "text": "Warren County",
+        "state": "tn"
+    },
+    {
+        "code": 93,
+        "text": "Washington County",
+        "state": "tn"
+    },
+    {
+        "code": 94,
+        "text": "Wayne County",
+        "state": "tn"
+    },
+    {
+        "code": 95,
+        "text": "Weakley County",
+        "state": "tn"
+    },
+    {
+        "code": 96,
+        "text": "White County",
+        "state": "tn"
+    },
+    {
+        "code": 97,
+        "text": "Williamson County",
+        "state": "tn"
+    },
+    {
+        "code": 98,
+        "text": "Wilson County",
+        "state": "tn"
+    }
+]

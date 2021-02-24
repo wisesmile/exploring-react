@@ -1,0 +1,82 @@
+[
+    {
+        "code": 1,
+        "text": "Barnstable County",
+        "state": "ma"
+    },
+    {
+        "code": 2,
+        "text": "Berkshire County",
+        "state": "ma"
+    },
+    {
+        "code": 3,
+        "text": "Boston",
+        "state": "ma"
+    },
+    {
+        "code": 4,
+        "text": "Bristol County",
+        "state": "ma"
+    },
+    {
+        "code": 5,
+        "text": "Dukes County",
+        "state": "ma"
+    },
+    {
+        "code": 6,
+        "text": "Essex County",
+        "state": "ma"
+    },
+    {
+        "code": 7,
+        "text": "Franklin County",
+        "state": "ma"
+    },
+    {
+        "code": 8,
+        "text": "Hampden County",
+        "state": "ma"
+    },
+    {
+        "code": 9,
+        "text": "Hampshire County",
+        "state": "ma"
+    },
+    {
+        "code": 10,
+        "text": "Marthas Vineyard",
+        "state": "ma"
+    },
+    {
+        "code": 11,
+        "text": "Middlesex County",
+        "state": "ma"
+    },
+    {
+        "code": 12,
+        "text": "Nantucket County",
+        "state": "ma"
+    },
+    {
+        "code": 13,
+        "text": "Norfolk County",
+        "state": "ma"
+    },
+    {
+        "code": 14,
+        "text": "Plymouth County",
+        "state": "ma"
+    },
+    {
+        "code": 15,
+        "text": "Suffolk County",
+        "state": "ma"
+    },
+    {
+        "code": 16,
+        "text": "Worcester County",
+        "state": "ma"
+    }
+]

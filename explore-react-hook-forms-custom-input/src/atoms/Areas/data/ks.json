@@ -1,0 +1,527 @@
+[
+    {
+        "code": 1,
+        "text": "Allen County",
+        "state": "ks"
+    },
+    {
+        "code": 2,
+        "text": "Anderson County",
+        "state": "ks"
+    },
+    {
+        "code": 3,
+        "text": "Atchison County",
+        "state": "ks"
+    },
+    {
+        "code": 4,
+        "text": "Barber County",
+        "state": "ks"
+    },
+    {
+        "code": 5,
+        "text": "Barton County",
+        "state": "ks"
+    },
+    {
+        "code": 6,
+        "text": "Bourbon County",
+        "state": "ks"
+    },
+    {
+        "code": 7,
+        "text": "Brown County",
+        "state": "ks"
+    },
+    {
+        "code": 8,
+        "text": "Butler County",
+        "state": "ks"
+    },
+    {
+        "code": 9,
+        "text": "Chase County",
+        "state": "ks"
+    },
+    {
+        "code": 10,
+        "text": "Chautauqua Co",
+        "state": "ks"
+    },
+    {
+        "code": 11,
+        "text": "Cherokee County",
+        "state": "ks"
+    },
+    {
+        "code": 12,
+        "text": "Cheyenne County",
+        "state": "ks"
+    },
+    {
+        "code": 13,
+        "text": "Clark County",
+        "state": "ks"
+    },
+    {
+        "code": 14,
+        "text": "Clay County",
+        "state": "ks"
+    },
+    {
+        "code": 15,
+        "text": "Cloud County",
+        "state": "ks"
+    },
+    {
+        "code": 16,
+        "text": "Coffey County",
+        "state": "ks"
+    },
+    {
+        "code": 17,
+        "text": "Comanche County",
+        "state": "ks"
+    },
+    {
+        "code": 18,
+        "text": "Cowley County",
+        "state": "ks"
+    },
+    {
+        "code": 19,
+        "text": "Crawford County",
+        "state": "ks"
+    },
+    {
+        "code": 20,
+        "text": "Decatur County",
+        "state": "ks"
+    },
+    {
+        "code": 21,
+        "text": "Dickinson County",
+        "state": "ks"
+    },
+    {
+        "code": 22,
+        "text": "Doniphan County",
+        "state": "ks"
+    },
+    {
+        "code": 23,
+        "text": "Douglas County",
+        "state": "ks"
+    },
+    {
+        "code": 24,
+        "text": "Edwards County",
+        "state": "ks"
+    },
+    {
+        "code": 25,
+        "text": "Elk County",
+        "state": "ks"
+    },
+    {
+        "code": 26,
+        "text": "Ellis County",
+        "state": "ks"
+    },
+    {
+        "code": 27,
+        "text": "Ellsworth Co",
+        "state": "ks"
+    },
+    {
+        "code": 28,
+        "text": "Finney County",
+        "state": "ks"
+    },
+    {
+        "code": 29,
+        "text": "Ford County",
+        "state": "ks"
+    },
+    {
+        "code": 30,
+        "text": "Franklin Co",
+        "state": "ks"
+    },
+    {
+        "code": 31,
+        "text": "Geary County",
+        "state": "ks"
+    },
+    {
+        "code": 32,
+        "text": "Gove County",
+        "state": "ks"
+    },
+    {
+        "code": 33,
+        "text": "Graham County",
+        "state": "ks"
+    },
+    {
+        "code": 34,
+        "text": "Grant County",
+        "state": "ks"
+    },
+    {
+        "code": 35,
+        "text": "Gray County",
+        "state": "ks"
+    },
+    {
+        "code": 36,
+        "text": "Greeley County",
+        "state": "ks"
+    },
+    {
+        "code": 37,
+        "text": "Greenwood County",
+        "state": "ks"
+    },
+    {
+        "code": 38,
+        "text": "Hamilton County",
+        "state": "ks"
+    },
+    {
+        "code": 39,
+        "text": "Harper County",
+        "state": "ks"
+    },
+    {
+        "code": 40,
+        "text": "Harvey County",
+        "state": "ks"
+    },
+    {
+        "code": 41,
+        "text": "Haskell County",
+        "state": "ks"
+    },
+    {
+        "code": 42,
+        "text": "Hodgeman County",
+        "state": "ks"
+    },
+    {
+        "code": 43,
+        "text": "Jackson County",
+        "state": "ks"
+    },
+    {
+        "code": 44,
+        "text": "Jefferson County",
+        "state": "ks"
+    },
+    {
+        "code": 45,
+        "text": "Jewell County",
+        "state": "ks"
+    },
+    {
+        "code": 46,
+        "text": "Johnson County",
+        "state": "ks"
+    },
+    {
+        "code": 47,
+        "text": "Kearny County",
+        "state": "ks"
+    },
+    {
+        "code": 48,
+        "text": "Kingman County",
+        "state": "ks"
+    },
+    {
+        "code": 49,
+        "text": "Kiowa County",
+        "state": "ks"
+    },
+    {
+        "code": 50,
+        "text": "Labette County",
+        "state": "ks"
+    },
+    {
+        "code": 51,
+        "text": "Lane County",
+        "state": "ks"
+    },
+    {
+        "code": 52,
+        "text": "Leavenworth Co",
+        "state": "ks"
+    },
+    {
+        "code": 53,
+        "text": "Lincoln County",
+        "state": "ks"
+    },
+    {
+        "code": 54,
+        "text": "Linn County",
+        "state": "ks"
+    },
+    {
+        "code": 55,
+        "text": "Logan County",
+        "state": "ks"
+    },
+    {
+        "code": 56,
+        "text": "Lyon County",
+        "state": "ks"
+    },
+    {
+        "code": 57,
+        "text": "Marion County",
+        "state": "ks"
+    },
+    {
+        "code": 58,
+        "text": "Marshall County",
+        "state": "ks"
+    },
+    {
+        "code": 59,
+        "text": "McPherson Co",
+        "state": "ks"
+    },
+    {
+        "code": 60,
+        "text": "Meade County",
+        "state": "ks"
+    },
+    {
+        "code": 61,
+        "text": "Miami County",
+        "state": "ks"
+    },
+    {
+        "code": 62,
+        "text": "Mitchell County",
+        "state": "ks"
+    },
+    {
+        "code": 63,
+        "text": "Montgomery Co",
+        "state": "ks"
+    },
+    {
+        "code": 64,
+        "text": "Morris County",
+        "state": "ks"
+    },
+    {
+        "code": 65,
+        "text": "Morton County",
+        "state": "ks"
+    },
+    {
+        "code": 66,
+        "text": "Nemaha County",
+        "state": "ks"
+    },
+    {
+        "code": 67,
+        "text": "Neosho County",
+        "state": "ks"
+    },
+    {
+        "code": 68,
+        "text": "Ness County",
+        "state": "ks"
+    },
+    {
+        "code": 69,
+        "text": "Norton County",
+        "state": "ks"
+    },
+    {
+        "code": 70,
+        "text": "Osage County",
+        "state": "ks"
+    },
+    {
+        "code": 71,
+        "text": "Osborne County",
+        "state": "ks"
+    },
+    {
+        "code": 72,
+        "text": "Ottawa County",
+        "state": "ks"
+    },
+    {
+        "code": 73,
+        "text": "Pawnee County",
+        "state": "ks"
+    },
+    {
+        "code": 74,
+        "text": "Phillips County",
+        "state": "ks"
+    },
+    {
+        "code": 75,
+        "text": "Pottawatomie Co",
+        "state": "ks"
+    },
+    {
+        "code": 76,
+        "text": "Pratt County",
+        "state": "ks"
+    },
+    {
+        "code": 77,
+        "text": "Rawlins County",
+        "state": "ks"
+    },
+    {
+        "code": 78,
+        "text": "Reno County",
+        "state": "ks"
+    },
+    {
+        "code": 79,
+        "text": "Republic County",
+        "state": "ks"
+    },
+    {
+        "code": 80,
+        "text": "Rice County",
+        "state": "ks"
+    },
+    {
+        "code": 81,
+        "text": "Riley County",
+        "state": "ks"
+    },
+    {
+        "code": 82,
+        "text": "Rooks County",
+        "state": "ks"
+    },
+    {
+        "code": 83,
+        "text": "Rush County",
+        "state": "ks"
+    },
+    {
+        "code": 84,
+        "text": "Russell County",
+        "state": "ks"
+    },
+    {
+        "code": 85,
+        "text": "Saline County",
+        "state": "ks"
+    },
+    {
+        "code": 86,
+        "text": "Scott County",
+        "state": "ks"
+    },
+    {
+        "code": 87,
+        "text": "Sedgwick County",
+        "state": "ks"
+    },
+    {
+        "code": 88,
+        "text": "Seward County",
+        "state": "ks"
+    },
+    {
+        "code": 89,
+        "text": "Shawnee County",
+        "state": "ks"
+    },
+    {
+        "code": 90,
+        "text": "Sheridan County",
+        "state": "ks"
+    },
+    {
+        "code": 91,
+        "text": "Sherman County",
+        "state": "ks"
+    },
+    {
+        "code": 92,
+        "text": "Smith County",
+        "state": "ks"
+    },
+    {
+        "code": 93,
+        "text": "Stafford County",
+        "state": "ks"
+    },
+    {
+        "code": 94,
+        "text": "Stanton County",
+        "state": "ks"
+    },
+    {
+        "code": 95,
+        "text": "Stevens County",
+        "state": "ks"
+    },
+    {
+        "code": 96,
+        "text": "Sumner County",
+        "state": "ks"
+    },
+    {
+        "code": 97,
+        "text": "Thomas County",
+        "state": "ks"
+    },
+    {
+        "code": 98,
+        "text": "Trego County",
+        "state": "ks"
+    },
+    {
+        "code": 99,
+        "text": "Wabaunsee Co",
+        "state": "ks"
+    },
+    {
+        "code": 100,
+        "text": "Wallace County",
+        "state": "ks"
+    },
+    {
+        "code": 101,
+        "text": "Washington Co",
+        "state": "ks"
+    },
+    {
+        "code": 102,
+        "text": "Wichita County",
+        "state": "ks"
+    },
+    {
+        "code": 103,
+        "text": "Wilson County",
+        "state": "ks"
+    },
+    {
+        "code": 104,
+        "text": "Woodson County",
+        "state": "ks"
+    },
+    {
+        "code": 105,
+        "text": "Wyandotte Co",
+        "state": "ks"
+    }
+]

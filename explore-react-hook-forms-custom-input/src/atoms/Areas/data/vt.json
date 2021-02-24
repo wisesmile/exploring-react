@@ -1,0 +1,72 @@
+[
+    {
+        "code": 1,
+        "text": "Addison County",
+        "state": "vt"
+    },
+    {
+        "code": 2,
+        "text": "Bennington County",
+        "state": "vt"
+    },
+    {
+        "code": 3,
+        "text": "Caledonia County",
+        "state": "vt"
+    },
+    {
+        "code": 4,
+        "text": "Chittenden County",
+        "state": "vt"
+    },
+    {
+        "code": 5,
+        "text": "Essex County",
+        "state": "vt"
+    },
+    {
+        "code": 6,
+        "text": "Franklin County",
+        "state": "vt"
+    },
+    {
+        "code": 7,
+        "text": "Grand Isle County",
+        "state": "vt"
+    },
+    {
+        "code": 8,
+        "text": "Lamoille County",
+        "state": "vt"
+    },
+    {
+        "code": 9,
+        "text": "Orange County",
+        "state": "vt"
+    },
+    {
+        "code": 10,
+        "text": "Orleans County",
+        "state": "vt"
+    },
+    {
+        "code": 11,
+        "text": "Rutland County",
+        "state": "vt"
+    },
+    {
+        "code": 12,
+        "text": "Washington County",
+        "state": "vt"
+    },
+    {
+        "code": 13,
+        "text": "Windham County",
+        "state": "vt"
+    },
+    {
+        "code": 14,
+        "text": "Windsor County",
+        "state": "vt"
+    }
+]

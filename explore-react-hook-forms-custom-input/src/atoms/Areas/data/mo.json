@@ -1,0 +1,582 @@
+[
+    {
+        "code": 1,
+        "text": "Adair County",
+        "state": "mo"
+    },
+    {
+        "code": 2,
+        "text": "Andrew County",
+        "state": "mo"
+    },
+    {
+        "code": 3,
+        "text": "Atchison County",
+        "state": "mo"
+    },
+    {
+        "code": 4,
+        "text": "Audrain County",
+        "state": "mo"
+    },
+    {
+        "code": 5,
+        "text": "Barry County",
+        "state": "mo"
+    },
+    {
+        "code": 6,
+        "text": "Barton County",
+        "state": "mo"
+    },
+    {
+        "code": 7,
+        "text": "Bates County",
+        "state": "mo"
+    },
+    {
+        "code": 8,
+        "text": "Benton County",
+        "state": "mo"
+    },
+    {
+        "code": 9,
+        "text": "Bollinger County",
+        "state": "mo"
+    },
+    {
+        "code": 10,
+        "text": "Boone County",
+        "state": "mo"
+    },
+    {
+        "code": 11,
+        "text": "Buchanan County",
+        "state": "mo"
+    },
+    {
+        "code": 12,
+        "text": "Butler County",
+        "state": "mo"
+    },
+    {
+        "code": 13,
+        "text": "Caldwell County",
+        "state": "mo"
+    },
+    {
+        "code": 14,
+        "text": "Callaway County",
+        "state": "mo"
+    },
+    {
+        "code": 15,
+        "text": "Camden County",
+        "state": "mo"
+    },
+    {
+        "code": 16,
+        "text": "Cape Girardeau Co",
+        "state": "mo"
+    },
+    {
+        "code": 17,
+        "text": "Carroll County",
+        "state": "mo"
+    },
+    {
+        "code": 18,
+        "text": "Carter County",
+        "state": "mo"
+    },
+    {
+        "code": 19,
+        "text": "Cass County",
+        "state": "mo"
+    },
+    {
+        "code": 20,
+        "text": "Cedar County",
+        "state": "mo"
+    },
+    {
+        "code": 21,
+        "text": "Chariton County",
+        "state": "mo"
+    },
+    {
+        "code": 22,
+        "text": "Christian County",
+        "state": "mo"
+    },
+    {
+        "code": 23,
+        "text": "Clark County",
+        "state": "mo"
+    },
+    {
+        "code": 24,
+        "text": "Clay County",
+        "state": "mo"
+    },
+    {
+        "code": 25,
+        "text": "Clinton County",
+        "state": "mo"
+    },
+    {
+        "code": 26,
+        "text": "Cole County",
+        "state": "mo"
+    },
+    {
+        "code": 27,
+        "text": "Cooper County",
+        "state": "mo"
+    },
+    {
+        "code": 28,
+        "text": "Crawford County",
+        "state": "mo"
+    },
+    {
+        "code": 29,
+        "text": "Dade County",
+        "state": "mo"
+    },
+    {
+        "code": 30,
+        "text": "Dallas County",
+        "state": "mo"
+    },
+    {
+        "code": 31,
+        "text": "Daviess County",
+        "state": "mo"
+    },
+    {
+        "code": 32,
+        "text": "DeKalb County",
+        "state": "mo"
+    },
+    {
+        "code": 33,
+        "text": "Dent County",
+        "state": "mo"
+    },
+    {
+        "code": 34,
+        "text": "Douglas County",
+        "state": "mo"
+    },
+    {
+        "code": 35,
+        "text": "Dunklin County",
+        "state": "mo"
+    },
+    {
+        "code": 36,
+        "text": "Franklin County",
+        "state": "mo"
+    },
+    {
+        "code": 37,
+        "text": "Gasconade Co",
+        "state": "mo"
+    },
+    {
+        "code": 38,
+        "text": "Gentry County",
+        "state": "mo"
+    },
+    {
+        "code": 39,
+        "text": "Greene County",
+        "state": "mo"
+    },
+    {
+        "code": 40,
+        "text": "Grundy County",
+        "state": "mo"
+    },
+    {
+        "code": 41,
+        "text": "Harrison County",
+        "state": "mo"
+    },
+    {
+        "code": 42,
+        "text": "Henry County",
+        "state": "mo"
+    },
+    {
+        "code": 43,
+        "text": "Hickory County",
+        "state": "mo"
+    },
+    {
+        "code": 44,
+        "text": "Holt County",
+        "state": "mo"
+    },
+    {
+        "code": 45,
+        "text": "Howard County",
+        "state": "mo"
+    },
+    {
+        "code": 46,
+        "text": "Howell County",
+        "state": "mo"
+    },
+    {
+        "code": 47,
+        "text": "Iron County",
+        "state": "mo"
+    },
+    {
+        "code": 48,
+        "text": "Jackson County",
+        "state": "mo"
+    },
+    {
+        "code": 49,
+        "text": "Jasper County",
+        "state": "mo"
+    },
+    {
+        "code": 50,
+        "text": "Jefferson County",
+        "state": "mo"
+    },
+    {
+        "code": 51,
+        "text": "Johnson County",
+        "state": "mo"
+    },
+    {
+        "code": 52,
+        "text": "Kansas City",
+        "state": "mo"
+    },
+    {
+        "code": 53,
+        "text": "Knox County",
+        "state": "mo"
+    },
+    {
+        "code": 54,
+        "text": "Laclede County",
+        "state": "mo"
+    },
+    {
+        "code": 55,
+        "text": "Lafayette Co",
+        "state": "mo"
+    },
+    {
+        "code": 56,
+        "text": "Lawrence County",
+        "state": "mo"
+    },
+    {
+        "code": 57,
+        "text": "Lewis County",
+        "state": "mo"
+    },
+    {
+        "code": 58,
+        "text": "Lincoln County",
+        "state": "mo"
+    },
+    {
+        "code": 59,
+        "text": "Linn County",
+        "state": "mo"
+    },
+    {
+        "code": 60,
+        "text": "Livingston County",
+        "state": "mo"
+    },
+    {
+        "code": 61,
+        "text": "Macon County",
+        "state": "mo"
+    },
+    {
+        "code": 62,
+        "text": "Madison County",
+        "state": "mo"
+    },
+    {
+        "code": 63,
+        "text": "Maries County",
+        "state": "mo"
+    },
+    {
+        "code": 64,
+        "text": "Marion County",
+        "state": "mo"
+    },
+    {
+        "code": 65,
+        "text": "McDonald County",
+        "state": "mo"
+    },
+    {
+        "code": 66,
+        "text": "Mercer County",
+        "state": "mo"
+    },
+    {
+        "code": 67,
+        "text": "Miller County",
+        "state": "mo"
+    },
+    {
+        "code": 68,
+        "text": "Mississippi Co",
+        "state": "mo"
+    },
+    {
+        "code": 69,
+        "text": "Moniteau County",
+        "state": "mo"
+    },
+    {
+        "code": 70,
+        "text": "Monroe County",
+        "state": "mo"
+    },
+    {
+        "code": 71,
+        "text": "Montgomery Co",
+        "state": "mo"
+    },
+    {
+        "code": 72,
+        "text": "Morgan County",
+        "state": "mo"
+    },
+    {
+        "code": 73,
+        "text": "New Madrid Co",
+        "state": "mo"
+    },
+    {
+        "code": 74,
+        "text": "Newton County",
+        "state": "mo"
+    },
+    {
+        "code": 75,
+        "text": "Nodaway County",
+        "state": "mo"
+    },
+    {
+        "code": 76,
+        "text": "Oregon County",
+        "state": "mo"
+    },
+    {
+        "code": 77,
+        "text": "Osage County",
+        "state": "mo"
+    },
+    {
+        "code": 78,
+        "text": "Ozark County",
+        "state": "mo"
+    },
+    {
+        "code": 79,
+        "text": "Pemiscot Co",
+        "state": "mo"
+    },
+    {
+        "code": 80,
+        "text": "Perry County",
+        "state": "mo"
+    },
+    {
+        "code": 81,
+        "text": "Pettis County",
+        "state": "mo"
+    },
+    {
+        "code": 82,
+        "text": "Phelps County",
+        "state": "mo"
+    },
+    {
+        "code": 83,
+        "text": "Pike County",
+        "state": "mo"
+    },
+    {
+        "code": 84,
+        "text": "Platte County",
+        "state": "mo"
+    },
+    {
+        "code": 85,
+        "text": "Polk County",
+        "state": "mo"
+    },
+    {
+        "code": 86,
+        "text": "Pulaski County",
+        "state": "mo"
+    },
+    {
+        "code": 87,
+        "text": "Putnam County",
+        "state": "mo"
+    },
+    {
+        "code": 88,
+        "text": "Ralls County",
+        "state": "mo"
+    },
+    {
+        "code": 89,
+        "text": "Randolph County",
+        "state": "mo"
+    },
+    {
+        "code": 90,
+        "text": "Ray County",
+        "state": "mo"
+    },
+    {
+        "code": 91,
+        "text": "Reynolds County",
+        "state": "mo"
+    },
+    {
+        "code": 92,
+        "text": "Ripley County",
+        "state": "mo"
+    },
+    {
+        "code": 93,
+        "text": "Saline County",
+        "state": "mo"
+    },
+    {
+        "code": 94,
+        "text": "Schuyler County",
+        "state": "mo"
+    },
+    {
+        "code": 95,
+        "text": "Scotland County",
+        "state": "mo"
+    },
+    {
+        "code": 96,
+        "text": "Scott County",
+        "state": "mo"
+    },
+    {
+        "code": 97,
+        "text": "Shannon County",
+        "state": "mo"
+    },
+    {
+        "code": 98,
+        "text": "Shelby County",
+        "state": "mo"
+    },
+    {
+        "code": 99,
+        "text": "St. Charles County",
+        "state": "mo"
+    },
+    {
+        "code": 100,
+        "text": "St. Clair County",
+        "state": "mo"
+    },
+    {
+        "code": 101,
+        "text": "St. Francois Co",
+        "state": "mo"
+    },
+    {
+        "code": 102,
+        "text": "St. Louis City",
+        "state": "mo"
+    },
+    {
+        "code": 103,
+        "text": "St. Louis County",
+        "state": "mo"
+    },
+    {
+        "code": 104,
+        "text": "Ste. Genevieve Co",
+        "state": "mo"
+    },
+    {
+        "code": 105,
+        "text": "Stoddard County",
+        "state": "mo"
+    },
+    {
+        "code": 106,
+        "text": "Stone County",
+        "state": "mo"
+    },
+    {
+        "code": 107,
+        "text": "Sullivan County",
+        "state": "mo"
+    },
+    {
+        "code": 108,
+        "text": "Taney County",
+        "state": "mo"
+    },
+    {
+        "code": 109,
+        "text": "Texas County",
+        "state": "mo"
+    },
+    {
+        "code": 110,
+        "text": "Vernon County",
+        "state": "mo"
+    },
+    {
+        "code": 111,
+        "text": "Warren County",
+        "state": "mo"
+    },
+    {
+        "code": 112,
+        "text": "Washington Co",
+        "state": "mo"
+    },
+    {
+        "code": 113,
+        "text": "Wayne County",
+        "state": "mo"
+    },
+    {
+        "code": 114,
+        "text": "Webster County",
+        "state": "mo"
+    },
+    {
+        "code": 115,
+        "text": "Worth County",
+        "state": "mo"
+    },
+    {
+        "code": 116,
+        "text": "Wright County",
+        "state": "mo"
+    }
+]

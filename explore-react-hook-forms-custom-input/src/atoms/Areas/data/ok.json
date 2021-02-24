@@ -1,0 +1,392 @@
+[
+    {
+        "code": 1,
+        "text": "Adair County",
+        "state": "ok"
+    },
+    {
+        "code": 2,
+        "text": "Alfalfa County",
+        "state": "ok"
+    },
+    {
+        "code": 3,
+        "text": "Atoka County",
+        "state": "ok"
+    },
+    {
+        "code": 4,
+        "text": "Beaver County",
+        "state": "ok"
+    },
+    {
+        "code": 5,
+        "text": "Beckham County",
+        "state": "ok"
+    },
+    {
+        "code": 6,
+        "text": "Blaine County",
+        "state": "ok"
+    },
+    {
+        "code": 7,
+        "text": "Bryan County",
+        "state": "ok"
+    },
+    {
+        "code": 8,
+        "text": "Caddo County",
+        "state": "ok"
+    },
+    {
+        "code": 9,
+        "text": "Canadian County",
+        "state": "ok"
+    },
+    {
+        "code": 10,
+        "text": "Carter County",
+        "state": "ok"
+    },
+    {
+        "code": 11,
+        "text": "Cherokee County",
+        "state": "ok"
+    },
+    {
+        "code": 12,
+        "text": "Choctaw County",
+        "state": "ok"
+    },
+    {
+        "code": 13,
+        "text": "Cimarron County",
+        "state": "ok"
+    },
+    {
+        "code": 14,
+        "text": "Cleveland County",
+        "state": "ok"
+    },
+    {
+        "code": 15,
+        "text": "Coal County",
+        "state": "ok"
+    },
+    {
+        "code": 16,
+        "text": "Comanche County",
+        "state": "ok"
+    },
+    {
+        "code": 17,
+        "text": "Cotton County",
+        "state": "ok"
+    },
+    {
+        "code": 18,
+        "text": "Craig County",
+        "state": "ok"
+    },
+    {
+        "code": 19,
+        "text": "Creek County",
+        "state": "ok"
+    },
+    {
+        "code": 20,
+        "text": "Custer County",
+        "state": "ok"
+    },
+    {
+        "code": 21,
+        "text": "Delaware County",
+        "state": "ok"
+    },
+    {
+        "code": 22,
+        "text": "Dewey County",
+        "state": "ok"
+    },
+    {
+        "code": 23,
+        "text": "Ellis County",
+        "state": "ok"
+    },
+    {
+        "code": 24,
+        "text": "Garfield County",
+        "state": "ok"
+    },
+    {
+        "code": 25,
+        "text": "Garvin County",
+        "state": "ok"
+    },
+    {
+        "code": 26,
+        "text": "Grady County",
+        "state": "ok"
+    },
+    {
+        "code": 27,
+        "text": "Grant County",
+        "state": "ok"
+    },
+    {
+        "code": 28,
+        "text": "Greer County",
+        "state": "ok"
+    },
+    {
+        "code": 29,
+        "text": "Harmon County",
+        "state": "ok"
+    },
+    {
+        "code": 30,
+        "text": "Harper County",
+        "state": "ok"
+    },
+    {
+        "code": 31,
+        "text": "Haskell County",
+        "state": "ok"
+    },
+    {
+        "code": 32,
+        "text": "Hughes County",
+        "state": "ok"
+    },
+    {
+        "code": 33,
+        "text": "Jackson County",
+        "state": "ok"
+    },
+    {
+        "code": 34,
+        "text": "Jefferson County",
+        "state": "ok"
+    },
+    {
+        "code": 35,
+        "text": "Johnston County",
+        "state": "ok"
+    },
+    {
+        "code": 36,
+        "text": "Kay County",
+        "state": "ok"
+    },
+    {
+        "code": 37,
+        "text": "Kingfisher Co",
+        "state": "ok"
+    },
+    {
+        "code": 38,
+        "text": "Kiowa County",
+        "state": "ok"
+    },
+    {
+        "code": 39,
+        "text": "Latimer County",
+        "state": "ok"
+    },
+    {
+        "code": 40,
+        "text": "LeFlore County",
+        "state": "ok"
+    },
+    {
+        "code": 41,
+        "text": "Lincoln County",
+        "state": "ok"
+    },
+    {
+        "code": 42,
+        "text": "Logan County",
+        "state": "ok"
+    },
+    {
+        "code": 43,
+        "text": "Love County",
+        "state": "ok"
+    },
+    {
+        "code": 44,
+        "text": "Major County",
+        "state": "ok"
+    },
+    {
+        "code": 45,
+        "text": "Marshall County",
+        "state": "ok"
+    },
+    {
+        "code": 46,
+        "text": "Mayes County",
+        "state": "ok"
+    },
+    {
+        "code": 47,
+        "text": "McClain County",
+        "state": "ok"
+    },
+    {
+        "code": 48,
+        "text": "McCurtain County",
+        "state": "ok"
+    },
+    {
+        "code": 49,
+        "text": "McIntosh County",
+        "state": "ok"
+    },
+    {
+        "code": 50,
+        "text": "Murray County",
+        "state": "ok"
+    },
+    {
+        "code": 51,
+        "text": "Muskogee County",
+        "state": "ok"
+    },
+    {
+        "code": 52,
+        "text": "Noble County",
+        "state": "ok"
+    },
+    {
+        "code": 53,
+        "text": "Nowata County",
+        "state": "ok"
+    },
+    {
+        "code": 54,
+        "text": "Okfuskee County",
+        "state": "ok"
+    },
+    {
+        "code": 55,
+        "text": "Oklahoma City",
+        "state": "ok"
+    },
+    {
+        "code": 56,
+        "text": "Oklahoma County",
+        "state": "ok"
+    },
+    {
+        "code": 57,
+        "text": "Okmulgee County",
+        "state": "ok"
+    },
+    {
+        "code": 58,
+        "text": "Osage County",
+        "state": "ok"
+    },
+    {
+        "code": 59,
+        "text": "Ottawa County",
+        "state": "ok"
+    },
+    {
+        "code": 60,
+        "text": "Pawnee County",
+        "state": "ok"
+    },
+    {
+        "code": 61,
+        "text": "Payne County",
+        "state": "ok"
+    },
+    {
+        "code": 62,
+        "text": "Pittsburg County",
+        "state": "ok"
+    },
+    {
+        "code": 63,
+        "text": "Pontotoc County",
+        "state": "ok"
+    },
+    {
+        "code": 64,
+        "text": "Pottawatomie Co",
+        "state": "ok"
+    },
+    {
+        "code": 65,
+        "text": "Pushmataha County",
+        "state": "ok"
+    },
+    {
+        "code": 66,
+        "text": "Roger Mills Co",
+        "state": "ok"
+    },
+    {
+        "code": 67,
+        "text": "Rogers County",
+        "state": "ok"
+    },
+    {
+        "code": 68,
+        "text": "Seminole County",
+        "state": "ok"
+    },
+    {
+        "code": 69,
+        "text": "Sequoyah County",
+        "state": "ok"
+    },
+    {
+        "code": 70,
+        "text": "Stephens County",
+        "state": "ok"
+    },
+    {
+        "code": 71,
+        "text": "Texas County",
+        "state": "ok"
+    },
+    {
+        "code": 72,
+        "text": "Tillman County",
+        "state": "ok"
+    },
+    {
+        "code": 73,
+        "text": "Tulsa County",
+        "state": "ok"
+    },
+    {
+        "code": 74,
+        "text": "Wagoner County",
+        "state": "ok"
+    },
+    {
+        "code": 75,
+        "text": "Washington Co",
+        "state": "ok"
+    },
+    {
+        "code": 76,
+        "text": "Washita County",
+        "state": "ok"
+    },
+    {
+        "code": 77,
+        "text": "Woods County",
+        "state": "ok"
+    },
+    {
+        "code": 78,
+        "text": "Woodward County",
+        "state": "ok"
+    }
+]

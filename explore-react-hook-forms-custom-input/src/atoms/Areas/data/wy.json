@@ -1,0 +1,117 @@
+[
+    {
+        "code": 1,
+        "text": "Albany County",
+        "state": "wy"
+    },
+    {
+        "code": 2,
+        "text": "Big Horn County",
+        "state": "wy"
+    },
+    {
+        "code": 3,
+        "text": "Campbell County",
+        "state": "wy"
+    },
+    {
+        "code": 4,
+        "text": "Carbon County",
+        "state": "wy"
+    },
+    {
+        "code": 5,
+        "text": "Converse County",
+        "state": "wy"
+    },
+    {
+        "code": 6,
+        "text": "Crook County",
+        "state": "wy"
+    },
+    {
+        "code": 7,
+        "text": "Fremont County",
+        "state": "wy"
+    },
+    {
+        "code": 8,
+        "text": "Goshen County",
+        "state": "wy"
+    },
+    {
+        "code": 9,
+        "text": "Hot Springs County",
+        "state": "wy"
+    },
+    {
+        "code": 10,
+        "text": "Johnson County",
+        "state": "wy"
+    },
+    {
+        "code": 11,
+        "text": "Laramie County",
+        "state": "wy"
+    },
+    {
+        "code": 12,
+        "text": "Lincoln County",
+        "state": "wy"
+    },
+    {
+        "code": 13,
+        "text": "Natrona County",
+        "state": "wy"
+    },
+    {
+        "code": 14,
+        "text": "Niobrara County",
+        "state": "wy"
+    },
+    {
+        "code": 15,
+        "text": "Park County",
+        "state": "wy"
+    },
+    {
+        "code": 16,
+        "text": "Platte County",
+        "state": "wy"
+    },
+    {
+        "code": 17,
+        "text": "Sheridan County",
+        "state": "wy"
+    },
+    {
+        "code": 18,
+        "text": "Sublette County",
+        "state": "wy"
+    },
+    {
+        "code": 19,
+        "text": "Sweetwater County",
+        "state": "wy"
+    },
+    {
+        "code": 20,
+        "text": "Teton County",
+        "state": "wy"
+    },
+    {
+        "code": 21,
+        "text": "Uinta County",
+        "state": "wy"
+    },
+    {
+        "code": 22,
+        "text": "Washakie County",
+        "state": "wy"
+    },
+    {
+        "code": 23,
+        "text": "Weston County",
+        "state": "wy"
+    }
+]

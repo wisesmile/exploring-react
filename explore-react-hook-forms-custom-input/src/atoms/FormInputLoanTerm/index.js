@@ -1,0 +1,1 @@
+export { FormInputLoanTerm } from "./FormInput";

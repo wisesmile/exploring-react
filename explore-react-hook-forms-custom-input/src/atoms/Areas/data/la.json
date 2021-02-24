@@ -1,0 +1,322 @@
+[
+    {
+        "code": 1,
+        "text": "Acadia Parish",
+        "state": "la"
+    },
+    {
+        "code": 2,
+        "text": "Allen Parish",
+        "state": "la"
+    },
+    {
+        "code": 3,
+        "text": "Ascension Parish",
+        "state": "la"
+    },
+    {
+        "code": 4,
+        "text": "Assumption Parish",
+        "state": "la"
+    },
+    {
+        "code": 5,
+        "text": "Avoyelles Parish",
+        "state": "la"
+    },
+    {
+        "code": 6,
+        "text": "Beauregard Parish",
+        "state": "la"
+    },
+    {
+        "code": 7,
+        "text": "Bienville Parish",
+        "state": "la"
+    },
+    {
+        "code": 8,
+        "text": "Bossier Parish",
+        "state": "la"
+    },
+    {
+        "code": 9,
+        "text": "Caddo Parish",
+        "state": "la"
+    },
+    {
+        "code": 10,
+        "text": "Calcasieu Parish",
+        "state": "la"
+    },
+    {
+        "code": 11,
+        "text": "Caldwell Parish",
+        "state": "la"
+    },
+    {
+        "code": 12,
+        "text": "Cameron Parish",
+        "state": "la"
+    },
+    {
+        "code": 13,
+        "text": "Catahoula Parish",
+        "state": "la"
+    },
+    {
+        "code": 14,
+        "text": "Claiborne Parish",
+        "state": "la"
+    },
+    {
+        "code": 15,
+        "text": "Concordia Parish",
+        "state": "la"
+    },
+    {
+        "code": 16,
+        "text": "De Soto Parish",
+        "state": "la"
+    },
+    {
+        "code": 17,
+        "text": "East Baton Rouge",
+        "state": "la"
+    },
+    {
+        "code": 18,
+        "text": "East Carroll",
+        "state": "la"
+    },
+    {
+        "code": 19,
+        "text": "East Feliciana",
+        "state": "la"
+    },
+    {
+        "code": 20,
+        "text": "Evangeline Parish",
+        "state": "la"
+    },
+    {
+        "code": 21,
+        "text": "Franklin Parish",
+        "state": "la"
+    },
+    {
+        "code": 22,
+        "text": "Grant Parish",
+        "state": "la"
+    },
+    {
+        "code": 23,
+        "text": "Iberia Parish",
+        "state": "la"
+    },
+    {
+        "code": 24,
+        "text": "Iberville Parish",
+        "state": "la"
+    },
+    {
+        "code": 25,
+        "text": "Jackson Parish",
+        "state": "la"
+    },
+    {
+        "code": 26,
+        "text": "Jefferson Davis",
+        "state": "la"
+    },
+    {
+        "code": 27,
+        "text": "Jefferson Parish",
+        "state": "la"
+    },
+    {
+        "code": 28,
+        "text": "Lafayette Parish",
+        "state": "la"
+    },
+    {
+        "code": 29,
+        "text": "Lafourche Parish",
+        "state": "la"
+    },
+    {
+        "code": 30,
+        "text": "LaSalle Parish",
+        "state": "la"
+    },
+    {
+        "code": 31,
+        "text": "Lincoln Parish",
+        "state": "la"
+    },
+    {
+        "code": 32,
+        "text": "Livingston Parish",
+        "state": "la"
+    },
+    {
+        "code": 33,
+        "text": "Madison Parish",
+        "state": "la"
+    },
+    {
+        "code": 34,
+        "text": "Morehouse Parish",
+        "state": "la"
+    },
+    {
+        "code": 35,
+        "text": "Natchitoches Parish",
+        "state": "la"
+    },
+    {
+        "code": 36,
+        "text": "Orleans Parish",
+        "state": "la"
+    },
+    {
+        "code": 37,
+        "text": "Ouachita Parish",
+        "state": "la"
+    },
+    {
+        "code": 38,
+        "text": "Plaquemines Parish",
+        "state": "la"
+    },
+    {
+        "code": 39,
+        "text": "Pointe Coupee Parish",
+        "state": "la"
+    },
+    {
+        "code": 40,
+        "text": "Rapides Parish",
+        "state": "la"
+    },
+    {
+        "code": 41,
+        "text": "Red River Parish",
+        "state": "la"
+    },
+    {
+        "code": 42,
+        "text": "Richland Parish",
+        "state": "la"
+    },
+    {
+        "code": 43,
+        "text": "Sabine Parish",
+        "state": "la"
+    },
+    {
+        "code": 44,
+        "text": "St. Bernard Parish",
+        "state": "la"
+    },
+    {
+        "code": 45,
+        "text": "St. Charles Parish",
+        "state": "la"
+    },
+    {
+        "code": 46,
+        "text": "St. Helena Parish",
+        "state": "la"
+    },
+    {
+        "code": 47,
+        "text": "St. James Parish",
+        "state": "la"
+    },
+    {
+        "code": 48,
+        "text": "St. John the Baptist",
+        "state": "la"
+    },
+    {
+        "code": 49,
+        "text": "St. Landry Parish",
+        "state": "la"
+    },
+    {
+        "code": 50,
+        "text": "St. Martin Parish",
+        "state": "la"
+    },
+    {
+        "code": 51,
+        "text": "St. Mary Parish",
+        "state": "la"
+    },
+    {
+        "code": 52,
+        "text": "St. Tammany Parish",
+        "state": "la"
+    },
+    {
+        "code": 53,
+        "text": "Tangipahoa Parish",
+        "state": "la"
+    },
+    {
+        "code": 54,
+        "text": "Tensas Parish",
+        "state": "la"
+    },
+    {
+        "code": 55,
+        "text": "Terrebonne Parish",
+        "state": "la"
+    },
+    {
+        "code": 56,
+        "text": "Union Parish",
+        "state": "la"
+    },
+    {
+        "code": 57,
+        "text": "Vermilion Parish",
+        "state": "la"
+    },
+    {
+        "code": 58,
+        "text": "Vernon Parish",
+        "state": "la"
+    },
+    {
+        "code": 59,
+        "text": "Washington Parish",
+        "state": "la"
+    },
+    {
+        "code": 60,
+        "text": "Webster Parish",
+        "state": "la"
+    },
+    {
+        "code": 61,
+        "text": "West Baton Rouge",
+        "state": "la"
+    },
+    {
+        "code": 62,
+        "text": "West Carroll Parish",
+        "state": "la"
+    },
+    {
+        "code": 63,
+        "text": "West Feliciana Parish",
+        "state": "la"
+    },
+    {
+        "code": 64,
+        "text": "Winn Parish",
+        "state": "la"
+    }
+]

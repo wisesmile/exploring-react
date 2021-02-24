@@ -1,0 +1,672 @@
+[
+    {
+        "code": 1,
+        "text": "Accomack County",
+        "state": "va"
+    },
+    {
+        "code": 2,
+        "text": "Albemarle County",
+        "state": "va"
+    },
+    {
+        "code": 3,
+        "text": "Alexandria City",
+        "state": "va"
+    },
+    {
+        "code": 4,
+        "text": "Alleghany County",
+        "state": "va"
+    },
+    {
+        "code": 5,
+        "text": "Amelia County",
+        "state": "va"
+    },
+    {
+        "code": 6,
+        "text": "Amherst County",
+        "state": "va"
+    },
+    {
+        "code": 7,
+        "text": "Appomattox County",
+        "state": "va"
+    },
+    {
+        "code": 8,
+        "text": "Arlington County",
+        "state": "va"
+    },
+    {
+        "code": 9,
+        "text": "Augusta County",
+        "state": "va"
+    },
+    {
+        "code": 10,
+        "text": "Bath County",
+        "state": "va"
+    },
+    {
+        "code": 11,
+        "text": "Bedford City",
+        "state": "va"
+    },
+    {
+        "code": 12,
+        "text": "Bedford County",
+        "state": "va"
+    },
+    {
+        "code": 13,
+        "text": "Bland County",
+        "state": "va"
+    },
+    {
+        "code": 14,
+        "text": "Botetourt County",
+        "state": "va"
+    },
+    {
+        "code": 15,
+        "text": "Bristol City",
+        "state": "va"
+    },
+    {
+        "code": 16,
+        "text": "Brunswick County",
+        "state": "va"
+    },
+    {
+        "code": 17,
+        "text": "Buchanan County",
+        "state": "va"
+    },
+    {
+        "code": 18,
+        "text": "Buckingham County",
+        "state": "va"
+    },
+    {
+        "code": 19,
+        "text": "Buena Vista City",
+        "state": "va"
+    },
+    {
+        "code": 20,
+        "text": "Campbell County",
+        "state": "va"
+    },
+    {
+        "code": 21,
+        "text": "Caroline County",
+        "state": "va"
+    },
+    {
+        "code": 22,
+        "text": "Carroll County",
+        "state": "va"
+    },
+    {
+        "code": 23,
+        "text": "Charles City County",
+        "state": "va"
+    },
+    {
+        "code": 24,
+        "text": "Charlotte County",
+        "state": "va"
+    },
+    {
+        "code": 25,
+        "text": "Charlottesville City",
+        "state": "va"
+    },
+    {
+        "code": 26,
+        "text": "Chesapeake City",
+        "state": "va"
+    },
+    {
+        "code": 27,
+        "text": "Chesterfield County",
+        "state": "va"
+    },
+    {
+        "code": 28,
+        "text": "Clarke County",
+        "state": "va"
+    },
+    {
+        "code": 29,
+        "text": "Colonial Heights City",
+        "state": "va"
+    },
+    {
+        "code": 30,
+        "text": "Covington City",
+        "state": "va"
+    },
+    {
+        "code": 31,
+        "text": "Craig County",
+        "state": "va"
+    },
+    {
+        "code": 32,
+        "text": "Culpeper County",
+        "state": "va"
+    },
+    {
+        "code": 33,
+        "text": "Cumberland County",
+        "state": "va"
+    },
+    {
+        "code": 34,
+        "text": "Danville City",
+        "state": "va"
+    },
+    {
+        "code": 35,
+        "text": "Dickenson County",
+        "state": "va"
+    },
+    {
+        "code": 36,
+        "text": "Dinwiddie County",
+        "state": "va"
+    },
+    {
+        "code": 37,
+        "text": "Emporia City",
+        "state": "va"
+    },
+    {
+        "code": 38,
+        "text": "Essex County",
+        "state": "va"
+    },
+    {
+        "code": 39,
+        "text": "Fairfax City",
+        "state": "va"
+    },
+    {
+        "code": 40,
+        "text": "Fairfax County",
+        "state": "va"
+    },
+    {
+        "code": 41,
+        "text": "Falls Church City",
+        "state": "va"
+    },
+    {
+        "code": 42,
+        "text": "Fauquier County",
+        "state": "va"
+    },
+    {
+        "code": 43,
+        "text": "Floyd County",
+        "state": "va"
+    },
+    {
+        "code": 44,
+        "text": "Fluvanna County",
+        "state": "va"
+    },
+    {
+        "code": 45,
+        "text": "Franklin City",
+        "state": "va"
+    },
+    {
+        "code": 46,
+        "text": "Franklin County",
+        "state": "va"
+    },
+    {
+        "code": 47,
+        "text": "Frederick County",
+        "state": "va"
+    },
+    {
+        "code": 48,
+        "text": "Fredericksburg City",
+        "state": "va"
+    },
+    {
+        "code": 49,
+        "text": "Galax City",
+        "state": "va"
+    },
+    {
+        "code": 50,
+        "text": "Giles County",
+        "state": "va"
+    },
+    {
+        "code": 51,
+        "text": "Gloucester County",
+        "state": "va"
+    },
+    {
+        "code": 52,
+        "text": "Goochland County",
+        "state": "va"
+    },
+    {
+        "code": 53,
+        "text": "Grayson County",
+        "state": "va"
+    },
+    {
+        "code": 54,
+        "text": "Greene County",
+        "state": "va"
+    },
+    {
+        "code": 55,
+        "text": "Greensville County",
+        "state": "va"
+    },
+    {
+        "code": 56,
+        "text": "Halifax County",
+        "state": "va"
+    },
+    {
+        "code": 57,
+        "text": "Hampton City",
+        "state": "va"
+    },
+    {
+        "code": 58,
+        "text": "Hanover County",
+        "state": "va"
+    },
+    {
+        "code": 59,
+        "text": "Harrisonburg City",
+        "state": "va"
+    },
+    {
+        "code": 60,
+        "text": "Henrico County",
+        "state": "va"
+    },
+    {
+        "code": 61,
+        "text": "Henry County",
+        "state": "va"
+    },
+    {
+        "code": 62,
+        "text": "Highland County",
+        "state": "va"
+    },
+    {
+        "code": 63,
+        "text": "Hopewell City",
+        "state": "va"
+    },
+    {
+        "code": 64,
+        "text": "Isle of Wight County",
+        "state": "va"
+    },
+    {
+        "code": 65,
+        "text": "James City County",
+        "state": "va"
+    },
+    {
+        "code": 66,
+        "text": "King and Queen County",
+        "state": "va"
+    },
+    {
+        "code": 67,
+        "text": "King George County",
+        "state": "va"
+    },
+    {
+        "code": 68,
+        "text": "King William County",
+        "state": "va"
+    },
+    {
+        "code": 69,
+        "text": "Lancaster County",
+        "state": "va"
+    },
+    {
+        "code": 70,
+        "text": "Lee County",
+        "state": "va"
+    },
+    {
+        "code": 71,
+        "text": "Lexington City",
+        "state": "va"
+    },
+    {
+        "code": 72,
+        "text": "Loudoun County",
+        "state": "va"
+    },
+    {
+        "code": 73,
+        "text": "Louisa County",
+        "state": "va"
+    },
+    {
+        "code": 74,
+        "text": "Lunenburg County",
+        "state": "va"
+    },
+    {
+        "code": 75,
+        "text": "Lynchburg City",
+        "state": "va"
+    },
+    {
+        "code": 76,
+        "text": "Madison County",
+        "state": "va"
+    },
+    {
+        "code": 77,
+        "text": "Manassas City",
+        "state": "va"
+    },
+    {
+        "code": 78,
+        "text": "Manassas Park",
+        "state": "va"
+    },
+    {
+        "code": 79,
+        "text": "Martinsville City",
+        "state": "va"
+    },
+    {
+        "code": 80,
+        "text": "Mathews County",
+        "state": "va"
+    },
+    {
+        "code": 81,
+        "text": "Mecklenburg County",
+        "state": "va"
+    },
+    {
+        "code": 82,
+        "text": "Middlesex County",
+        "state": "va"
+    },
+    {
+        "code": 83,
+        "text": "Montgomery County",
+        "state": "va"
+    },
+    {
+        "code": 84,
+        "text": "Nelson County",
+        "state": "va"
+    },
+    {
+        "code": 85,
+        "text": "New Kent County",
+        "state": "va"
+    },
+    {
+        "code": 86,
+        "text": "Newport News City",
+        "state": "va"
+    },
+    {
+        "code": 87,
+        "text": "Norfolk City",
+        "state": "va"
+    },
+    {
+        "code": 88,
+        "text": "Northampton County",
+        "state": "va"
+    },
+    {
+        "code": 89,
+        "text": "Northumberland County",
+        "state": "va"
+    },
+    {
+        "code": 90,
+        "text": "Norton City",
+        "state": "va"
+    },
+    {
+        "code": 91,
+        "text": "Nottoway County",
+        "state": "va"
+    },
+    {
+        "code": 92,
+        "text": "Orange County",
+        "state": "va"
+    },
+    {
+        "code": 93,
+        "text": "Page County",
+        "state": "va"
+    },
+    {
+        "code": 94,
+        "text": "Patrick County",
+        "state": "va"
+    },
+    {
+        "code": 95,
+        "text": "Petersburg City",
+        "state": "va"
+    },
+    {
+        "code": 96,
+        "text": "Pittsylvania County",
+        "state": "va"
+    },
+    {
+        "code": 97,
+        "text": "Poquoson City",
+        "state": "va"
+    },
+    {
+        "code": 98,
+        "text": "Portsmouth City",
+        "state": "va"
+    },
+    {
+        "code": 99,
+        "text": "Powhatan County",
+        "state": "va"
+    },
+    {
+        "code": 100,
+        "text": "Prince Edward County",
+        "state": "va"
+    },
+    {
+        "code": 101,
+        "text": "Prince George County",
+        "state": "va"
+    },
+    {
+        "code": 102,
+        "text": "Prince William County",
+        "state": "va"
+    },
+    {
+        "code": 103,
+        "text": "Pulaski County",
+        "state": "va"
+    },
+    {
+        "code": 104,
+        "text": "Radford City",
+        "state": "va"
+    },
+    {
+        "code": 105,
+        "text": "Rappahannock County",
+        "state": "va"
+    },
+    {
+        "code": 106,
+        "text": "Richmond City",
+        "state": "va"
+    },
+    {
+        "code": 107,
+        "text": "Richmond County",
+        "state": "va"
+    },
+    {
+        "code": 108,
+        "text": "Roanoke City",
+        "state": "va"
+    },
+    {
+        "code": 109,
+        "text": "Roanoke County",
+        "state": "va"
+    },
+    {
+        "code": 110,
+        "text": "Rockbridge County",
+        "state": "va"
+    },
+    {
+        "code": 111,
+        "text": "Rockingham County",
+        "state": "va"
+    },
+    {
+        "code": 112,
+        "text": "Russell County",
+        "state": "va"
+    },
+    {
+        "code": 113,
+        "text": "Salem City",
+        "state": "va"
+    },
+    {
+        "code": 114,
+        "text": "Scott County",
+        "state": "va"
+    },
+    {
+        "code": 115,
+        "text": "Shenandoah County",
+        "state": "va"
+    },
+    {
+        "code": 116,
+        "text": "Smyth County",
+        "state": "va"
+    },
+    {
+        "code": 117,
+        "text": "Southampton County",
+        "state": "va"
+    },
+    {
+        "code": 118,
+        "text": "Spotsylvania County",
+        "state": "va"
+    },
+    {
+        "code": 119,
+        "text": "Stafford County",
+        "state": "va"
+    },
+    {
+        "code": 120,
+        "text": "Staunton City",
+        "state": "va"
+    },
+    {
+        "code": 121,
+        "text": "Suffolk City",
+        "state": "va"
+    },
+    {
+        "code": 122,
+        "text": "Surry County",
+        "state": "va"
+    },
+    {
+        "code": 123,
+        "text": "Sussex County",
+        "state": "va"
+    },
+    {
+        "code": 124,
+        "text": "Tazewell County",
+        "state": "va"
+    },
+    {
+        "code": 125,
+        "text": "Virginia Beach City",
+        "state": "va"
+    },
+    {
+        "code": 126,
+        "text": "Warren County",
+        "state": "va"
+    },
+    {
+        "code": 127,
+        "text": "Washington County",
+        "state": "va"
+    },
+    {
+        "code": 128,
+        "text": "Waynesboro City",
+        "state": "va"
+    },
+    {
+        "code": 129,
+        "text": "Westmoreland County",
+        "state": "va"
+    },
+    {
+        "code": 130,
+        "text": "Williamsburg City",
+        "state": "va"
+    },
+    {
+        "code": 131,
+        "text": "Winchester City",
+        "state": "va"
+    },
+    {
+        "code": 132,
+        "text": "Wise County",
+        "state": "va"
+    },
+    {
+        "code": 133,
+        "text": "Wythe County",
+        "state": "va"
+    },
+    {
+        "code": 134,
+        "text": "York County",
+        "state": "va"
+    }
+]

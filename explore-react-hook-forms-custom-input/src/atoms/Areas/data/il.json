@@ -1,0 +1,517 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "il"
+    },
+    {
+        "code": 2,
+        "text": "Alexander Co",
+        "state": "il"
+    },
+    {
+        "code": 3,
+        "text": "Bond County",
+        "state": "il"
+    },
+    {
+        "code": 4,
+        "text": "Boone County",
+        "state": "il"
+    },
+    {
+        "code": 5,
+        "text": "Brown County",
+        "state": "il"
+    },
+    {
+        "code": 6,
+        "text": "Bureau County",
+        "state": "il"
+    },
+    {
+        "code": 7,
+        "text": "Calhoun County",
+        "state": "il"
+    },
+    {
+        "code": 8,
+        "text": "Carroll County",
+        "state": "il"
+    },
+    {
+        "code": 9,
+        "text": "Cass County",
+        "state": "il"
+    },
+    {
+        "code": 10,
+        "text": "Champaign County",
+        "state": "il"
+    },
+    {
+        "code": 11,
+        "text": "Chicago",
+        "state": "il"
+    },
+    {
+        "code": 12,
+        "text": "Christian Co",
+        "state": "il"
+    },
+    {
+        "code": 13,
+        "text": "Clark County",
+        "state": "il"
+    },
+    {
+        "code": 14,
+        "text": "Clay County",
+        "state": "il"
+    },
+    {
+        "code": 15,
+        "text": "Clinton County",
+        "state": "il"
+    },
+    {
+        "code": 16,
+        "text": "Coles County",
+        "state": "il"
+    },
+    {
+        "code": 17,
+        "text": "Cook County",
+        "state": "il"
+    },
+    {
+        "code": 18,
+        "text": "Crawford County",
+        "state": "il"
+    },
+    {
+        "code": 19,
+        "text": "Cumberland Co",
+        "state": "il"
+    },
+    {
+        "code": 20,
+        "text": "DeKalb County",
+        "state": "il"
+    },
+    {
+        "code": 21,
+        "text": "DeWitt County",
+        "state": "il"
+    },
+    {
+        "code": 22,
+        "text": "Douglas County",
+        "state": "il"
+    },
+    {
+        "code": 23,
+        "text": "DuPage County",
+        "state": "il"
+    },
+    {
+        "code": 24,
+        "text": "Edgar County",
+        "state": "il"
+    },
+    {
+        "code": 25,
+        "text": "Edwards County",
+        "state": "il"
+    },
+    {
+        "code": 26,
+        "text": "Effingham Co",
+        "state": "il"
+    },
+    {
+        "code": 27,
+        "text": "Fayette County",
+        "state": "il"
+    },
+    {
+        "code": 28,
+        "text": "Ford County",
+        "state": "il"
+    },
+    {
+        "code": 29,
+        "text": "Franklin County",
+        "state": "il"
+    },
+    {
+        "code": 30,
+        "text": "Fulton County",
+        "state": "il"
+    },
+    {
+        "code": 31,
+        "text": "Gallatin County",
+        "state": "il"
+    },
+    {
+        "code": 32,
+        "text": "Greene County",
+        "state": "il"
+    },
+    {
+        "code": 33,
+        "text": "Grundy County",
+        "state": "il"
+    },
+    {
+        "code": 34,
+        "text": "Hamilton County",
+        "state": "il"
+    },
+    {
+        "code": 35,
+        "text": "Hancock County",
+        "state": "il"
+    },
+    {
+        "code": 36,
+        "text": "Hardin County",
+        "state": "il"
+    },
+    {
+        "code": 37,
+        "text": "Henderson County",
+        "state": "il"
+    },
+    {
+        "code": 38,
+        "text": "Henry County",
+        "state": "il"
+    },
+    {
+        "code": 39,
+        "text": "Iroquois County",
+        "state": "il"
+    },
+    {
+        "code": 40,
+        "text": "Jackson County",
+        "state": "il"
+    },
+    {
+        "code": 41,
+        "text": "Jasper County",
+        "state": "il"
+    },
+    {
+        "code": 42,
+        "text": "Jefferson Co",
+        "state": "il"
+    },
+    {
+        "code": 43,
+        "text": "Jersey County",
+        "state": "il"
+    },
+    {
+        "code": 44,
+        "text": "Jo Daviess Co",
+        "state": "il"
+    },
+    {
+        "code": 45,
+        "text": "Johnson County",
+        "state": "il"
+    },
+    {
+        "code": 46,
+        "text": "Kane County",
+        "state": "il"
+    },
+    {
+        "code": 47,
+        "text": "Kankakee County",
+        "state": "il"
+    },
+    {
+        "code": 48,
+        "text": "Kendall County",
+        "state": "il"
+    },
+    {
+        "code": 49,
+        "text": "Knox County",
+        "state": "il"
+    },
+    {
+        "code": 50,
+        "text": "Lake County",
+        "state": "il"
+    },
+    {
+        "code": 51,
+        "text": "LaSalle County",
+        "state": "il"
+    },
+    {
+        "code": 52,
+        "text": "Lawrence Co",
+        "state": "il"
+    },
+    {
+        "code": 53,
+        "text": "Lee County",
+        "state": "il"
+    },
+    {
+        "code": 54,
+        "text": "Livingston Co",
+        "state": "il"
+    },
+    {
+        "code": 55,
+        "text": "Logan County",
+        "state": "il"
+    },
+    {
+        "code": 56,
+        "text": "Macon County",
+        "state": "il"
+    },
+    {
+        "code": 57,
+        "text": "Macoupin County",
+        "state": "il"
+    },
+    {
+        "code": 58,
+        "text": "Madison County",
+        "state": "il"
+    },
+    {
+        "code": 59,
+        "text": "Marion County",
+        "state": "il"
+    },
+    {
+        "code": 60,
+        "text": "Marshall County",
+        "state": "il"
+    },
+    {
+        "code": 61,
+        "text": "Mason County",
+        "state": "il"
+    },
+    {
+        "code": 62,
+        "text": "Massac County",
+        "state": "il"
+    },
+    {
+        "code": 63,
+        "text": "McDonough County",
+        "state": "il"
+    },
+    {
+        "code": 64,
+        "text": "McHenry County",
+        "state": "il"
+    },
+    {
+        "code": 65,
+        "text": "McLean County",
+        "state": "il"
+    },
+    {
+        "code": 66,
+        "text": "Menard County",
+        "state": "il"
+    },
+    {
+        "code": 67,
+        "text": "Mercer County",
+        "state": "il"
+    },
+    {
+        "code": 68,
+        "text": "Monroe County",
+        "state": "il"
+    },
+    {
+        "code": 69,
+        "text": "Montgomery Co",
+        "state": "il"
+    },
+    {
+        "code": 70,
+        "text": "Morgan County",
+        "state": "il"
+    },
+    {
+        "code": 71,
+        "text": "Moultrie Co",
+        "state": "il"
+    },
+    {
+        "code": 72,
+        "text": "Ogle County",
+        "state": "il"
+    },
+    {
+        "code": 73,
+        "text": "Peoria County",
+        "state": "il"
+    },
+    {
+        "code": 74,
+        "text": "Perry County",
+        "state": "il"
+    },
+    {
+        "code": 75,
+        "text": "Piatt County",
+        "state": "il"
+    },
+    {
+        "code": 76,
+        "text": "Pike County",
+        "state": "il"
+    },
+    {
+        "code": 77,
+        "text": "Pope County",
+        "state": "il"
+    },
+    {
+        "code": 78,
+        "text": "Pulaski County",
+        "state": "il"
+    },
+    {
+        "code": 79,
+        "text": "Putnam County",
+        "state": "il"
+    },
+    {
+        "code": 80,
+        "text": "Randolph County",
+        "state": "il"
+    },
+    {
+        "code": 81,
+        "text": "Richland County",
+        "state": "il"
+    },
+    {
+        "code": 82,
+        "text": "Rock Island Co",
+        "state": "il"
+    },
+    {
+        "code": 83,
+        "text": "Saline County",
+        "state": "il"
+    },
+    {
+        "code": 84,
+        "text": "Sangamon County",
+        "state": "il"
+    },
+    {
+        "code": 85,
+        "text": "Schuyler County",
+        "state": "il"
+    },
+    {
+        "code": 86,
+        "text": "Scott County",
+        "state": "il"
+    },
+    {
+        "code": 87,
+        "text": "Shelby County",
+        "state": "il"
+    },
+    {
+        "code": 88,
+        "text": "St. Clair Co",
+        "state": "il"
+    },
+    {
+        "code": 89,
+        "text": "Stark County",
+        "state": "il"
+    },
+    {
+        "code": 90,
+        "text": "Stephenson Co",
+        "state": "il"
+    },
+    {
+        "code": 91,
+        "text": "Tazewell County",
+        "state": "il"
+    },
+    {
+        "code": 92,
+        "text": "Union County",
+        "state": "il"
+    },
+    {
+        "code": 93,
+        "text": "Vermilion Co",
+        "state": "il"
+    },
+    {
+        "code": 94,
+        "text": "Wabash County",
+        "state": "il"
+    },
+    {
+        "code": 95,
+        "text": "Warren County",
+        "state": "il"
+    },
+    {
+        "code": 96,
+        "text": "Washington Co",
+        "state": "il"
+    },
+    {
+        "code": 97,
+        "text": "Wayne County",
+        "state": "il"
+    },
+    {
+        "code": 98,
+        "text": "White County",
+        "state": "il"
+    },
+    {
+        "code": 99,
+        "text": "Whiteside Co",
+        "state": "il"
+    },
+    {
+        "code": 100,
+        "text": "Will County",
+        "state": "il"
+    },
+    {
+        "code": 101,
+        "text": "Williamson Co",
+        "state": "il"
+    },
+    {
+        "code": 102,
+        "text": "Winnebago Co",
+        "state": "il"
+    },
+    {
+        "code": 103,
+        "text": "Woodford County",
+        "state": "il"
+    }
+]

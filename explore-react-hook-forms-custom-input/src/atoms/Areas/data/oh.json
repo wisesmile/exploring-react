@@ -1,0 +1,457 @@
+[
+    {
+        "code": 1,
+        "text": "Adams County",
+        "state": "oh"
+    },
+    {
+        "code": 2,
+        "text": "Allen County",
+        "state": "oh"
+    },
+    {
+        "code": 3,
+        "text": "Ashland County",
+        "state": "oh"
+    },
+    {
+        "code": 4,
+        "text": "Ashtabula County",
+        "state": "oh"
+    },
+    {
+        "code": 5,
+        "text": "Athens County",
+        "state": "oh"
+    },
+    {
+        "code": 6,
+        "text": "Auglaize County",
+        "state": "oh"
+    },
+    {
+        "code": 7,
+        "text": "Belmont County",
+        "state": "oh"
+    },
+    {
+        "code": 8,
+        "text": "Brown County",
+        "state": "oh"
+    },
+    {
+        "code": 9,
+        "text": "Butler County",
+        "state": "oh"
+    },
+    {
+        "code": 10,
+        "text": "Carroll County",
+        "state": "oh"
+    },
+    {
+        "code": 11,
+        "text": "Champaign County",
+        "state": "oh"
+    },
+    {
+        "code": 12,
+        "text": "Cincinnati",
+        "state": "oh"
+    },
+    {
+        "code": 13,
+        "text": "Clark County",
+        "state": "oh"
+    },
+    {
+        "code": 14,
+        "text": "Clermont County",
+        "state": "oh"
+    },
+    {
+        "code": 15,
+        "text": "Cleveland",
+        "state": "oh"
+    },
+    {
+        "code": 16,
+        "text": "Clinton County",
+        "state": "oh"
+    },
+    {
+        "code": 17,
+        "text": "Columbiana County",
+        "state": "oh"
+    },
+    {
+        "code": 18,
+        "text": "Columbus",
+        "state": "oh"
+    },
+    {
+        "code": 19,
+        "text": "Coshocton County",
+        "state": "oh"
+    },
+    {
+        "code": 20,
+        "text": "Crawford County",
+        "state": "oh"
+    },
+    {
+        "code": 21,
+        "text": "Cuyahoga County",
+        "state": "oh"
+    },
+    {
+        "code": 22,
+        "text": "Darke County",
+        "state": "oh"
+    },
+    {
+        "code": 23,
+        "text": "Defiance County",
+        "state": "oh"
+    },
+    {
+        "code": 24,
+        "text": "Delaware County",
+        "state": "oh"
+    },
+    {
+        "code": 25,
+        "text": "Erie County",
+        "state": "oh"
+    },
+    {
+        "code": 26,
+        "text": "Fairfield County",
+        "state": "oh"
+    },
+    {
+        "code": 27,
+        "text": "Fayette County",
+        "state": "oh"
+    },
+    {
+        "code": 28,
+        "text": "Franklin County",
+        "state": "oh"
+    },
+    {
+        "code": 29,
+        "text": "Fulton County",
+        "state": "oh"
+    },
+    {
+        "code": 30,
+        "text": "Gallia County",
+        "state": "oh"
+    },
+    {
+        "code": 31,
+        "text": "Geauga County",
+        "state": "oh"
+    },
+    {
+        "code": 32,
+        "text": "Greene County",
+        "state": "oh"
+    },
+    {
+        "code": 33,
+        "text": "Guernsey County",
+        "state": "oh"
+    },
+    {
+        "code": 34,
+        "text": "Hamilton County",
+        "state": "oh"
+    },
+    {
+        "code": 35,
+        "text": "Hancock County",
+        "state": "oh"
+    },
+    {
+        "code": 36,
+        "text": "Hardin County",
+        "state": "oh"
+    },
+    {
+        "code": 37,
+        "text": "Harrison County",
+        "state": "oh"
+    },
+    {
+        "code": 38,
+        "text": "Henry County",
+        "state": "oh"
+    },
+    {
+        "code": 39,
+        "text": "Highland County",
+        "state": "oh"
+    },
+    {
+        "code": 40,
+        "text": "Hocking County",
+        "state": "oh"
+    },
+    {
+        "code": 41,
+        "text": "Holmes County",
+        "state": "oh"
+    },
+    {
+        "code": 42,
+        "text": "Huron County",
+        "state": "oh"
+    },
+    {
+        "code": 43,
+        "text": "Jackson County",
+        "state": "oh"
+    },
+    {
+        "code": 44,
+        "text": "Jefferson County",
+        "state": "oh"
+    },
+    {
+        "code": 45,
+        "text": "Knox County",
+        "state": "oh"
+    },
+    {
+        "code": 46,
+        "text": "Lake County",
+        "state": "oh"
+    },
+    {
+        "code": 47,
+        "text": "Lawrence County",
+        "state": "oh"
+    },
+    {
+        "code": 48,
+        "text": "Licking County",
+        "state": "oh"
+    },
+    {
+        "code": 49,
+        "text": "Logan County",
+        "state": "oh"
+    },
+    {
+        "code": 50,
+        "text": "Lorain County",
+        "state": "oh"
+    },
+    {
+        "code": 51,
+        "text": "Lucas County",
+        "state": "oh"
+    },
+    {
+        "code": 52,
+        "text": "Madison County",
+        "state": "oh"
+    },
+    {
+        "code": 53,
+        "text": "Mahoning County",
+        "state": "oh"
+    },
+    {
+        "code": 54,
+        "text": "Marion County",
+        "state": "oh"
+    },
+    {
+        "code": 55,
+        "text": "Medina County",
+        "state": "oh"
+    },
+    {
+        "code": 56,
+        "text": "Meigs County",
+        "state": "oh"
+    },
+    {
+        "code": 57,
+        "text": "Mercer County",
+        "state": "oh"
+    },
+    {
+        "code": 58,
+        "text": "Miami County",
+        "state": "oh"
+    },
+    {
+        "code": 59,
+        "text": "Monroe County",
+        "state": "oh"
+    },
+    {
+        "code": 60,
+        "text": "Montgomery County",
+        "state": "oh"
+    },
+    {
+        "code": 61,
+        "text": "Morgan County",
+        "state": "oh"
+    },
+    {
+        "code": 62,
+        "text": "Morrow County",
+        "state": "oh"
+    },
+    {
+        "code": 63,
+        "text": "Muskingum County",
+        "state": "oh"
+    },
+    {
+        "code": 64,
+        "text": "Noble County",
+        "state": "oh"
+    },
+    {
+        "code": 65,
+        "text": "Ottawa County",
+        "state": "oh"
+    },
+    {
+        "code": 66,
+        "text": "Paulding County",
+        "state": "oh"
+    },
+    {
+        "code": 67,
+        "text": "Perry County",
+        "state": "oh"
+    },
+    {
+        "code": 68,
+        "text": "Pickaway County",
+        "state": "oh"
+    },
+    {
+        "code": 69,
+        "text": "Pike County",
+        "state": "oh"
+    },
+    {
+        "code": 70,
+        "text": "Portage County",
+        "state": "oh"
+    },
+    {
+        "code": 71,
+        "text": "Preble County",
+        "state": "oh"
+    },
+    {
+        "code": 72,
+        "text": "Putnam County",
+        "state": "oh"
+    },
+    {
+        "code": 73,
+        "text": "Richland County",
+        "state": "oh"
+    },
+    {
+        "code": 74,
+        "text": "Ross County",
+        "state": "oh"
+    },
+    {
+        "code": 75,
+        "text": "Sandusky County",
+        "state": "oh"
+    },
+    {
+        "code": 76,
+        "text": "Scioto County",
+        "state": "oh"
+    },
+    {
+        "code": 77,
+        "text": "Seneca County",
+        "state": "oh"
+    },
+    {
+        "code": 78,
+        "text": "Shelby County",
+        "state": "oh"
+    },
+    {
+        "code": 79,
+        "text": "Stark County",
+        "state": "oh"
+    },
+    {
+        "code": 80,
+        "text": "Summit County",
+        "state": "oh"
+    },
+    {
+        "code": 81,
+        "text": "Trumbull County",
+        "state": "oh"
+    },
+    {
+        "code": 82,
+        "text": "Tuscarawas County",
+        "state": "oh"
+    },
+    {
+        "code": 83,
+        "text": "Union County",
+        "state": "oh"
+    },
+    {
+        "code": 84,
+        "text": "Van Wert County",
+        "state": "oh"
+    },
+    {
+        "code": 85,
+        "text": "Vinton County",
+        "state": "oh"
+    },
+    {
+        "code": 86,
+        "text": "Warren County",
+        "state": "oh"
+    },
+    {
+        "code": 87,
+        "text": "Washington County",
+        "state": "oh"
+    },
+    {
+        "code": 88,
+        "text": "Wayne County",
+        "state": "oh"
+    },
+    {
+        "code": 89,
+        "text": "Williams County",
+        "state": "oh"
+    },
+    {
+        "code": 90,
+        "text": "Wood County",
+        "state": "oh"
+    },
+    {
+        "code": 91,
+        "text": "Wyandot County",
+        "state": "oh"
+    }
+]

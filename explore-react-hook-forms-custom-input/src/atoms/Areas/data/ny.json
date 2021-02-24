@@ -1,0 +1,332 @@
+[
+    {
+        "code": 1,
+        "text": "Albany County",
+        "state": "ny"
+    },
+    {
+        "code": 2,
+        "text": "Allegany County",
+        "state": "ny"
+    },
+    {
+        "code": 3,
+        "text": "Bronx County",
+        "state": "ny"
+    },
+    {
+        "code": 4,
+        "text": "Broome County",
+        "state": "ny"
+    },
+    {
+        "code": 5,
+        "text": "Buffalo",
+        "state": "ny"
+    },
+    {
+        "code": 6,
+        "text": "Cattaraugus County",
+        "state": "ny"
+    },
+    {
+        "code": 7,
+        "text": "Cayuga County",
+        "state": "ny"
+    },
+    {
+        "code": 8,
+        "text": "Chautauqua County",
+        "state": "ny"
+    },
+    {
+        "code": 9,
+        "text": "Chemung County",
+        "state": "ny"
+    },
+    {
+        "code": 10,
+        "text": "Chenango County",
+        "state": "ny"
+    },
+    {
+        "code": 11,
+        "text": "Clinton County",
+        "state": "ny"
+    },
+    {
+        "code": 12,
+        "text": "Columbia County",
+        "state": "ny"
+    },
+    {
+        "code": 13,
+        "text": "Cortland County",
+        "state": "ny"
+    },
+    {
+        "code": 14,
+        "text": "Delaware County",
+        "state": "ny"
+    },
+    {
+        "code": 15,
+        "text": "Dutchess County",
+        "state": "ny"
+    },
+    {
+        "code": 16,
+        "text": "Erie County",
+        "state": "ny"
+    },
+    {
+        "code": 17,
+        "text": "Essex County",
+        "state": "ny"
+    },
+    {
+        "code": 18,
+        "text": "Franklin County",
+        "state": "ny"
+    },
+    {
+        "code": 19,
+        "text": "Fulton County",
+        "state": "ny"
+    },
+    {
+        "code": 20,
+        "text": "Genesee County",
+        "state": "ny"
+    },
+    {
+        "code": 21,
+        "text": "Greene County",
+        "state": "ny"
+    },
+    {
+        "code": 22,
+        "text": "Hamilton County",
+        "state": "ny"
+    },
+    {
+        "code": 23,
+        "text": "Herkimer County",
+        "state": "ny"
+    },
+    {
+        "code": 24,
+        "text": "Jefferson County",
+        "state": "ny"
+    },
+    {
+        "code": 25,
+        "text": "Kings County",
+        "state": "ny"
+    },
+    {
+        "code": 26,
+        "text": "Lewis County",
+        "state": "ny"
+    },
+    {
+        "code": 27,
+        "text": "Livingston County",
+        "state": "ny"
+    },
+    {
+        "code": 28,
+        "text": "Madison County",
+        "state": "ny"
+    },
+    {
+        "code": 29,
+        "text": "Monroe County",
+        "state": "ny"
+    },
+    {
+        "code": 30,
+        "text": "Montgomery County",
+        "state": "ny"
+    },
+    {
+        "code": 31,
+        "text": "Nassau County",
+        "state": "ny"
+    },
+    {
+        "code": 32,
+        "text": "New York City",
+        "state": "ny"
+    },
+    {
+        "code": 33,
+        "text": "New York County",
+        "state": "ny"
+    },
+    {
+        "code": 34,
+        "text": "Niagara County",
+        "state": "ny"
+    },
+    {
+        "code": 35,
+        "text": "Oneida County",
+        "state": "ny"
+    },
+    {
+        "code": 36,
+        "text": "Onondaga County",
+        "state": "ny"
+    },
+    {
+        "code": 37,
+        "text": "Ontario County",
+        "state": "ny"
+    },
+    {
+        "code": 38,
+        "text": "Orange County",
+        "state": "ny"
+    },
+    {
+        "code": 39,
+        "text": "Orleans County",
+        "state": "ny"
+    },
+    {
+        "code": 40,
+        "text": "Oswego County",
+        "state": "ny"
+    },
+    {
+        "code": 41,
+        "text": "Otsego County",
+        "state": "ny"
+    },
+    {
+        "code": 42,
+        "text": "Putnam County",
+        "state": "ny"
+    },
+    {
+        "code": 43,
+        "text": "Queens County",
+        "state": "ny"
+    },
+    {
+        "code": 44,
+        "text": "Rensselaer County",
+        "state": "ny"
+    },
+    {
+        "code": 45,
+        "text": "Richmond County",
+        "state": "ny"
+    },
+    {
+        "code": 46,
+        "text": "Rochester",
+        "state": "ny"
+    },
+    {
+        "code": 47,
+        "text": "Rockland County",
+        "state": "ny"
+    },
+    {
+        "code": 48,
+        "text": "Saratoga County",
+        "state": "ny"
+    },
+    {
+        "code": 49,
+        "text": "Schenectady County",
+        "state": "ny"
+    },
+    {
+        "code": 50,
+        "text": "Schoharie County",
+        "state": "ny"
+    },
+    {
+        "code": 51,
+        "text": "Schuyler County",
+        "state": "ny"
+    },
+    {
+        "code": 52,
+        "text": "Seneca County",
+        "state": "ny"
+    },
+    {
+        "code": 53,
+        "text": "St. Lawrence County",
+        "state": "ny"
+    },
+    {
+        "code": 54,
+        "text": "Steuben County",
+        "state": "ny"
+    },
+    {
+        "code": 55,
+        "text": "Suffolk County",
+        "state": "ny"
+    },
+    {
+        "code": 56,
+        "text": "Sullivan County",
+        "state": "ny"
+    },
+    {
+        "code": 57,
+        "text": "Tioga County",
+        "state": "ny"
+    },
+    {
+        "code": 58,
+        "text": "Tompkins County",
+        "state": "ny"
+    },
+    {
+        "code": 59,
+        "text": "Ulster County",
+        "state": "ny"
+    },
+    {
+        "code": 60,
+        "text": "Warren County",
+        "state": "ny"
+    },
+    {
+        "code": 61,
+        "text": "Washington County",
+        "state": "ny"
+    },
+    {
+        "code": 62,
+        "text": "Wayne County",
+        "state": "ny"
+    },
+    {
+        "code": 63,
+        "text": "Westchester County",
+        "state": "ny"
+    },
+    {
+        "code": 64,
+        "text": "Wyoming County",
+        "state": "ny"
+    },
+    {
+        "code": 65,
+        "text": "Yates County",
+        "state": "ny"
+    },
+    {
+        "code": 66,
+        "text": "Yonkers",
+        "state": "ny"
+    }
+]

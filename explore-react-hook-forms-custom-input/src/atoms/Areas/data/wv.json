@@ -1,0 +1,277 @@
+[
+    {
+        "code": 1,
+        "text": "Barbour County",
+        "state": "wv"
+    },
+    {
+        "code": 2,
+        "text": "Berkeley County",
+        "state": "wv"
+    },
+    {
+        "code": 3,
+        "text": "Boone County",
+        "state": "wv"
+    },
+    {
+        "code": 4,
+        "text": "Braxton County",
+        "state": "wv"
+    },
+    {
+        "code": 5,
+        "text": "Brooke County",
+        "state": "wv"
+    },
+    {
+        "code": 6,
+        "text": "Cabell County",
+        "state": "wv"
+    },
+    {
+        "code": 7,
+        "text": "Calhoun County",
+        "state": "wv"
+    },
+    {
+        "code": 8,
+        "text": "Clay County",
+        "state": "wv"
+    },
+    {
+        "code": 9,
+        "text": "Doddridge County",
+        "state": "wv"
+    },
+    {
+        "code": 10,
+        "text": "Fayette County",
+        "state": "wv"
+    },
+    {
+        "code": 11,
+        "text": "Gilmer County",
+        "state": "wv"
+    },
+    {
+        "code": 12,
+        "text": "Grant County",
+        "state": "wv"
+    },
+    {
+        "code": 13,
+        "text": "Greenbrier County",
+        "state": "wv"
+    },
+    {
+        "code": 14,
+        "text": "Hampshire County",
+        "state": "wv"
+    },
+    {
+        "code": 15,
+        "text": "Hancock County",
+        "state": "wv"
+    },
+    {
+        "code": 16,
+        "text": "Hardy County",
+        "state": "wv"
+    },
+    {
+        "code": 17,
+        "text": "Harrison County",
+        "state": "wv"
+    },
+    {
+        "code": 18,
+        "text": "Jackson County",
+        "state": "wv"
+    },
+    {
+        "code": 19,
+        "text": "Jefferson County",
+        "state": "wv"
+    },
+    {
+        "code": 20,
+        "text": "Kanawha County",
+        "state": "wv"
+    },
+    {
+        "code": 21,
+        "text": "Lewis County",
+        "state": "wv"
+    },
+    {
+        "code": 22,
+        "text": "Lincoln County",
+        "state": "wv"
+    },
+    {
+        "code": 23,
+        "text": "Logan County",
+        "state": "wv"
+    },
+    {
+        "code": 24,
+        "text": "Marion County",
+        "state": "wv"
+    },
+    {
+        "code": 25,
+        "text": "Marshall County",
+        "state": "wv"
+    },
+    {
+        "code": 26,
+        "text": "Mason County",
+        "state": "wv"
+    },
+    {
+        "code": 27,
+        "text": "McDowell County",
+        "state": "wv"
+    },
+    {
+        "code": 28,
+        "text": "Mercer County",
+        "state": "wv"
+    },
+    {
+        "code": 29,
+        "text": "Mineral County",
+        "state": "wv"
+    },
+    {
+        "code": 30,
+        "text": "Mingo County",
+        "state": "wv"
+    },
+    {
+        "code": 31,
+        "text": "Monongalia County",
+        "state": "wv"
+    },
+    {
+        "code": 32,
+        "text": "Monroe County",
+        "state": "wv"
+    },
+    {
+        "code": 33,
+        "text": "Morgan County",
+        "state": "wv"
+    },
+    {
+        "code": 34,
+        "text": "Nicholas County",
+        "state": "wv"
+    },
+    {
+        "code": 35,
+        "text": "Ohio County",
+        "state": "wv"
+    },
+    {
+        "code": 36,
+        "text": "Pendleton County",
+        "state": "wv"
+    },
+    {
+        "code": 37,
+        "text": "Pleasants County",
+        "state": "wv"
+    },
+    {
+        "code": 38,
+        "text": "Pocahontas County",
+        "state": "wv"
+    },
+    {
+        "code": 39,
+        "text": "Preston County",
+        "state": "wv"
+    },
+    {
+        "code": 40,
+        "text": "Putnam County",
+        "state": "wv"
+    },
+    {
+        "code": 41,
+        "text": "Raleigh County",
+        "state": "wv"
+    },
+    {
+        "code": 42,
+        "text": "Randolph County",
+        "state": "wv"
+    },
+    {
+        "code": 43,
+        "text": "Ritchie County",
+        "state": "wv"
+    },
+    {
+        "code": 44,
+        "text": "Roane County",
+        "state": "wv"
+    },
+    {
+        "code": 45,
+        "text": "Summers County",
+        "state": "wv"
+    },
+    {
+        "code": 46,
+        "text": "Taylor County",
+        "state": "wv"
+    },
+    {
+        "code": 47,
+        "text": "Tucker County",
+        "state": "wv"
+    },
+    {
+        "code": 48,
+        "text": "Tyler County",
+        "state": "wv"
+    },
+    {
+        "code": 49,
+        "text": "Upshur County",
+        "state": "wv"
+    },
+    {
+        "code": 50,
+        "text": "Wayne County",
+        "state": "wv"
+    },
+    {
+        "code": 51,
+        "text": "Webster County",
+        "state": "wv"
+    },
+    {
+        "code": 52,
+        "text": "Wetzel County",
+        "state": "wv"
+    },
+    {
+        "code": 53,
+        "text": "Wirt County",
+        "state": "wv"
+    },
+    {
+        "code": 54,
+        "text": "Wood County",
+        "state": "wv"
+    },
+    {
+        "code": 55,
+        "text": "Wyoming County",
+        "state": "wv"
+    }
+]
